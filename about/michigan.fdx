@@ -1145,7 +1145,7 @@ The jewel of Michigan...</Text>
       <Text Style="Bold+AllCaps">Ext. Mackinac Bridge - Evening</Text>
     </Paragraph>
     <Paragraph Type="Scene Heading" id="5da96831-1e73-4f5e-baff-daeadd78b157">
-      <SceneProperties Length="2 1/8" Page="10" Title="">
+      <SceneProperties Length="2 2/8" Page="10" Title="">
         <SceneArcBeats>
           <CharacterArcBeat Name="DETECTIVE">
             <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" OutlineLevel="0" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
@@ -1371,7 +1371,10 @@ Nobody.</Text>
       <Text>Every rock has a soft spot, like my son...</Text>
     </Paragraph>
     <Paragraph Type="Action" id="17b1bb41-0e8b-475c-a395-ab4028affb4c">
-      <Text>Liz places the necklace down. Shelby helps her exit.</Text>
+      <Text>Liz places the Petoskey necklace down (now called the “Heirloom”).</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="17b1bb41-0e8b-475c-a395-ab4028affb4c">
+      <Text>Shelby helps the grieving Liz exit.</Text>
     </Paragraph>
     <Paragraph Type="End of Act" id="da1b48dc-a3cf-4bcf-9bdc-ed21a5117b1b">
       <Text>End of Prologue</Text>
@@ -1433,7 +1436,7 @@ Nobody.</Text>
     </Paragraph>
     <Paragraph Type="Action" id="3925c769-fd1f-4662-ba42-4beea7327409">
       <Text Style="AllCaps">Petoskey</Text>
-      <Text> (11, farm boy in a flat hat) crawls out of his tent. He puts on the Petoskey necklace and mittens. He bangs pots and pans.</Text>
+      <Text> (11, farm boy in a flat hat) crawls out of his tent. He puts on the Heirloom and mittens. He bangs pots and pans.</Text>
     </Paragraph>
     <Paragraph Type="Action" id="2905e4bd-218c-4882-9554-3d2df7d38f07">
       <Text Style="AllCaps">Lulu</Text>
@@ -2556,7 +2559,7 @@ All thanks to the dad tax!</Text>
       <Text>You all have seen enough of your mama. I can ask Petey to call.</Text>
     </Paragraph>
     <Paragraph Type="Action" id="5fba4f57-7181-4531-9efd-214cdb848bfb">
-      <Text>Liz covers Petey’s eyes and ears.</Text>
+      <Text>Liz covers Petoskey’s eyes.</Text>
     </Paragraph>
     <Paragraph Type="Character" id="f3e4ba71-45ca-4ed6-8f27-f2f5ec3823a3">
       <Text>LizZIE</Text>
@@ -3761,7 +3764,7 @@ The Twins’ canoe skids by a pine tree.</Text>
       <Text>Lulu hits Petoskey with the paddle which causes the canoe to capsize.</Text>
     </Paragraph>
     <Paragraph Type="Action" id="46934aea-410d-45bf-abc9-84e2edad9fc7">
-      <Text>Underwater, Petoskey loses grip of the shadowy figure as they vanish. He realizes his father’s heirloom necklace is missing from his neck.</Text>
+      <Text>Underwater, Petoskey loses grip of the shadowy figure as they vanish. He realizes the Heirloom is missing from his neck.</Text>
     </Paragraph>
     <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="1.25" RightIndent="7.25" SpaceBefore="12" Spacing="1" StartsNewPage="No" Type="General" id="eb856690-b1a3-4f35-8b5f-8c2819a62116">
       <Text Style="Underline">End of “</Text>
@@ -4121,7 +4124,7 @@ Show me danger and I’ll share it for everyone to reckon</Text>
       <Text Style="Underline+AllCaps"> (Great Sea)</Text>
     </Paragraph>
     <Paragraph Type="Action" id="1f94021f-3f07-428e-b391-c2e4849ab612">
-      <Text>Lulu touches the Petoskey heirloom and pain hits her.</Text>
+      <Text>Lulu touches the Heirloom. Pain strikes her.</Text>
     </Paragraph>
     <Paragraph Type="Action" id="ad473032-4b8f-4192-b3f0-e462bc875080">
       <Text Style="AllCaps">17th-Century French explorers</Text>
@@ -4407,7 +4410,7 @@ Show me danger and I’ll share it for everyone to reckon</Text>
       <Text>, at BANH MI, after the parade. Now let’s get a move on!</Text>
     </Paragraph>
     <Paragraph Type="Scene Heading" id="2b317a2f-acac-442b-b0d3-0eb725b26d30">
-      <SceneProperties Length="2 5/8" Page="43" Title="">
+      <SceneProperties Length="2 6/8" Page="43" Title="">
         <SceneArcBeats>
           <CharacterArcBeat Name="AUDIENCE MEMBER">
             <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" OutlineLevel="0" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
@@ -4554,7 +4557,10 @@ Show me danger and I’ll share it for everyone to reckon</Text>
       <Text>Jacob hands the plaque to Lizzie.</Text>
     </Paragraph>
     <Paragraph Type="Action" id="81668e64-8313-4e66-8f3c-64625e28fa1a">
-      <Text>As Lulu is about to hand over the Heirloom to Petoskey, Colonizer Petey steps into her line of sight. She smashes the Heirloom on the group, splitting the heart in half. Petoskey is enraged like never before.</Text>
+      <Text>In Lulu’s perspective, as she is about to hand over the Heirloom to Petoskey, Colonizer Petey steps into her line of sight. She smashes the Heirloom on the ground, splitting the hearty Petoskey stone in half.</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="81668e64-8313-4e66-8f3c-64625e28fa1a">
+      <Text>In Petoskey’s perspective, he sees his father Petey once more. When Lulu smashes the Heirloom, Petey vanishes. Petoskey is scattered like the Petoskey before him. He is heartbroken like never before.</Text>
     </Paragraph>
     <Paragraph Type="Action" id="20913679-555b-4ed6-bcf2-08703cd8980c">
       <Text>The parade reaches BANH </Text>
@@ -4788,7 +4794,7 @@ kick rocks!</Text>
       <Text>The violence won’t end!</Text>
     </Paragraph>
     <Paragraph Type="Action" id="19ae91c6-4c65-40ff-b9d5-432ee31e52f5">
-      <Text>Lulu is about to lodge a punch at Petoskey. Instead, she throws Petey’s heirloom at him.</Text>
+      <Text>Lulu is about to lodge a punch at Petoskey. Instead, she throws the Heirloom at him.</Text>
     </Paragraph>
     <Paragraph Type="Action" id="0d402df2-0c79-43a8-9afb-c8d41552be01">
       <Text>Petoskey ponders about the Mackinac Bridge.</Text>
@@ -4881,7 +4887,9 @@ Kick rocks!</Text>
       <Text Style="Underline">”</Text>
     </Paragraph>
     <Paragraph Type="End of Act" id="da1b48dc-a3cf-4bcf-9bdc-ed21a5117b1b">
-      <Text>End of ACt I</Text>
+      <Text>End of ACt I
+
+Intermission</Text>
     </Paragraph>
     <Paragraph Label="Scene 1" Type="New Act" id="03254032-ba6b-4137-a15f-5226dbf7d214">
       <Text>Act </Text>
@@ -5928,17 +5936,25 @@ so long as you listen to the bread.</Text>
     <Paragraph Type="Action" id="2a349491-f395-4b3b-b9dc-f9f79a1e09cf">
       <Text>They drive off.</Text>
     </Paragraph>
+    <Paragraph Type="End of Act" id="2038c75d-a5af-485c-9133-bfbb2b404572">
+      <Text>End of Act </Text>
+      <Text AdornmentStyle="-1">II</Text>
+    </Paragraph>
+    <Paragraph Label="Scene 1" Type="New Act" id="03254032-ba6b-4137-a15f-5226dbf7d214">
+      <Text>Act </Text>
+      <Text AdornmentStyle="-1">III</Text>
+    </Paragraph>
     <Paragraph Type="Scene Info" id="bfda984e-c564-4342-b53d-a7ca9637fe52">
-      <Text Style="Bold+Underline+AllCaps">Scene 5</Text>
+      <Text Style="Bold+Underline+AllCaps">Scene 1</Text>
     </Paragraph>
     <Paragraph Type="Scene Heading" id="ff2224c8-4acc-4956-867a-17fd275c56b8">
-      <SceneProperties Length="1/8" Page="58" Title="">
+      <SceneProperties Length="1/8" Page="59" Title="">
         <SceneArcBeats/>
       </SceneProperties>
       <Text Style="Bold+AllCaps">Ext. Elk Rapids - Day</Text>
     </Paragraph>
     <Paragraph Type="Scene Heading" id="9db8ffae-33d8-4f33-9d0f-55621098fec0">
-      <SceneProperties Length="5 1/8" Page="58" Title="">
+      <SceneProperties Length="5" Page="59" Title="">
         <SceneArcBeats>
           <CharacterArcBeat Name="CHERRY">
             <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" OutlineLevel="0" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
@@ -6011,19 +6027,6 @@ so long as you listen to the bread.</Text>
       <Text>[They return to the fair where Wayland is exhibiting data center models with other developers. Petoskey offers the Ford which she scoffs but is interested in. Jasper then offers his restaurant and golf course. The </Text>
       <Text AdornmentStyle="-1">Vandams</Text>
       <Text> return with decades of themed costume while Wayland shows how much “better” AI is.]
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 
@@ -6462,10 +6465,10 @@ so long as you listen to the bread.</Text>
       <Text Style="Underline">”</Text>
     </Paragraph>
     <Paragraph Type="Scene Info" id="bfda984e-c564-4342-b53d-a7ca9637fe52">
-      <Text Style="Bold+Underline+AllCaps">Scene 6</Text>
+      <Text Style="Bold+Underline+AllCaps">Scene 2</Text>
     </Paragraph>
     <Paragraph Type="Scene Heading" id="ff2224c8-4acc-4956-867a-17fd275c56b8">
-      <SceneProperties Length="2 3/8" Page="63" Title="">
+      <SceneProperties Length="2 3/8" Page="64" Title="">
         <SceneArcBeats>
           <CharacterArcBeat Name="AUDIENCE MEMBER">
             <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" OutlineLevel="0" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
@@ -6736,7 +6739,7 @@ so long as you listen to the bread.</Text>
       <Text>Liz and Petoskey wave bye to all.</Text>
     </Paragraph>
     <Paragraph Type="Scene Info" id="bfda984e-c564-4342-b53d-a7ca9637fe52">
-      <Text Style="Bold+Underline+AllCaps">Scene 7</Text>
+      <Text Style="Bold+Underline+AllCaps">Scene 3</Text>
     </Paragraph>
     <Paragraph Type="Scene Heading" id="ff2224c8-4acc-4956-867a-17fd275c56b8">
       <SceneProperties Length="1/8" Page="66" Title="">
@@ -6769,7 +6772,7 @@ so long as you listen to the bread.</Text>
       <Text Style="Underline+AllCaps">”</Text>
     </Paragraph>
     <Paragraph Type="Action" id="124a05bc-4ca1-4408-8b27-15546de56622">
-      <Text>On the foggy bridge is the broken Petoskey necklace.</Text>
+      <Text>On the foggy bridge is the broken Heirloom.</Text>
     </Paragraph>
     <Paragraph Type="Action" id="124a05bc-4ca1-4408-8b27-15546de56622">
       <Text>Liz drives towards the outskirts of the bridge. She motions for Petoskey to stay put. She walks alone on the bridge.</Text>
@@ -6892,13 +6895,13 @@ My soul...
 You are my soul!</Text>
     </Paragraph>
     <Paragraph Type="Action" id="1168109f-e55c-4035-b297-0ebc7623c043">
-      <Text>They share a final dance before he hands his broken Petoskey necklace to her. She joins Petoskey.</Text>
+      <Text>They share a final dance before he hands his broken Heirloom to her. She joins Petoskey.</Text>
     </Paragraph>
     <Paragraph Type="Action" id="241af24e-6a71-488d-994a-f5575ddd68ca">
       <Text>Liz and Petoskey wave as Petey vanishes with the other ghosts once more into the foggy bridge.</Text>
     </Paragraph>
     <Paragraph Type="Action" id="73b241ea-c945-4493-abe7-bc45ac5eed3a">
-      <Text>Liz puts the Petey’s heirloom necklace over Petoskey.</Text>
+      <Text>Liz puts the Heirloom on Petoskey.</Text>
     </Paragraph>
     <Paragraph Type="Action" id="002e9850-f324-45aa-9938-de3311064e4b">
       <Text>They finally cross the bridge.</Text>
@@ -6910,11 +6913,10 @@ You are my soul!</Text>
     </Paragraph>
     <Paragraph Type="End of Act" id="4cf2ff73-d51b-45e2-ba40-17be8bb1c533">
       <Text>End of Act </Text>
-      <Text AdornmentStyle="-1">II</Text>
+      <Text AdornmentStyle="-1">III</Text>
     </Paragraph>
     <Paragraph Label="Scene 1" Type="New Act" id="03254032-ba6b-4137-a15f-5226dbf7d214">
-      <Text>Act </Text>
-      <Text AdornmentStyle="-1">III</Text>
+      <Text>Epilogue</Text>
     </Paragraph>
     <Paragraph Type="Scene Info" id="c4991dc9-c78e-42e1-985d-061b649af3c4">
       <Text Style="Bold+Underline+AllCaps">Scene 1</Text>
@@ -7215,7 +7217,7 @@ Winter in our bones.</Text>
 
   <WindowState Height="635" Left="2" Mode="Maximized" Top="2" Width="649"/>
 
-  <TextState Scaling="90" Selection="35430,35430" ShowInvisibles="No"/>
+  <TextState Scaling="90" Selection="0,0" ShowInvisibles="No"/>
 
   <ElementSettings Type="General">
     <FontSpec AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style=""/>
@@ -7690,7 +7692,7 @@ Winter in our bones.</Text>
     <Revision FullRevision="No" ID="19" Mark="*" Name="2nd Tan Rev. (mm/dd/yy)" PageColor="#FDFDF1F1C7C7" Style=""/>
   </Revisions>
 
-  <SplitState ActivePanel="1" CardsAcross="2" ShowAction="Yes" ShowSceneTitle="Yes" ShowSummary="Yes" SplitMode="None" SplitterPosition="1358">
+  <SplitState ActivePanel="1" CardsAcross="2" ShowAction="Yes" ShowSceneTitle="Yes" ShowSummary="Yes" SplitMode="None" SplitterPosition="2552">
     <ScriptPanel DisplayMode="Page">
       <FontSpec AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Arial" RevisionID="0" Size="9" Style=""/>
     </ScriptPanel>
@@ -8190,7 +8192,7 @@ Winter in our bones.</Text>
 
   <DisplayBoards>
     <DisplayBoard Height="10000" Id="06da4865-abe0-4945-8472-2da2dfadf07d" ScrollOrigin="0,0" Type="Beat" Width="24000" ZoomLevel="100.000"/>
-    <DisplayBoard Height="90" Id="37ad8c99-f42d-43aa-9a6e-bc6cb6bfe318" ScrollOrigin="4404,0" Type="StoryMap" Width="14600" ZoomLevel="730.000">
+    <DisplayBoard Height="90" Id="37ad8c99-f42d-43aa-9a6e-bc6cb6bfe318" ScrollOrigin="4484,0" Type="StoryMap" Width="14600" ZoomLevel="730.000">
       <Lanes>
         <Lane Id="f97fe2a6-a64b-4a18-80a0-847c0b9f730e" Label="Outline 1" Level="7" Type="Outline 1"/>
         <Lane Id="a53ef67b-9d7e-4b26-a603-4ea6fd02981c" Label="Outline 2" Level="5" Type="Outline 2"/>
