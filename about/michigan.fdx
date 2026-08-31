@@ -633,7 +633,7 @@ Make yourself comfy.</Text>
       <Text>Immigrants built the coasts, harbors, country.</Text>
     </Paragraph>
     <Paragraph Type="Action" id="7c3e753b-5b3c-4401-a802-89f89597afd1">
-      <Text>The Michigan communities from the Amish to Jewish, Christians to Muslims, auto workers to farmers, college fans to trade school folks make themselves known.</Text>
+      <Text>The Michigan communities from the Amish to Jewish, Christians to Muslims, auto workers to farmers, college sport fans to trade school artisans make themselves known.</Text>
     </Paragraph>
     <Paragraph Type="Character" id="34644112-8279-434f-9e05-7cb46c24c2fb">
       <Text>MichigaNDERS</Text>
@@ -5047,7 +5047,11 @@ Now the other hand!</Text>
       <Text>Did we forget anything?</Text>
     </Paragraph>
     <Paragraph Type="Action" id="347fbc2c-3913-4288-94e1-2629b906983c">
-      <Text>Petoskey brings out Snoopy.</Text>
+      <Text>Petoskey brings out a Snoopy doll from </Text>
+      <Text Style="Italic">Peanuts</Text>
+      <Text>! Lulu and Petoskey pretend to ride rollercoasters and waterslides. They soon hold up a sign that reads: "President Mark Camille </Text>
+      <Text AdornmentStyle="-1">Jourden</Text>
+      <Text> of Michigan's Adventures: Please stage us!"</Text>
     </Paragraph>
     <Paragraph Type="Character" id="b93fef17-6562-492f-886b-69f788d5ff29">
       <Text>Petoskey</Text>
@@ -5204,7 +5208,7 @@ Hands come in handy!</Text>
       <Text>When did it ever?</Text>
     </Paragraph>
     <Paragraph Type="Scene Heading" id="ff2224c8-4acc-4956-867a-17fd275c56b8">
-      <SceneProperties Length="1/8" Page="50" Title="">
+      <SceneProperties Length="1/8" Page="51" Title="">
         <SceneArcBeats/>
       </SceneProperties>
       <Text Style="Bold+AllCaps">Ext. Elk Lake House - Day</Text>
@@ -5255,10 +5259,6 @@ Hands come in handy!</Text>
     </Paragraph>
     <Paragraph Type="General" id="472e0421-fa1b-422b-a8ef-bf8ea4af3592">
       <Text>
-
-
-
-
 
 
 
@@ -8192,7 +8192,7 @@ Winter in our bones.</Text>
 
   <DisplayBoards>
     <DisplayBoard Height="10000" Id="06da4865-abe0-4945-8472-2da2dfadf07d" ScrollOrigin="0,0" Type="Beat" Width="24000" ZoomLevel="100.000"/>
-    <DisplayBoard Height="90" Id="37ad8c99-f42d-43aa-9a6e-bc6cb6bfe318" ScrollOrigin="4484,0" Type="StoryMap" Width="14600" ZoomLevel="730.000">
+    <DisplayBoard Height="90" Id="37ad8c99-f42d-43aa-9a6e-bc6cb6bfe318" ScrollOrigin="0,0" Type="StoryMap" Width="14600" ZoomLevel="730.000">
       <Lanes>
         <Lane Id="f97fe2a6-a64b-4a18-80a0-847c0b9f730e" Label="Outline 1" Level="7" Type="Outline 1"/>
         <Lane Id="a53ef67b-9d7e-4b26-a603-4ea6fd02981c" Label="Outline 2" Level="5" Type="Outline 2"/>
