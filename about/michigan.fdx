@@ -2815,7 +2815,7 @@ All thanks to the dad tax!</Text>
           <CharacterArcBeat Name="VANDAMS">
             <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" OutlineLevel="0" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
           </CharacterArcBeat>
-          <CharacterArcBeat Name="VANDAMS EXCEPT CHERRY">
+          <CharacterArcBeat Name="VANDAMS W/O CHERRY">
             <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" OutlineLevel="0" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
           </CharacterArcBeat>
           <CharacterArcBeat Name="WAYLAND">
@@ -2887,7 +2887,7 @@ All thanks to the dad tax!</Text>
     </Paragraph>
     <Paragraph Type="Character" id="6e40c95e-3b0d-49c9-b231-84b0295acbd4">
       <Text AdornmentStyle="-1">Vandams</Text>
-      <Text> except Cherry</Text>
+      <Text> w/o Cherry</Text>
     </Paragraph>
     <Paragraph Type="Lyrics" id="19b7eafc-3bb9-46ae-bf21-b7baea6c53a6">
       <Text>It’s free?</Text>
@@ -2906,7 +2906,7 @@ All thanks to the dad tax!</Text>
     </Paragraph>
     <Paragraph Type="Character" id="dab0f89a-8883-4a97-ad85-222af5c1e277">
       <Text AdornmentStyle="-1">VandaMS</Text>
-      <Text> EXCEPT CHERRY</Text>
+      <Text> W/O CHERRY</Text>
     </Paragraph>
     <Paragraph Type="Lyrics" id="fe7700cb-b9b9-4343-a85d-9ae8c4fff899">
       <Text>Really?</Text>
@@ -2919,7 +2919,7 @@ All thanks to the dad tax!</Text>
     </Paragraph>
     <Paragraph Type="Character" id="fa3dbe9d-efb5-44f5-9b8d-a0d9d4b14ef3">
       <Text AdornmentStyle="-1">VandAMS</Text>
-      <Text> eXCEPT CHERRY</Text>
+      <Text> w/o CHERRY</Text>
     </Paragraph>
     <Paragraph Type="Lyrics" id="65c2750b-5547-43ab-b9c5-8ce8e52538df">
       <Text>Let’s cheat!</Text>
@@ -4389,11 +4389,8 @@ Show me danger and I’ll share it for everyone to reckon</Text>
       <Text>You didn’t happen to buy these at a rock store?</Text>
     </Paragraph>
     <Paragraph Type="Scene Heading" id="2b317a2f-acac-442b-b0d3-0eb725b26d30">
-      <SceneProperties Length="3 4/8" Page="42" Title="">
+      <SceneProperties Length="3 3/8" Page="42" Title="">
         <SceneArcBeats>
-          <CharacterArcBeat Name="AUDIENCE MEMBER">
-            <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" OutlineLevel="0" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
-          </CharacterArcBeat>
           <CharacterArcBeat Name="CHERRY">
             <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" OutlineLevel="0" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
           </CharacterArcBeat>
@@ -4406,10 +4403,13 @@ Show me danger and I’ll share it for everyone to reckon</Text>
           <CharacterArcBeat Name="LULU">
             <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" OutlineLevel="0" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
           </CharacterArcBeat>
-          <CharacterArcBeat Name="LULU &amp; PETOSKEY">
+          <CharacterArcBeat Name="PERRY">
             <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" OutlineLevel="0" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
           </CharacterArcBeat>
           <CharacterArcBeat Name="PETEY">
+            <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" OutlineLevel="0" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+          </CharacterArcBeat>
+          <CharacterArcBeat Name="PETEY &amp; PETOSKEY">
             <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" OutlineLevel="0" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
           </CharacterArcBeat>
           <CharacterArcBeat Name="PETOSKEY">
@@ -4418,7 +4418,10 @@ Show me danger and I’ll share it for everyone to reckon</Text>
           <CharacterArcBeat Name="VANDAMS">
             <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" OutlineLevel="0" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
           </CharacterArcBeat>
-          <CharacterArcBeat Name="VANDAMS EXCEPT PETOSKEY">
+          <CharacterArcBeat Name="VANDAMS W/O LIZ &amp; PETOSKEY">
+            <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" OutlineLevel="0" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+          </CharacterArcBeat>
+          <CharacterArcBeat Name="VANDAMS W/O PETOSKEY">
             <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" OutlineLevel="0" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
           </CharacterArcBeat>
         </SceneArcBeats>
@@ -4482,7 +4485,7 @@ Show me danger and I’ll share it for everyone to reckon</Text>
     </Paragraph>
     <Paragraph Type="Lyrics" id="935aab80-3e6e-40ba-ab93-61374ec53e67">
       <Text>Have it your way.
-You fraud.</Text>
+You fraud...</Text>
     </Paragraph>
     <Paragraph Type="Character" id="c70dc14b-86cb-4463-a326-d2abb23536b2">
       <Text>Lulu</Text>
@@ -4490,12 +4493,12 @@ You fraud.</Text>
     <Paragraph Type="Lyrics" id="43a2db6a-65b6-45af-9eda-db39986e6c8c">
       <Text>Let me enjoy the spoils.
 This jealousy really makes my mom’s blood boil.
-Congratulations is all you need to say.
+“Congratulations” is all you need to say.
 Forget rocks for a second and let us enjoy this parade.</Text>
     </Paragraph>
     <Paragraph Type="Character" id="53b2a000-4399-4d96-92de-760bc5ad5d0f">
       <Text AdornmentStyle="-1">Vandams</Text>
-      <Text> except Petoskey</Text>
+      <Text> w/o Petoskey</Text>
     </Paragraph>
     <Paragraph Type="Lyrics" id="d5d91b0b-87db-4382-9fe8-ea5748714f71">
       <Text>It’s broadway!</Text>
@@ -4505,13 +4508,10 @@ Forget rocks for a second and let us enjoy this parade.</Text>
     </Paragraph>
     <Paragraph Type="Character" id="e5cb2e08-d5f4-438b-8bb8-8a6d17063dea">
       <Text AdornmentStyle="-1">Vandams</Text>
-      <Text> except Petoskey</Text>
+      <Text> w/o Petoskey</Text>
     </Paragraph>
     <Paragraph Type="Lyrics" id="4fbc28c1-cb26-4126-9141-6cebc2584934">
-      <Text>Broadway parade
-On harbor Days!
-Broadway Parade
-On Harbor Days!</Text>
+      <Text>Grande Parade On harbor Days!</Text>
     </Paragraph>
     <Paragraph Type="Action" id="81668e64-8313-4e66-8f3c-64625e28fa1a">
       <Text>The </Text>
@@ -4522,118 +4522,52 @@ On Harbor Days!</Text>
       <Text>Jacob</Text>
     </Paragraph>
     <Paragraph Type="Dialogue" id="ff6c26b9-1182-4e0f-a7af-0efb233bce89">
-      <Text>And next up is my family! This year’s costumed theme is Broadway. </Text>
-      <Text Style="Italic">Hmm... I wonder why</Text>
-      <Text>?</Text>
+      <Text>Welcome to the Harbor Days Grande Parade! Thanks for inviting me as your Grand Marshall. Before this, I was on the Addams Family national tour. That's why I'm feeling so Wednesday on a Saturday. But yes, the Grande Parade runs annually from noon to 1PM along River Street, downtown Elk Rapids. Awards will be given out to various categories including Best Float, Best Motorized, Best Non-Motorized, Best Commercial Business, Best Instrumental, and the Most Creative. </Text>
+      <Text Style="Italic">We all know who the winning family's gonna be</Text>
+      <Text>...</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="40588b0b-ee10-49c4-a963-396e6020e334">
+      <Text AdornmentStyle="-1">VandamS</Text>
+    </Paragraph>
+    <Paragraph Type="Lyrics" id="1fe7e8a7-447f-4924-a08d-48db6af33604">
+      <Text>Broadway! Broadway! Broadway! Broadway!
+Nothing shall stand between us and fame!</Text>
     </Paragraph>
     <Paragraph Type="Action" id="00cea8e1-af61-4394-b335-8fa0691856f3">
-      <Text>Jacob points to himself. He goes up to an audience member.</Text>
+      <Text>Jacob gets the Most Creative Award plaque and hands it to Willy.</Text>
     </Paragraph>
-    <Paragraph Type="Character" id="736af72d-0717-49b5-9dc2-9053b93d9b8d">
-      <Text>Jacob</Text>
+    <Paragraph Type="Character" id="9710bc83-27f9-4fee-adda-0e86212a5553">
+      <Text>Lulu</Text>
     </Paragraph>
-    <Paragraph Type="Dialogue" id="cdd3131f-da25-4c18-8b0c-f31cc17999fa">
-      <Text>Which family do you think is better? The </Text>
-      <Text AdornmentStyle="-1">Vandams</Text>
-      <Text> family or the Addams family?</Text>
+    <Paragraph Type="Lyrics" id="9cb1d145-39ff-4466-b134-132c66a0e578">
+      <Text>You could live forever if you gave up being a rock in a hard place.</Text>
     </Paragraph>
-    <Paragraph Type="Action" id="38dd9bd9-2e63-4441-bfea-620837a318ca">
-      <Text Style="Bold">Audience Engagement:</Text>
-      <Text> If an audience member answers: “The </Text>
-      <Text AdornmentStyle="-1">Vandams</Text>
-      <Text> Family,” Jacob responds with: “I was on tour with the Addams Family. Did you even see me?” If a member answers: “The Addams Family,” Jacob responds with: “But the Addams are not even a real family. The </Text>
-      <Text AdornmentStyle="-1">Vandams</Text>
-      <Text> are weird, but real.”</Text>
-    </Paragraph>
-    <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="1.25" RightIndent="7.25" SpaceBefore="12" Spacing="1" StartsNewPage="No" Type="General" id="6ff80c69-0192-41cc-9522-1579b2501fdc">
-      <Text Style="Underline">Example</Text>
-    </Paragraph>
-    <Paragraph Type="Character" id="633e1a47-01d9-4a6a-ba2c-8aa8110cfd96">
-      <Text>Audience Member</Text>
-    </Paragraph>
-    <Paragraph Type="Dialogue" id="d7a74e17-8598-4417-b147-65e4cbc8e592">
-      <Text>The </Text>
-      <Text AdornmentStyle="-1">Vandams</Text>
-      <Text> family!</Text>
-    </Paragraph>
-    <Paragraph Type="Character" id="98561ee7-f341-405d-9574-db5ed5d3baa0">
-      <Text>JacOB</Text>
-    </Paragraph>
-    <Paragraph Type="Dialogue" id="af76b145-f641-4aa7-9cbf-802fb33b41b7">
-      <Text>Oh come on! I was on tour with the Addams Family. Did you even see me?</Text>
-    </Paragraph>
-    <Paragraph Type="Character" id="b702b517-2bc6-432c-813c-a21cfd7910c4">
-      <Text>AUDIENCE MEMBER</Text>
-    </Paragraph>
-    <Paragraph Type="Dialogue" id="0bec5ae2-6692-4ad0-a8bd-f175cc7d4c26">
-      <Text>The Addams Family!</Text>
-    </Paragraph>
-    <Paragraph Type="Character" id="8c96fb4c-0996-4f4b-9c60-0d2b5d778468">
-      <Text>JacoB</Text>
-    </Paragraph>
-    <Paragraph Type="Dialogue" id="dd63caa6-f307-4a2f-ab8c-953684c682bc">
-      <Text>But the Addams are not even a real family. The </Text>
-      <Text AdornmentStyle="-1">Vandams</Text>
-      <Text> are weird, but real.</Text>
-    </Paragraph>
-    <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="1.25" RightIndent="7.25" SpaceBefore="12" Spacing="1" StartsNewPage="No" Type="General" id="0554e1d8-4729-4363-b932-850e42ece429">
-      <Text Style="Underline">End Example</Text>
-    </Paragraph>
-    <Paragraph Type="Action" id="00cea8e1-af61-4394-b335-8fa0691856f3">
-      <Text>Jacob gets out the 2022 Most Creative Award plaque.</Text>
-    </Paragraph>
-    <Paragraph Type="Character" id="3792f62d-eee2-45c6-a39a-8633a7872d64">
-      <Text>JacoB</Text>
-    </Paragraph>
-    <Paragraph Type="Dialogue" id="2d30a9c2-21c4-4e4a-8f94-c07d3fe2498e">
-      <Text>And this year’s winner of the 2022 Harbor Days Most Creative Award is... the </Text>
-      <Text AdornmentStyle="-1">Vandams</Text>
-      <Text>!</Text>
-    </Paragraph>
-    <Paragraph Type="Character" id="a9b419e2-a558-47a6-b89d-1e467788cf7f">
+    <Paragraph Type="Character" id="6a592841-58d2-4179-bdc8-784fbeb8775c">
       <Text AdornmentStyle="-1">VandaMS</Text>
+      <Text> w/o PETOSKEY</Text>
     </Paragraph>
-    <Paragraph Type="Dialogue" id="b7162a96-7d33-4c14-a4bc-d07e02461ff2">
-      <Text AdornmentStyle="-1">Vandams</Text>
-      <Text> do! </Text>
-      <Text AdornmentStyle="-1">Vandams</Text>
-      <Text> don’t... lose!</Text>
+    <Paragraph Type="Lyrics" id="7a2a9d2f-3142-406a-be75-4ee8a754ac20">
+      <Text>A rock in a hard place.</Text>
     </Paragraph>
-    <Paragraph Type="Character" id="0160d6e7-540e-40c6-acf3-0b54414af901">
-      <Text>Lulu &amp; PETOSKEY</Text>
+    <Paragraph Type="Character" id="db46e214-961c-4318-be78-8ba66ff64400">
+      <Text>PetosKEY</Text>
     </Paragraph>
-    <Paragraph Type="Parenthetical" id="f7fc6614-4038-4250-b5b4-4ef03500258b">
-      <Text>(Sarcastically)</Text>
+    <Paragraph Type="Lyrics" id="be06065c-9f95-4325-b1ca-533bef7322b1">
+      <Text>Like my father...</Text>
     </Paragraph>
-    <Paragraph Type="Dialogue" id="310d33a5-01c4-4fb1-9e9d-e91279c8513c">
-      <Text Style="Italic">What a surprise</Text>
-      <Text>?!</Text>
-    </Paragraph>
-    <Paragraph Type="Character" id="1189811c-0bbc-41d6-9e4a-f217c2d3e520">
-      <Text>CherrY</Text>
-    </Paragraph>
-    <Paragraph Type="Dialogue" id="323a51ff-bf46-41ff-bb04-5e94df53908e">
-      <Text>If we ever lost one of these, I’m disowning ya.</Text>
-    </Paragraph>
-    <Paragraph Type="Character" id="76821782-a677-4a80-bc7c-afbd2934b321">
-      <Text>JACOB</Text>
-    </Paragraph>
-    <Paragraph Type="Dialogue" id="62ae328f-67fb-4e27-9b24-2da27804b3b5">
-      <Text>I probably shouldn’t had the award to mom. That’s a wee bit bias. Someone not blood related... Ah Lizzie!</Text>
-    </Paragraph>
-    <Paragraph Type="Action" id="928f0851-0a52-4123-93db-9a52461045be">
-      <Text>Jacob hands the plaque to Lizzie.</Text>
+    <Paragraph Type="Action" id="ba1df5bd-c71c-474c-b5ae-1d2af3d6a8b0">
+      <Text>Lulu considers giving back the Heirloom for Petoskey's sake.</Text>
     </Paragraph>
     <Paragraph Type="Action" id="81668e64-8313-4e66-8f3c-64625e28fa1a">
       <Text>In Lulu’s perspective, as she is about to hand over the Heirloom to Petoskey, Colonizer Petey steps into her line of sight. She smashes the Heirloom on the ground, splitting the hearty Petoskey stone in half.</Text>
     </Paragraph>
     <Paragraph Type="Action" id="81668e64-8313-4e66-8f3c-64625e28fa1a">
-      <Text>In Petoskey’s perspective, he sees his father Petey once more. When Lulu smashes the Heirloom, Petey vanishes. Petoskey is scattered like the Petoskey before him. He is heartbroken like never before.</Text>
+      <Text>In Petoskey’s perspective, he sees his father Petey once more. When Lulu smashes the Heirloom, Petey vanishes. Petoskey is shattered like the Petoskey before him. He is heartbroken like never before.</Text>
     </Paragraph>
     <Paragraph Type="Action" id="20913679-555b-4ed6-bcf2-08703cd8980c">
       <Text>The parade reaches BANH </Text>
       <Text AdornmentStyle="-1">MIchigan</Text>
-      <Text> restaurant. Jasper is handing out food with the Tran family.</Text>
+      <Text> restaurant. Jasper is handing out food to the crowd and audience with the Tran family. </Text>
     </Paragraph>
     <Paragraph Type="Action" id="609b88a3-0e8a-496a-ad56-f9f35b52c2b1">
       <Text>Lulu waves at Jasper.</Text>
@@ -4641,17 +4575,27 @@ On Harbor Days!</Text>
     <Paragraph Type="Character" id="240b2a10-a093-4dee-9322-84b98a490ba5">
       <Text>PetoskEY</Text>
     </Paragraph>
-    <Paragraph Type="Lyrics" id="3777a97d-aa60-439d-b8c6-13c149fd0389">
-      <Text>You’re not taking my godfather too!</Text>
+    <Paragraph Type="Dialogue" id="9c9dde09-7017-4e94-8e8d-eebdf9d6dcdc">
+      <Text>You’re not taking my godfather, too...</Text>
+    </Paragraph>
+    <Paragraph Type="Lyrics" id="8a4829f6-f303-47e8-b851-69cfe48254c6">
+      <Text>See you on...</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="10330fc2-88c2-4782-a7fc-d1b9d045989c">
+      <Text AdornmentStyle="-1">Vandams</Text>
+    </Paragraph>
+    <Paragraph Type="Lyrics" id="65171318-6935-4474-9fc7-dd404928f87c">
+      <Text AdornmentStyle="-1">Fraudway</Text>
+      <Text>!</Text>
     </Paragraph>
     <Paragraph Type="Action" id="4f13053f-ae16-4e79-a033-590a8d7cf7b2">
-      <Text>Petoskey punches Lulu. It is never a good look for Jud Fry to beat up the broken-armed Evan Hansen.</Text>
+      <Text>Petoskey slaps Lulu. It is never a good look for Jud Fry to beat up the broken-armed Evan Hansen.</Text>
     </Paragraph>
     <Paragraph Type="Action" id="5596a099-52f4-4ab1-8ead-59d910bd61be">
       <Text>Liz and Shelby try to break up the fight. Suddenly, a memory washes over them.</Text>
     </Paragraph>
     <Paragraph Type="Action" id="33c058a9-1a33-4194-9779-7dbbb2aa2e30">
-      <Text>Petey comes out of nowhere and hurts Shelby. Liz redirects her attention to them.</Text>
+      <Text>2008 Petey comes out of nowhere and hurts Shelby. Liz redirects her attention to them.</Text>
     </Paragraph>
     <Paragraph Type="Character" id="f609a6e7-8958-48e5-b9ff-f17f648fa539">
       <Text>Petey</Text>
@@ -4663,60 +4607,32 @@ On Harbor Days!</Text>
       <Text>LizZIE</Text>
     </Paragraph>
     <Paragraph Type="Dialogue" id="37d71bf2-74b5-4007-af9b-e13424d0e0a1">
-      <Text AdornmentStyle="-1">Petos</Text>
+      <Text AdornmentStyle="-1">Petosk</Text>
       <Text>- Petey, stop! Get your hands off her!</Text>
     </Paragraph>
-    <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="1.25" RightIndent="7.25" SpaceBefore="12" Spacing="1" StartsNewPage="No" Type="General" id="93137d8a-1f4e-423e-b98f-bc7756ff4ee3">
-      <DualDialogue>
-        <SpellCheckIgnoreLists>
-          <IgnoredRanges/>
-          <IgnoredWords/>
-        </SpellCheckIgnoreLists>
-        <Paragraph Type="Character" id="5df6c189-54c6-4dff-ae3f-9337e5b28d1c">
-          <Text>PETEY</Text>
-        </Paragraph>
-        <Paragraph Type="Dialogue" id="e8d166fc-4b19-4cb2-93e7-e6ff57ae22b8">
-          <Text>She... She...</Text>
-        </Paragraph>
-        <Paragraph Type="Character" id="cb75f207-79e6-4182-98c9-560963ea5eb3">
-          <Text>PetoskEY</Text>
-        </Paragraph>
-        <Paragraph Type="Dialogue" id="49407fe6-36cb-4463-9404-811b206eec96">
-          <Text>She... She...</Text>
-        </Paragraph>
-      </DualDialogue>
+    <Paragraph Type="Character" id="5df6c189-54c6-4dff-ae3f-9337e5b28d1c">
+      <Text>Petey &amp; Petoskey</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="e8d166fc-4b19-4cb2-93e7-e6ff57ae22b8">
+      <Text>She... She...</Text>
     </Paragraph>
     <Paragraph Type="Character" id="36b04f62-8a9e-4748-85a8-e6ea08036dd7">
       <Text>LIZZIE</Text>
     </Paragraph>
     <Paragraph Type="Dialogue" id="b911ceb9-13ba-4620-a7ed-6084c6b96cd5">
-      <Text>Her husband is a loving hardworking man. Even if he’s a transplant. If you cannot accept her love into your family, I cannot accept joining yours ever again.</Text>
+      <Text>Her husband is a loving hardworking man. Even if he’s a transplant. If you cannot love her addition into your family, I no longer want to be an addition to this family.</Text>
     </Paragraph>
-    <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="1.25" RightIndent="7.25" SpaceBefore="12" Spacing="1" StartsNewPage="No" Type="General" id="c6657722-f99b-4c72-a787-7a4a8db5c8c5">
-      <DualDialogue>
-        <SpellCheckIgnoreLists>
-          <IgnoredRanges/>
-          <IgnoredWords/>
-        </SpellCheckIgnoreLists>
-        <Paragraph Type="Character" id="86c9887b-5866-4fc9-82cc-7e99b59b587f">
-          <Text>PETEY</Text>
-        </Paragraph>
-        <Paragraph Type="Dialogue" id="a6957765-ef65-4ec5-89b4-dff48ea688f0">
-          <Text>I... I...</Text>
-        </Paragraph>
-        <Paragraph Type="Character" id="ccb49acb-1814-430d-b7c2-e8858e0528b3">
-          <Text>PetoSKEY</Text>
-        </Paragraph>
-        <Paragraph Type="Dialogue" id="a723569c-28af-4886-80bb-c8c474c60d0f">
-          <Text>I... I...</Text>
-        </Paragraph>
-      </DualDialogue>
+    <Paragraph Type="Action" id="2e75b20a-6caa-4f6d-bdca-e12e05d8d87d">
+      <Text>Liz throws away her wedding ring.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="7d43d4e8-3cf7-4232-a724-c1da6b5d93f0">
+      <Text>Petey &amp; Petoskey</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="ffb0dcc2-721f-45fe-877d-4eefbb3c2e85">
+      <Text>Not you, too...</Text>
     </Paragraph>
     <Paragraph Type="Action" id="8b4518c0-f1c2-47f4-9791-f122cf082b95">
-      <Text>Petey tries to hug or kiss Liz. She dismisses and tends to Shelby.</Text>
-    </Paragraph>
-    <Paragraph Type="Action" id="dbe55579-f193-4192-b5a8-e9338b5262ff">
-      <Text>Petey exits and starts up the car.</Text>
+      <Text>Petey tries to hug or kiss Liz. She dismisses and tends to Shelby. Petey exits and starts up the car.</Text>
     </Paragraph>
     <Paragraph Type="Action" id="d425efaf-34ee-4e60-ba77-b977b57a6375">
       <Text>In reality, Jasper pulls Petoskey away from Lulu.</Text>
@@ -4724,23 +4640,80 @@ On Harbor Days!</Text>
     <Paragraph Type="Action" id="7af3f3cd-0c0f-4471-8edd-e662443d06eb">
       <Text>Jacob runs into the orchestra pit and blows a wind instrument.</Text>
     </Paragraph>
+    <Paragraph Type="Character" id="e48990b7-5f04-4724-a53a-aedd2b1fc23e">
+      <Text>JacoB</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="aac9fe8e-0651-444a-9e36-fc85d34e3968">
+      <Text>This ain't Broadway. It's </Text>
+      <Text AdornmentStyle="-1">Fraudway</Text>
+      <Text>. The parade is over! We do not condone these acts of violence. Huh... On behalf of the Harbor Days committee, I hereby revoke my family’s Most Creative Award.</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="7319ba50-81e7-41ec-950d-74534ba3584a">
+      <Text>A Resident removes the award plaque from Willy’s grasp.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="77bd9863-c730-4605-8101-97d9347bca9b">
+      <Text AdornmentStyle="-1">Vandams</Text>
+      <Text> W/o Liz &amp; Petoskey</Text>
+    </Paragraph>
+    <Paragraph Type="Lyrics" id="d1807d3b-2f3f-4183-b794-1cc72d443a42">
+      <Text>Lost?
+We can’t lose.
+You’ve hurt...</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="166a9fbf-8b7f-47da-af83-3606bc3d72c8">
+      <Text>CherRY</Text>
+    </Paragraph>
+    <Paragraph Type="Lyrics" id="e7afdf15-7d30-4a5c-9eff-656bf56474ca">
+      <Text>Our chances!</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="185c9668-705a-4bd1-9611-8530f958bfb6">
+      <Text>PerrY</Text>
+    </Paragraph>
+    <Paragraph Type="Lyrics" id="bf0aacb9-9802-4e1c-94cf-5f0fd841ea44">
+      <Text Style="Italic+AllCaps">Family</Text>
+      <Text>.</Text>
+    </Paragraph>
+    <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="1.25" RightIndent="7.25" SpaceBefore="12" Spacing="1" StartsNewPage="No" Type="General" id="56180d9c-8685-49fb-ae77-cd95ea039bcb">
+      <DualDialogue>
+        <SpellCheckIgnoreLists>
+          <IgnoredRanges/>
+          <IgnoredWords/>
+        </SpellCheckIgnoreLists>
+        <Paragraph Type="Character" id="bfe5e853-aad0-4c44-9891-de8c6b595efc">
+          <Text>Lulu</Text>
+        </Paragraph>
+        <Paragraph Type="Lyrics" id="b568a11a-209e-4203-a42f-0ce9431c2833">
+          <Text>Petoskey, go drown.</Text>
+        </Paragraph>
+        <Paragraph Type="Character" id="e045e091-d7df-4f7d-8b04-7197b96699e0">
+          <Text AdornmentStyle="-1">Vandams</Text>
+          <Text> W/o Liz &amp; Petoskey</Text>
+        </Paragraph>
+        <Paragraph Type="Lyrics" id="3fbbf90b-116c-47e3-8732-5ea9a7e9af03">
+          <Text>This family will never let this down!</Text>
+        </Paragraph>
+      </DualDialogue>
+    </Paragraph>
+    <Paragraph Type="Character" id="4196ddcc-6375-4bfd-9a03-a296cd8bdedb">
+      <Text>Lulu</Text>
+    </Paragraph>
+    <Paragraph Type="Lyrics" id="e417ff77-7cc0-4988-8be9-75bdd4c0e314">
+      <Text>Please drown!</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="1ee86a4e-56e3-4eec-bd27-e58dbd975e6e">
+      <Text>Jasper helps Lulu get up. He dismisses Petoskey.</Text>
+    </Paragraph>
     <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="1.25" RightIndent="7.25" SpaceBefore="12" Spacing="1" StartsNewPage="No" Type="General" id="eb856690-b1a3-4f35-8b5f-8c2819a62116">
       <Text Style="Underline">End of “</Text>
       <Text AdornmentStyle="-1" Color="#00000000FEFE" Style="Underline+AllCaps">Fraudway</Text>
       <Text Style="Underline">”</Text>
     </Paragraph>
-    <Paragraph Type="Character" id="e48990b7-5f04-4724-a53a-aedd2b1fc23e">
-      <Text>JacoB</Text>
-    </Paragraph>
-    <Paragraph Type="Dialogue" id="42a6f108-57b2-4d1e-81a9-c2c54534b61c">
-      <Text>The parade is over! We do not condone these acts of violence. Huh... On behalf of the Harbor Days committee, I hereby revoke my family’s Most Creative Award.</Text>
-    </Paragraph>
-    <Paragraph Type="Action" id="cc9f2539-2dd7-40a2-9534-53159078ab0e">
-      <Text>A Resident removes the award plague from Willy’s grasp.</Text>
-    </Paragraph>
     <Paragraph Type="Scene Heading" id="2b317a2f-acac-442b-b0d3-0eb725b26d30">
-      <SceneProperties Length="1 7/8" Page="46" Title="">
+      <SceneProperties Length="2" Page="45" Title="">
         <SceneArcBeats>
+          <CharacterArcBeat Name="KEEPERS">
+            <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" OutlineLevel="0" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+          </CharacterArcBeat>
           <CharacterArcBeat Name="LIZZIE">
             <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" OutlineLevel="0" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
           </CharacterArcBeat>
@@ -4864,8 +4837,18 @@ kick rocks!</Text>
     <Paragraph Type="Action" id="19ae91c6-4c65-40ff-b9d5-432ee31e52f5">
       <Text>Lulu is about to lodge a punch at Petoskey. Instead, she throws the Heirloom at him.</Text>
     </Paragraph>
+    <Paragraph Type="Action" id="bfbef740-61fa-4374-9cb4-9d3f0d99f5c4">
+      <Text>The Keepers of Faith, Fire, Trade appear before Petoskey.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="a8900777-ab93-44a6-916f-3243c9eaa3c4">
+      <Text>Keepers</Text>
+    </Paragraph>
+    <Paragraph Type="Lyrics" id="006090b1-160a-4eed-b467-95746919f4b0">
+      <Text>Michilimackinac...
+The Place of the great turtle.</Text>
+    </Paragraph>
     <Paragraph Type="Action" id="0d402df2-0c79-43a8-9afb-c8d41552be01">
-      <Text>Petoskey ponders about the Mackinac Bridge.</Text>
+      <Text>Petoskey ponders about the Mackinac Bridge as the Keepers vanish.</Text>
     </Paragraph>
     <Paragraph Type="Character" id="d34c9acb-b344-41e9-b36e-f5a705f29734">
       <Text>Petoskey</Text>
@@ -7285,7 +7268,7 @@ Winter in our bones.</Text>
 
   <WindowState Height="635" Left="2" Mode="Maximized" Top="2" Width="649"/>
 
-  <TextState Scaling="90" Selection="35198,35198" ShowInvisibles="No"/>
+  <TextState Scaling="90" Selection="39144,39144" ShowInvisibles="No"/>
 
   <ElementSettings Type="General">
     <FontSpec AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style=""/>
@@ -7651,6 +7634,9 @@ Winter in our bones.</Text>
       <Character>Petey, Cherry, Perry, Shelby</Character>
       <Character>Deer</Character>
       <Character>Vandams except Petoskey</Character>
+      <Character>Petey &amp; Petoskey</Character>
+      <Character>Vandams W/o Petoskey</Character>
+      <Character>Keepers</Character>
     </Characters>
     <Extensions>
       <Extension>(OFF)</Extension>
@@ -8191,6 +8177,9 @@ Winter in our bones.</Text>
     <Member Actor="" Character="Petey, Cherry, Perry, Shelby"/>
     <Member Actor="" Character="Deer"/>
     <Member Actor="" Character="Vandams except Petoskey"/>
+    <Member Actor="" Character="Petey &amp; Petoskey"/>
+    <Member Actor="" Character="Vandams W/o Petoskey"/>
+    <Member Actor="" Character="Keepers"/>
   </Cast>
 
   <SceneNumberOptions LeftLocation="0.75" NumberScheme="1A" RightLocation="7.38" ShowNumbersOnLeft="Yes" ShowNumbersOnRight="Yes">
@@ -8216,6 +8205,7 @@ Winter in our bones.</Text>
     <Character Color="#RRRRGGGGBBBB" Name="JACOB" Visible="No"/>
     <Character Color="#RRRRGGGGBBBB" Name="JASPER" Visible="No"/>
     <Character Color="#RRRRGGGGBBBB" Name="JASPER &amp; MICHIGANDERS" Visible="No"/>
+    <Character Color="#RRRRGGGGBBBB" Name="KEEPERS" Visible="No"/>
     <Character Color="#RRRRGGGGBBBB" Name="KIDS" Visible="No"/>
     <Character Color="#RRRRGGGGBBBB" Name="LIBERTY" Visible="No"/>
     <Character Color="#RRRRGGGGBBBB" Name="LIBERTY &amp; BAILEY" Visible="No"/>
@@ -8236,6 +8226,7 @@ Winter in our bones.</Text>
     <Character Color="#RRRRGGGGBBBB" Name="PERRY" Visible="No"/>
     <Character Color="#RRRRGGGGBBBB" Name="PETEY" Visible="No"/>
     <Character Color="#RRRRGGGGBBBB" Name="PETEY &amp; MILLY" Visible="No"/>
+    <Character Color="#RRRRGGGGBBBB" Name="PETEY &amp; PETOSKEY" Visible="No"/>
     <Character Color="#RRRRGGGGBBBB" Name="PETEY, CHERRY, PERRY, SHELBY" Visible="No"/>
     <Character Color="#RRRRGGGGBBBB" Name="PETEY, MILLY, WAYLAND" Visible="No"/>
     <Character Color="#RRRRGGGGBBBB" Name="PETOSKEY" Visible="No"/>
@@ -8243,8 +8234,9 @@ Winter in our bones.</Text>
     <Character Color="#RRRRGGGGBBBB" Name="RESIDENTS" Visible="No"/>
     <Character Color="#RRRRGGGGBBBB" Name="SHELBY" Visible="No"/>
     <Character Color="#RRRRGGGGBBBB" Name="VANDAMS" Visible="No"/>
-    <Character Color="#RRRRGGGGBBBB" Name="VANDAMS EXCEPT CHERRY" Visible="No"/>
-    <Character Color="#RRRRGGGGBBBB" Name="VANDAMS EXCEPT PETOSKEY" Visible="No"/>
+    <Character Color="#RRRRGGGGBBBB" Name="VANDAMS W/O CHERRY" Visible="No"/>
+    <Character Color="#RRRRGGGGBBBB" Name="VANDAMS W/O LIZ &amp; PETOSKEY" Visible="No"/>
+    <Character Color="#RRRRGGGGBBBB" Name="VANDAMS W/O PETOSKEY" Visible="No"/>
     <Character Color="#RRRRGGGGBBBB" Name="WAYLAND" Visible="No"/>
     <Character Color="#RRRRGGGGBBBB" Name="WAYLAND &amp; OLIGARCHS" Visible="No"/>
     <Character Color="#RRRRGGGGBBBB" Name="WILLY" Visible="No"/>
