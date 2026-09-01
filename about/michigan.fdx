@@ -4389,7 +4389,7 @@ Show me danger and I’ll share it for everyone to reckon</Text>
       <Text>You didn’t happen to buy these at a rock store?</Text>
     </Paragraph>
     <Paragraph Type="Scene Heading" id="2b317a2f-acac-442b-b0d3-0eb725b26d30">
-      <SceneProperties Length="3 3/8" Page="42" Title="">
+      <SceneProperties Length="3 4/8" Page="42" Title="">
         <SceneArcBeats>
           <CharacterArcBeat Name="CHERRY">
             <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" OutlineLevel="0" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
@@ -4419,6 +4419,9 @@ Show me danger and I’ll share it for everyone to reckon</Text>
             <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" OutlineLevel="0" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
           </CharacterArcBeat>
           <CharacterArcBeat Name="VANDAMS W/O LIZ &amp; PETOSKEY">
+            <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" OutlineLevel="0" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+          </CharacterArcBeat>
+          <CharacterArcBeat Name="VANDAMS W/O LIZ, PETOSKEY, SHELBY">
             <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" OutlineLevel="0" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
           </CharacterArcBeat>
           <CharacterArcBeat Name="VANDAMS W/O PETOSKEY">
@@ -4591,6 +4594,20 @@ Nothing shall stand between us and fame!</Text>
     <Paragraph Type="Action" id="4f13053f-ae16-4e79-a033-590a8d7cf7b2">
       <Text>Petoskey slaps Lulu. It is never a good look for Jud Fry to beat up the broken-armed Evan Hansen.</Text>
     </Paragraph>
+    <Paragraph Type="Character" id="ba63dd5b-fe85-486a-aaca-0cd098087ee3">
+      <Text AdornmentStyle="-1">VandaMS</Text>
+      <Text> W/O Liz, Petoskey, Shelby</Text>
+    </Paragraph>
+    <Paragraph Type="Lyrics" id="90a22043-0240-4424-9ae5-be4b7cf0da73">
+      <Text>This is </Text>
+      <Text AdornmentStyle="-1">fraudway</Text>
+      <Text>!
+Break Hearts today!
+Sing your heart out on </Text>
+      <Text AdornmentStyle="-1">Fraudway</Text>
+      <Text>,
+where songs got no say!</Text>
+    </Paragraph>
     <Paragraph Type="Action" id="5596a099-52f4-4ab1-8ead-59d910bd61be">
       <Text>Liz and Shelby try to break up the fight. Suddenly, a memory washes over them.</Text>
     </Paragraph>
@@ -4709,7 +4726,7 @@ You’ve hurt...</Text>
       <Text Style="Underline">”</Text>
     </Paragraph>
     <Paragraph Type="Scene Heading" id="2b317a2f-acac-442b-b0d3-0eb725b26d30">
-      <SceneProperties Length="2" Page="45" Title="">
+      <SceneProperties Length="1 7/8" Page="46" Title="">
         <SceneArcBeats>
           <CharacterArcBeat Name="KEEPERS">
             <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" OutlineLevel="0" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
@@ -4723,7 +4740,7 @@ You’ve hurt...</Text>
           <CharacterArcBeat Name="PETOSKEY">
             <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" OutlineLevel="0" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
           </CharacterArcBeat>
-          <CharacterArcBeat Name="VANDAMS">
+          <CharacterArcBeat Name="VANDAMS W/O LULU">
             <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" OutlineLevel="0" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
           </CharacterArcBeat>
         </SceneArcBeats>
@@ -4788,10 +4805,11 @@ kick rocks!</Text>
     <Paragraph Type="Action" id="1d6fe9f2-990c-49b1-b050-526a2f636318">
       <Text>The </Text>
       <Text AdornmentStyle="-1">Vandams</Text>
-      <Text> join in with Liz, except Lulu who remains silent.</Text>
+      <Text> join in with Liz.</Text>
     </Paragraph>
     <Paragraph Type="Character" id="699ea319-7d29-4d78-90f0-2d78bb99b6c9">
       <Text AdornmentStyle="-1">VandAMS</Text>
+      <Text> W/o Lulu</Text>
     </Paragraph>
     <Paragraph Type="Lyrics" id="7353e202-5013-4c2c-b6d0-945746887fdd">
       <Text>Kick rocks!</Text>
@@ -4814,8 +4832,9 @@ kick rocks!</Text>
         <Paragraph Type="Lyrics" id="b91b4b07-791e-4309-b8c9-fc0c36027066">
           <Text>I didn’t start it!</Text>
         </Paragraph>
-        <Paragraph Type="Character" id="a4175151-66f8-449b-ae33-992edff8aae9">
-          <Text AdornmentStyle="-1">VandamS</Text>
+        <Paragraph Type="Character" id="699ea319-7d29-4d78-90f0-2d78bb99b6c9">
+          <Text AdornmentStyle="-1">VandAMS</Text>
+          <Text> W/o Lulu</Text>
         </Paragraph>
         <Paragraph Type="Lyrics" id="5e522958-e3f6-4ee5-b7b2-e5c0657a2cb0">
           <Text>Who started it?</Text>
@@ -4828,8 +4847,8 @@ kick rocks!</Text>
     <Paragraph Type="Lyrics" id="094261e8-2415-42ae-8fc1-06b60cb0914f">
       <Text>Maybe as my husband’s child, you don’t know better...</Text>
     </Paragraph>
-    <Paragraph Type="Character" id="19292c91-1d63-467c-b091-8998152f37cb">
-      <Text AdornmentStyle="-1">VanDAMS</Text>
+    <Paragraph Type="Character" id="699ea319-7d29-4d78-90f0-2d78bb99b6c9">
+      <Text>VandAMS W/o Lulu</Text>
     </Paragraph>
     <Paragraph Type="Lyrics" id="3f1ab34e-105f-469d-aed0-82628ba64068">
       <Text>The violence won’t end!</Text>
@@ -4848,7 +4867,7 @@ kick rocks!</Text>
 The Place of the great turtle.</Text>
     </Paragraph>
     <Paragraph Type="Action" id="0d402df2-0c79-43a8-9afb-c8d41552be01">
-      <Text>Petoskey ponders about the Mackinac Bridge as the Keepers vanish.</Text>
+      <Text>As the Keepers vanish, Petoskey ponders about the Mackinac Bridge.</Text>
     </Paragraph>
     <Paragraph Type="Character" id="d34c9acb-b344-41e9-b36e-f5a705f29734">
       <Text>Petoskey</Text>
@@ -4880,8 +4899,9 @@ Kick rocks!</Text>
           <Text>Kick rocks!
 Why Petoskey?</Text>
         </Paragraph>
-        <Paragraph Type="Character" id="84d75a1a-2bae-4762-a52e-891fe1bc0239">
-          <Text AdornmentStyle="-1">Vandams</Text>
+        <Paragraph Type="Character" id="699ea319-7d29-4d78-90f0-2d78bb99b6c9">
+          <Text AdornmentStyle="-1">VandAMS</Text>
+          <Text> W/o Lulu</Text>
         </Paragraph>
         <Paragraph Type="Lyrics" id="739fdc22-8d0b-4521-9909-c7bc594fe7c0">
           <Text>Kick rocks!
@@ -4889,8 +4909,9 @@ Kick rocks!</Text>
         </Paragraph>
       </DualDialogue>
     </Paragraph>
-    <Paragraph Type="Character" id="ac896e9e-4aa6-4617-aba0-b8e71f4c69f2">
-      <Text AdornmentStyle="-1">Vandams</Text>
+    <Paragraph Type="Character" id="699ea319-7d29-4d78-90f0-2d78bb99b6c9">
+      <Text AdornmentStyle="-1">VandAMS</Text>
+      <Text> W/o Lulu</Text>
     </Paragraph>
     <Paragraph Type="Lyrics" id="27849d03-6967-43a6-a8a0-ae9b4d0dc6e2">
       <Text>Kick rocks!
@@ -4905,8 +4926,9 @@ Kick rocks!</Text>
     <Paragraph Type="Lyrics" id="ac8be4b7-28f9-4dfa-ae90-520a3305f58a">
       <Text>No!</Text>
     </Paragraph>
-    <Paragraph Type="Character" id="8b6e0868-c8ba-4f3c-8b26-c103c59c0f77">
+    <Paragraph Type="Character" id="699ea319-7d29-4d78-90f0-2d78bb99b6c9">
       <Text AdornmentStyle="-1">VandAMS</Text>
+      <Text> W/o Lulu</Text>
     </Paragraph>
     <Paragraph Type="Lyrics" id="cd1ee0fb-de23-484a-b2e3-bce038d24260">
       <Text>Kick...</Text>
@@ -4923,8 +4945,8 @@ Kick rocks!</Text>
     <Paragraph Type="Lyrics" id="5e075636-b6dd-4e11-bbfc-97b545cb99aa">
       <Text>Petoskey!</Text>
     </Paragraph>
-    <Paragraph Type="Character" id="3e19e8d4-0a6e-4fdd-b71c-aa9028e70530">
-      <Text AdornmentStyle="-1">Vandams</Text>
+    <Paragraph Type="Character" id="699ea319-7d29-4d78-90f0-2d78bb99b6c9">
+      <Text>VandAMS W/o Lulu</Text>
     </Paragraph>
     <Paragraph Type="Lyrics" id="62fddbeb-a542-456c-b1f8-2e2b28767eb8">
       <Text>...rocks!</Text>
@@ -7268,7 +7290,7 @@ Winter in our bones.</Text>
 
   <WindowState Height="635" Left="2" Mode="Maximized" Top="2" Width="649"/>
 
-  <TextState Scaling="90" Selection="39144,39144" ShowInvisibles="No"/>
+  <TextState Scaling="90" Selection="0,0" ShowInvisibles="No"/>
 
   <ElementSettings Type="General">
     <FontSpec AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style=""/>
@@ -7637,6 +7659,7 @@ Winter in our bones.</Text>
       <Character>Petey &amp; Petoskey</Character>
       <Character>Vandams W/o Petoskey</Character>
       <Character>Keepers</Character>
+      <Character>VandaMS W/O Liz, Petoskey, Shelby</Character>
     </Characters>
     <Extensions>
       <Extension>(OFF)</Extension>
@@ -7747,7 +7770,7 @@ Winter in our bones.</Text>
     <Revision FullRevision="No" ID="19" Mark="*" Name="2nd Tan Rev. (mm/dd/yy)" PageColor="#FDFDF1F1C7C7" Style=""/>
   </Revisions>
 
-  <SplitState ActivePanel="1" CardsAcross="2" ShowAction="Yes" ShowSceneTitle="Yes" ShowSummary="Yes" SplitMode="None" SplitterPosition="2552">
+  <SplitState ActivePanel="1" CardsAcross="2" ShowAction="Yes" ShowSceneTitle="Yes" ShowSummary="Yes" SplitMode="None" SplitterPosition="1358">
     <ScriptPanel DisplayMode="Page">
       <FontSpec AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Arial" RevisionID="0" Size="9" Style=""/>
     </ScriptPanel>
@@ -8180,6 +8203,7 @@ Winter in our bones.</Text>
     <Member Actor="" Character="Petey &amp; Petoskey"/>
     <Member Actor="" Character="Vandams W/o Petoskey"/>
     <Member Actor="" Character="Keepers"/>
+    <Member Actor="" Character="VandaMS W/O Liz, Petoskey, Shelby"/>
   </Cast>
 
   <SceneNumberOptions LeftLocation="0.75" NumberScheme="1A" RightLocation="7.38" ShowNumbersOnLeft="Yes" ShowNumbersOnRight="Yes">
@@ -8236,6 +8260,8 @@ Winter in our bones.</Text>
     <Character Color="#RRRRGGGGBBBB" Name="VANDAMS" Visible="No"/>
     <Character Color="#RRRRGGGGBBBB" Name="VANDAMS W/O CHERRY" Visible="No"/>
     <Character Color="#RRRRGGGGBBBB" Name="VANDAMS W/O LIZ &amp; PETOSKEY" Visible="No"/>
+    <Character Color="#RRRRGGGGBBBB" Name="VANDAMS W/O LIZ, PETOSKEY, SHELBY" Visible="No"/>
+    <Character Color="#RRRRGGGGBBBB" Name="VANDAMS W/O LULU" Visible="No"/>
     <Character Color="#RRRRGGGGBBBB" Name="VANDAMS W/O PETOSKEY" Visible="No"/>
     <Character Color="#RRRRGGGGBBBB" Name="WAYLAND" Visible="No"/>
     <Character Color="#RRRRGGGGBBBB" Name="WAYLAND &amp; OLIGARCHS" Visible="No"/>
