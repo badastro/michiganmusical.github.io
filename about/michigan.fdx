@@ -555,7 +555,7 @@ Make yourself comfy.</Text>
       <Text>LIZZIE</Text>
     </Paragraph>
     <Paragraph Type="Dialogue" id="466e248c-7777-46b1-91cf-8c4bbacebca2">
-      <Text>Single. Can never hold up a job.</Text>
+      <Text>Single. College dropout. Can never hold a job.</Text>
     </Paragraph>
     <Paragraph Type="Character" id="7a23fb11-aae0-4c30-91d0-e42a0e6bfbdb">
       <Text>PERRY</Text>
@@ -640,7 +640,29 @@ Make yourself comfy.</Text>
     </Paragraph>
     <Paragraph Type="Lyrics" id="04cd8dfa-063d-4aa2-aabc-daabaee913fa">
       <Text AdornmentStyle="-1">Ope</Text>
-      <Text>...</Text>
+      <Text>! </Text>
+      <Text AdornmentStyle="-1">Ope</Text>
+      <Text>! </Text>
+      <Text AdornmentStyle="-1">Ope</Text>
+      <Text>! </Text>
+      <Text AdornmentStyle="-1">Ope</Text>
+      <Text>! </Text>
+      <Text AdornmentStyle="-1">Ope</Text>
+      <Text>! </Text>
+      <Text AdornmentStyle="-1">Ope</Text>
+      <Text>! </Text>
+      <Text AdornmentStyle="-1">Ope</Text>
+      <Text>! </Text>
+      <Text AdornmentStyle="-1">Ope</Text>
+      <Text>! </Text>
+      <Text AdornmentStyle="-1">Ope</Text>
+      <Text>! </Text>
+      <Text AdornmentStyle="-1">Ope</Text>
+      <Text>! </Text>
+      <Text AdornmentStyle="-1">Ope</Text>
+      <Text>! </Text>
+      <Text AdornmentStyle="-1">Ope</Text>
+      <Text>!</Text>
     </Paragraph>
     <Paragraph Type="Character" id="e1d50abb-40d6-44cf-ab2b-a6355421a97e">
       <Text>CherRY, PERRY, SHELBY</Text>
@@ -993,7 +1015,7 @@ The jewel of Michigan...</Text>
       <Text>PeteY</Text>
     </Paragraph>
     <Paragraph Type="Lyrics" id="6fde7836-0aeb-4e3e-bab7-f4bb8c8c71d8">
-      <Text>My name just needs an o and a key-</Text>
+      <Text>My name just needs an “o” and a “key”-</Text>
     </Paragraph>
     <Paragraph Type="Action" id="096c0b8e-fba7-4a6a-a54f-bca54865c75c">
       <Text>Liz kisses Petey. They join the rest of the family, marching in the Harbor Days Grande Parade.</Text>
