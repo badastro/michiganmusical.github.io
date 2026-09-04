@@ -3270,7 +3270,7 @@ Ai does the work for me!</Text>
       <Text>Petoskey</Text>
     </Paragraph>
     <Paragraph Type="Dialogue" id="2d9f23fd-c828-42bd-82cd-8f215526937e">
-      <Text>Well back in 2019, Jacob took us on a little detour... </Text>
+      <Text>Well three years ago, Jacob took us on a little detour... </Text>
     </Paragraph>
     <Paragraph Type="Scene Info" id="c4991dc9-c78e-42e1-985d-061b649af3c4">
       <Text Style="Bold+Underline+AllCaps">Scene 4</Text>
@@ -3282,12 +3282,21 @@ Ai does the work for me!</Text>
       <Text Style="Bold+AllCaps">Ext. Lumberjack park, August 2019 - Day</Text>
     </Paragraph>
     <Paragraph Type="Scene Heading" id="2b317a2f-acac-442b-b0d3-0eb725b26d30">
-      <SceneProperties Length="1 4/8" Page="30" Title="">
+      <SceneProperties Length="1 6/8" Page="30" Title="">
         <SceneArcBeats>
+          <CharacterArcBeat Name="BAILEY">
+            <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" OutlineLevel="0" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+          </CharacterArcBeat>
           <CharacterArcBeat Name="COUSINS">
             <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" OutlineLevel="0" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
           </CharacterArcBeat>
           <CharacterArcBeat Name="JACOB">
+            <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" OutlineLevel="0" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+          </CharacterArcBeat>
+          <CharacterArcBeat Name="LIBERTY">
+            <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" OutlineLevel="0" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+          </CharacterArcBeat>
+          <CharacterArcBeat Name="LIBERTY &amp; BAILEY">
             <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" OutlineLevel="0" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
           </CharacterArcBeat>
           <CharacterArcBeat Name="LULU">
@@ -3312,7 +3321,7 @@ Ai does the work for me!</Text>
       <Text>JacoB</Text>
     </Paragraph>
     <Paragraph Type="Dialogue" id="a9e9f9b0-a643-4d7b-b350-6da032e6b9f5">
-      <Text>You all are not supposed to be here, but here we are now. All thanks to...</Text>
+      <Text>You all are not supposed to be here, but here we are now. All thanks to?</Text>
     </Paragraph>
     <Paragraph Type="Character" id="25f980c6-b95a-4180-bc37-bb1d422719a9">
       <Text>Cousins</Text>
@@ -3343,15 +3352,40 @@ Ai does the work for me!</Text>
       <Text AdornmentStyle="-1">shhhhh</Text>
       <Text>. Tell your parents and ya dead meat.</Text>
     </Paragraph>
+    <Paragraph Type="Character" id="6d2756bb-8ddc-4f9c-a166-535429a5a7b1">
+      <Text>LibERTY &amp; BAILEY</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="b9c7288b-7ab2-4945-9238-b1e76f1c2bdb">
+      <Text>It’s not the rapids that’ll kill you.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="c872966d-b1e6-49f7-a81c-e03b87d8ed6e">
+      <Text>Bailey</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="76c7a219-2361-438c-b37c-40cd9bfbc09b">
+      <Text>It’s the pine!</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="95a02ddc-9bf1-42cf-a40a-1ea400c2f758">
+      <Text>LiberTY</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="180fea9c-f6d4-4119-bc06-5fdbce633ebd">
+      <Text>Or the sand!</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="4954cc4e-1b1a-49f8-91e8-f69343702d30">
+      <Text>Jacob</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="725adab6-49b8-4161-89b6-b47fa9e42137">
+      <Text>You two will be death of me...</Text>
+    </Paragraph>
     <Paragraph Type="Dialogue" id="f86b3367-4237-48cd-80aa-cd4a6b7c8fe4">
       <Text>
-Each canoe needs two rowers. I’ll pair you all by ages. Lulu, Petoskey, you’re both ten. Liberty, Bailey-</Text>
+</Text>      <Text AdornmentStyle="-1">Anywho</Text>
+      <Text>, each canoe needs two rowers. I’ll pair you all by ages. Liberty, Bailey, no clue how old y’all are. Lulu, Petoskey, you’re both ten-</Text>
     </Paragraph>
     <Paragraph Type="Action" id="87467266-4f79-4646-ba59-f259961c656e">
       <Text>Jacob pairs up each cousins.</Text>
     </Paragraph>
     <Paragraph Type="Action" id="a0080286-eb8a-4b24-8085-c20ad3be0e1a">
-      <Text>Lulu sticks her tongue out at Petoskey in a disgusted manner.</Text>
+      <Text>Lulu mockingly sticks her tongue out at Petoskey.</Text>
     </Paragraph>
     <Paragraph Type="Action" id="8b83fb23-ebd0-4678-a2d9-96b32bd79ead">
       <Text>Each team carry in their canoe.</Text>
@@ -3433,7 +3467,7 @@ Each canoe needs two rowers. I’ll pair you all by ages. Lulu, Petoskey, you’
       <Text Style="Bold+Underline+AllCaps">Scene 5</Text>
     </Paragraph>
     <Paragraph Type="Scene Heading" id="294eb061-a2b6-4248-854f-106f0e51c061">
-      <SceneProperties Length="7/8" Page="32" Title="">
+      <SceneProperties Length="2 1/8" Page="32" Title="">
         <SceneArcBeats>
           <CharacterArcBeat Name="BAILEY">
             <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" OutlineLevel="0" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
@@ -3487,108 +3521,8 @@ Each canoe needs two rowers. I’ll pair you all by ages. Lulu, Petoskey, you’
     <Paragraph Type="Dialogue" id="5c026ef9-d82e-47f9-9054-ade838bfaf92">
       <Text>Woah! That’s messed up, war-crimes boy!</Text>
     </Paragraph>
-    <Paragraph Type="Character" id="6d2756bb-8ddc-4f9c-a166-535429a5a7b1">
-      <Text>LibERTY &amp; BAILEY</Text>
-    </Paragraph>
-    <Paragraph Type="Dialogue" id="b9c7288b-7ab2-4945-9238-b1e76f1c2bdb">
-      <Text>It’s not the rapids that’ll kill you.</Text>
-    </Paragraph>
-    <Paragraph Type="Character" id="c872966d-b1e6-49f7-a81c-e03b87d8ed6e">
-      <Text>Bailey</Text>
-    </Paragraph>
-    <Paragraph Type="Dialogue" id="76c7a219-2361-438c-b37c-40cd9bfbc09b">
-      <Text>It’s the pine!</Text>
-    </Paragraph>
-    <Paragraph Type="Character" id="95a02ddc-9bf1-42cf-a40a-1ea400c2f758">
-      <Text>LiberTY</Text>
-    </Paragraph>
-    <Paragraph Type="Dialogue" id="180fea9c-f6d4-4119-bc06-5fdbce633ebd">
-      <Text>Or the sand!</Text>
-    </Paragraph>
-    <Paragraph Type="Character" id="4954cc4e-1b1a-49f8-91e8-f69343702d30">
-      <Text>Jacob</Text>
-    </Paragraph>
-    <Paragraph Type="Dialogue" id="49348584-863e-444e-94d2-5582a7b403db">
-      <Text>Okay... Then we should be fine.</Text>
-    </Paragraph>
-    <Paragraph Type="Action" id="baeb311c-0ab1-487d-bb09-9dbfd8fc0b1e">
-      <Text>
-
-
-
-
-
-
-
-</Text>    </Paragraph>
-    <Paragraph Type="Scene Heading" id="2b317a2f-acac-442b-b0d3-0eb725b26d30">
-      <SceneProperties Length="3" Page="33" Title="">
-        <SceneArcBeats>
-          <CharacterArcBeat Name="BAILEY">
-            <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" OutlineLevel="0" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
-          </CharacterArcBeat>
-          <CharacterArcBeat Name="JACOB">
-            <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" OutlineLevel="0" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
-          </CharacterArcBeat>
-          <CharacterArcBeat Name="LIBERTY">
-            <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" OutlineLevel="0" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
-          </CharacterArcBeat>
-          <CharacterArcBeat Name="LIBERTY &amp; BAILEY">
-            <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" OutlineLevel="0" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
-          </CharacterArcBeat>
-          <CharacterArcBeat Name="LULU">
-            <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" OutlineLevel="0" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
-          </CharacterArcBeat>
-          <CharacterArcBeat Name="PETEY">
-            <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" OutlineLevel="0" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
-          </CharacterArcBeat>
-          <CharacterArcBeat Name="PETOSKEY">
-            <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" OutlineLevel="0" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
-          </CharacterArcBeat>
-        </SceneArcBeats>
-      </SceneProperties>
-      <Text Style="Underline+AllCaps">9. “</Text>
-      <Text Color="#00000000FEFE" Style="Underline+AllCaps">Fish for My Dad</Text>
-      <Text Style="Underline+AllCaps">”</Text>
-    </Paragraph>
-    <Paragraph Type="Action" id="baeb311c-0ab1-487d-bb09-9dbfd8fc0b1e">
-      <Text>[This is Petoskey’s “I Want” song. He simply wants to have a real father-figure.]
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-The Twins’ canoe skids by a pine tree.</Text>
+    <Paragraph Type="Action" id="03dafcb3-9808-415e-9c51-cf38494967fe">
+      <Text>The group brushes past the rapids easily. A pine tree overhead brushes against Bailey.</Text>
     </Paragraph>
     <Paragraph Type="Character" id="dbedb527-296f-4f54-88c3-df967f0dce12">
       <Text>Bailey</Text>
@@ -3663,19 +3597,19 @@ The Twins’ canoe skids by a pine tree.</Text>
       <Text>LibERTY &amp; BAILEY</Text>
     </Paragraph>
     <Paragraph Type="Dialogue" id="b9c7288b-7ab2-4945-9238-b1e76f1c2bdb">
-      <Text>It’s not the rapids that’ll kill you.</Text>
+      <Text Style="Italic">It’s not the rapids that’ll kill you.</Text>
     </Paragraph>
     <Paragraph Type="Character" id="c872966d-b1e6-49f7-a81c-e03b87d8ed6e">
       <Text>Bailey</Text>
     </Paragraph>
     <Paragraph Type="Dialogue" id="76c7a219-2361-438c-b37c-40cd9bfbc09b">
-      <Text>It’s the pine!</Text>
+      <Text Style="Italic">It’s the pine!</Text>
     </Paragraph>
     <Paragraph Type="Character" id="95a02ddc-9bf1-42cf-a40a-1ea400c2f758">
       <Text>LiberTY</Text>
     </Paragraph>
     <Paragraph Type="Dialogue" id="6f66a709-d087-4e9b-8f9b-2852d137133a">
-      <Text>Or the sand!</Text>
+      <Text Style="Italic">Or the sand!</Text>
     </Paragraph>
     <Paragraph Type="Character" id="8e199e82-db46-4136-9849-877d5a681c06">
       <Text>Jacob</Text>
@@ -3725,7 +3659,7 @@ The Twins’ canoe skids by a pine tree.</Text>
       <Text>We’re still from Hell. Thanks for making sure we’re fine. Please accept these as tokens of our appreciation.</Text>
     </Paragraph>
     <Paragraph Type="Action" id="f905bc58-31c4-476d-9e7b-2651a78397df">
-      <Text>The Twins pull out poison ivy bouquets into Jacob’s face.</Text>
+      <Text>The Twins hold up poison ivy bouquets to Jacob’s face.</Text>
     </Paragraph>
     <Paragraph Type="Character" id="9d18371f-bdf0-447d-8786-89f60d1e9fdb">
       <Text>LiberTY &amp; BAILEY</Text>
@@ -3736,48 +3670,383 @@ The Twins’ canoe skids by a pine tree.</Text>
     <Paragraph Type="Character" id="1ace5d7e-63e2-4cba-98a5-6566edf8c575">
       <Text>Jacob</Text>
     </Paragraph>
-    <Paragraph Type="Dialogue" id="8a88f841-9201-4027-b8af-364ce4ccd757">
+    <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="1.75" RightIndent="6.38" SpaceBefore="12" Spacing="1" StartsNewPage="No" Type="Dialogue" id="8a88f841-9201-4027-b8af-364ce4ccd757">
       <Text>Oh </Text>
       <Text AdornmentStyle="-1">Goddd</Text>
       <Text>!!!</Text>
     </Paragraph>
+    <Paragraph Type="Action" id="824be721-5ea1-451f-92ea-446a68b3d534">
+      <Text>Jacob itches his face to no ends. He runs off as the Twins and other Cousins follow him out.</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="0929a578-7d9a-458e-928d-e892b09df443">
+      <Text>Lulu and Petoskey separate from the group.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="af7d9e08-d3cc-4f34-94e2-4ea932fad1c9">
+      <Text>Lulu</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="60ffe684-23b1-403c-968e-9ebc1869d1e6">
+      <Text>There is fishiness afoot.</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="2005c999-bd70-4f69-ac76-dbaeb710dfdb">
+      <Text>A parent or a couple with their child or children walk along the river with their fishing gears.</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="11610f93-ac28-4bb8-aa53-771669533c67">
+      <Text>Petoskey looks longingly at them.</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="e3a948be-16f5-4fef-907d-e0397779d585">
+      <Text>Fishes swim by in the river.</Text>
+    </Paragraph>
+    <Paragraph Type="Scene Heading" id="2b317a2f-acac-442b-b0d3-0eb725b26d30">
+      <SceneProperties Length="2 4/8" Page="34" Title="">
+        <SceneArcBeats>
+          <CharacterArcBeat Name="BASS">
+            <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" OutlineLevel="0" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+          </CharacterArcBeat>
+          <CharacterArcBeat Name="FISHES">
+            <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" OutlineLevel="0" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+          </CharacterArcBeat>
+          <CharacterArcBeat Name="LULU">
+            <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" OutlineLevel="0" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+          </CharacterArcBeat>
+          <CharacterArcBeat Name="LULU &amp; COUSINS">
+            <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" OutlineLevel="0" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+          </CharacterArcBeat>
+          <CharacterArcBeat Name="PETEY">
+            <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" OutlineLevel="0" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+          </CharacterArcBeat>
+          <CharacterArcBeat Name="PETOSKEY">
+            <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" OutlineLevel="0" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+          </CharacterArcBeat>
+        </SceneArcBeats>
+      </SceneProperties>
+      <Text Style="Underline+AllCaps">9. “</Text>
+      <Text Color="#00000000FEFE" Style="Underline+AllCaps">Fish for Mom and Dad</Text>
+      <Text Style="Underline+AllCaps">”</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="dbedb527-296f-4f54-88c3-df967f0dce12">
+      <Text>Lulu</Text>
+    </Paragraph>
+    <Paragraph Type="Lyrics" id="e4c5a491-ee13-4370-a59f-7339baf9715e">
+      <Text>If you can catch...</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="22461d7a-ca17-4584-ba7c-b74f7569567c">
+      <Text>PETOSKEY</Text>
+    </Paragraph>
+    <Paragraph Type="Lyrics" id="4ae24c8c-b146-47d3-9085-097278d22d28">
+      <Text>And release...</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="1e843737-b63b-40a7-813d-e2c0fa4396c7">
+      <Text>Lulu</Text>
+    </Paragraph>
+    <Paragraph Type="Lyrics" id="5a57609e-be6f-4d80-b71c-02ab81b10399">
+      <Text>Anything...</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="9826c163-7ebb-4c6a-8730-167d1aa30fb1">
+      <Text>PetoSKEY</Text>
+    </Paragraph>
+    <Paragraph Type="Lyrics" id="72c3d66d-abdb-4708-83f2-6454456a27b9">
+      <Text>In the world?</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="09f50404-e369-4a1a-b82a-af737d2d1a99">
+      <Text>Lulu grabs a fishing hook from out of nowhere and holds it up to Petoskey.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="aa111ac3-bdf6-4736-bad0-988874e3906d">
+      <Text>Lulu</Text>
+    </Paragraph>
+    <Paragraph Type="Lyrics" id="f2efd637-40f9-4387-afc4-cd69872e49ee">
+      <Text>I’m gonna hook your mouth if you keep interrupting me.
+What would they be?</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="dbe80ed8-97d6-49bc-a8d8-15f6c5fef666">
+      <Text>PetoSKEY</Text>
+    </Paragraph>
+    <Paragraph Type="Lyrics" id="e5570bec-c623-4da3-87bd-0e3ba93951a7">
+      <Text>Who could they be?</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="406adc83-7971-4e28-9cc5-1a2a9fd98647">
+      <Text>Lulu grabs a Bass from the river.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="445d8db3-bae3-4075-b2b6-9448805f5f52">
+      <Text>Lulu</Text>
+    </Paragraph>
+    <Paragraph Type="Lyrics" id="22dba51e-9911-4001-8531-bcf4c4da6aa2">
+      <Text>Are you fishing for the answer?</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="adcb91e5-76c4-47dd-8119-bc6349502bf8">
+      <Text>Bass</Text>
+    </Paragraph>
+    <Paragraph Type="Lyrics" id="3d9e634c-8eae-4913-8dc3-66675227b79e">
+      <Text>Let’s fish for an answer.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="fb594dec-4456-45d4-adb5-0e927c242ba3">
+      <Text>Lulu</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="ca8e4a83-620c-43de-8091-cd3ada86a702">
+      <Text>Dang! This fish has range!</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="fbb12080-22f1-42ab-a43f-4955ade568a6">
+      <Text>PetOSKEY</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="a15bb7d9-36c0-4a28-b702-2582fa7dc05a">
+      <Text>Drop the bass!</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="2146d76b-0f4f-4ad4-aa9a-89c0af4f2de2">
+      <Text>Lulu drops the Bass. The fishes leap out and lay down the beat on the surface tension of the river.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="a4f7ef0d-ae6f-4b21-89a5-9f7e70c30734">
+      <Text>Fishes</Text>
+    </Paragraph>
+    <Paragraph Type="Lyrics" id="5136eeb6-9350-4526-86ef-6a67f08a98f7">
+      <Text>I wanna go camping!
+I wanna go hunting!
+I wanna go fishing!
+You need a camp buddy.
+You need a hunting mentor.</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="6599d4af-adcf-4a47-875c-dc25285ff604">
+      <Text>Lulu tunes her banjo.</Text>
+    </Paragraph>
     <Paragraph Type="Action" id="a08fc6d9-c482-4d78-b953-8a4617a13947">
-      <Text>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-</Text>    </Paragraph>
-    <Paragraph Type="Action" id="1dd3b76e-b8ce-4b2e-9f25-166ed8e4e339">
-      <Text>In another canoe, Liz at the bow and a shadowy figure at the stern row by.</Text>
+      <Text>2003 Liz and Petey canoe besides 2019 Lulu and Petoskey. Liz is the bow while Petey is the stern.</Text>
+    </Paragraph>
+    <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="1.25" RightIndent="7.25" SpaceBefore="12" Spacing="1" StartsNewPage="No" Type="General" id="86d5ff68-1cf6-4060-b45e-e8542fbc4ea9">
+      <DualDialogue>
+        <SpellCheckIgnoreLists>
+          <IgnoredRanges/>
+          <IgnoredWords/>
+        </SpellCheckIgnoreLists>
+        <Paragraph Type="Character" id="356e6f3a-1e18-49a1-8028-3f55a0d665b7">
+          <Text>Fishes</Text>
+        </Paragraph>
+        <Paragraph Type="Lyrics" id="0ce1c628-570e-4df4-ad05-9032e7947bd9">
+          <Text>You need to catch...
+and release...</Text>
+        </Paragraph>
+        <Paragraph Type="Lyrics" id="0ce1c628-570e-4df4-ad05-9032e7947bd9">
+          <Text>You need to catch...
+and release...</Text>
+        </Paragraph>
+        <Paragraph Type="Lyrics" id="0ce1c628-570e-4df4-ad05-9032e7947bd9">
+          <Text>You need to catch...
+and release...</Text>
+        </Paragraph>
+        <Paragraph Type="Character" id="e3de141f-efc6-4f7f-8c6f-8a24306dd284">
+          <Text>PetoskEY</Text>
+        </Paragraph>
+        <Paragraph Type="Lyrics" id="26af04e0-3a94-4df8-b7e9-623c12e185e4">
+          <Text>My father’s soul.
+My mother’s woes.
+Mama being carefree.
+Papa being witty.
+Mom as a newly wed.
+Dad from his deathbed.</Text>
+        </Paragraph>
+      </DualDialogue>
+    </Paragraph>
+    <Paragraph Type="Action" id="a08fc6d9-c482-4d78-b953-8a4617a13947">
+      <Text>Lulu and the Fishes pause, looking surprised.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="bcfadf14-aebf-4031-9afb-3eff243b41eb">
+      <Text>PetoSKEY</Text>
+    </Paragraph>
+    <Paragraph Type="Lyrics" id="465f9121-6adc-44e1-9243-f1f62ac5ba9c">
+      <Text>I said what I said.</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="f25e5b4c-b392-46e4-836c-2d3aa188983b">
+      <Text>The rest of the Cousins catch up to Lulu and Petoskey. They perform a fatherly and woodcraft dance.</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="7dba0429-d53a-4ee2-90a8-a795f850a361">
+      <Text>Petoskey gets his fishing pole and extends it to Petey’s canoe.</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="1a8f73e0-830b-4320-a9f1-0e24eadf8406">
+      <Text>Petey accepts Petoskey’s fishing pole and reels himself in.</Text>
+    </Paragraph>
+    <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="1.25" RightIndent="7.25" SpaceBefore="12" Spacing="1" StartsNewPage="No" Type="General" id="08c4a246-7a8b-460a-a23d-a58e56c8afaf">
+      <DualDialogue>
+        <SpellCheckIgnoreLists>
+          <IgnoredRanges/>
+          <IgnoredWords/>
+        </SpellCheckIgnoreLists>
+        <Paragraph Type="Character" id="4777a246-e0c4-4226-ab54-a7f5df4f660a">
+          <Text>Lulu &amp; Cousins</Text>
+        </Paragraph>
+        <Paragraph Type="Lyrics" id="55d70a76-7cd9-4e1e-bc1d-54cf30c49466">
+          <Text>You wanna go camping?</Text>
+        </Paragraph>
+        <Paragraph Type="Character" id="f2ca0cb7-527c-400a-8a0c-6361d5ac9eb8">
+          <Text>Fishes</Text>
+        </Paragraph>
+        <Paragraph Type="Lyrics" id="9598d061-3092-482f-932e-e4f1410c4246">
+          <Text>I wanna go camping!</Text>
+        </Paragraph>
+      </DualDialogue>
+    </Paragraph>
+    <Paragraph Type="Character" id="422cfe0f-bcab-413b-902f-9e11f27b783d">
+      <Text>PetoSKEY</Text>
+    </Paragraph>
+    <Paragraph Type="Lyrics" id="b6584896-1325-4272-bd9f-48039598ca13">
+      <Text>With my dad!</Text>
+    </Paragraph>
+    <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="1.25" RightIndent="7.25" SpaceBefore="12" Spacing="1" StartsNewPage="No" Type="General" id="01a55328-0e9d-4042-8ddd-4904456eef85">
+      <DualDialogue>
+        <SpellCheckIgnoreLists>
+          <IgnoredRanges/>
+          <IgnoredWords/>
+        </SpellCheckIgnoreLists>
+        <Paragraph Type="Character" id="11de4349-ef33-470c-a23f-9439029db076">
+          <Text>Lulu &amp; COUSINS</Text>
+        </Paragraph>
+        <Paragraph Type="Lyrics" id="55d70a76-7cd9-4e1e-bc1d-54cf30c49466">
+          <Text>you wanna go hunting?</Text>
+        </Paragraph>
+        <Paragraph Type="Character" id="47f00a3a-a1c4-4a23-b7af-fb4db20e1ae9">
+          <Text>FishES</Text>
+        </Paragraph>
+        <Paragraph Type="Lyrics" id="50a6106c-4f29-4d3f-8701-309346c37605">
+          <Text>I wanna go hunting!</Text>
+        </Paragraph>
+      </DualDialogue>
+    </Paragraph>
+    <Paragraph Type="Character" id="dd6c2c84-c534-47e8-8eaf-1e2d43fda0fa">
+      <Text>PetoSKEY</Text>
+    </Paragraph>
+    <Paragraph Type="Lyrics" id="e362d383-c96e-4028-9bc4-37ebd75a01c1">
+      <Text>With my dad!</Text>
+    </Paragraph>
+    <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="1.25" RightIndent="7.25" SpaceBefore="12" Spacing="1" StartsNewPage="No" Type="General" id="9ae3169e-82d7-479c-a96b-bb236508e75f">
+      <DualDialogue>
+        <SpellCheckIgnoreLists>
+          <IgnoredRanges/>
+          <IgnoredWords/>
+        </SpellCheckIgnoreLists>
+        <Paragraph Type="Character" id="ec510953-8e3d-4ea9-8275-b1d022b990b3">
+          <Text>Lulu &amp; COUSINS</Text>
+        </Paragraph>
+        <Paragraph Type="Lyrics" id="55d70a76-7cd9-4e1e-bc1d-54cf30c49466">
+          <Text>You wanna go fishing?</Text>
+        </Paragraph>
+        <Paragraph Type="Character" id="9e9d84ee-8ee4-461b-8391-89fc92c1d381">
+          <Text>FishES</Text>
+        </Paragraph>
+        <Paragraph Type="Lyrics" id="9c303f9d-6ed4-4643-8a14-c63ed76dfcf7">
+          <Text>I wanna go fishing!</Text>
+        </Paragraph>
+      </DualDialogue>
+    </Paragraph>
+    <Paragraph Type="Character" id="209a51a5-1189-4af7-bfd5-6fffe8f77709">
+      <Text>PetoSKEY</Text>
+    </Paragraph>
+    <Paragraph Type="Lyrics" id="14537498-ce19-4776-8f6e-018f5e739e5a">
+      <Text>With my dad!</Text>
+    </Paragraph>
+    <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="1.25" RightIndent="7.25" SpaceBefore="12" Spacing="1" StartsNewPage="No" Type="General" id="241d0811-8d61-4c92-9408-b580d47788b4">
+      <DualDialogue>
+        <SpellCheckIgnoreLists>
+          <IgnoredRanges/>
+          <IgnoredWords/>
+        </SpellCheckIgnoreLists>
+        <Paragraph Type="Character" id="363ab091-72a6-4966-aac2-eb4b4cd5e5e8">
+          <Text>Lulu &amp; COUSINS</Text>
+        </Paragraph>
+        <Paragraph Type="Lyrics" id="55d70a76-7cd9-4e1e-bc1d-54cf30c49466">
+          <Text>I’ll be your camp buddy!</Text>
+        </Paragraph>
+        <Paragraph Type="Character" id="e81ad8f6-3b30-4999-b5fa-353d847cdea1">
+          <Text>Fishes</Text>
+        </Paragraph>
+        <Paragraph Type="Lyrics" id="c20aad10-7c8c-405d-8241-cbf7639a9a85">
+          <Text>You need a camp buddy.</Text>
+        </Paragraph>
+      </DualDialogue>
+    </Paragraph>
+    <Paragraph Type="Character" id="3942a876-2d15-4c3a-ae67-a34456976ef6">
+      <Text>PetoSKEY</Text>
+    </Paragraph>
+    <Paragraph Type="Lyrics" id="a9825c48-ef50-42b2-8ab8-ecac42b2b949">
+      <Text>All I need is my dad.</Text>
+    </Paragraph>
+    <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="1.25" RightIndent="7.25" SpaceBefore="12" Spacing="1" StartsNewPage="No" Type="General" id="6d6ab61f-ee0c-4b68-88fb-81d25e68e65d">
+      <DualDialogue>
+        <SpellCheckIgnoreLists>
+          <IgnoredRanges/>
+          <IgnoredWords/>
+        </SpellCheckIgnoreLists>
+        <Paragraph Type="Character" id="220f1b18-d40b-4d2c-907e-b9d40c6f0b36">
+          <Text>Lulu &amp; COUSINS</Text>
+        </Paragraph>
+        <Paragraph Type="Lyrics" id="55d70a76-7cd9-4e1e-bc1d-54cf30c49466">
+          <Text>I’ll try hunting, I guess.</Text>
+        </Paragraph>
+        <Paragraph Type="Character" id="9a96f40b-98d6-44ac-8568-cf09d35be4c2">
+          <Text>Fishes</Text>
+        </Paragraph>
+        <Paragraph Type="Lyrics" id="81a8e66a-8d26-4baa-85ac-3dff0439d919">
+          <Text>You need a hunting mentor.</Text>
+        </Paragraph>
+      </DualDialogue>
+    </Paragraph>
+    <Paragraph Type="Character" id="37b7c4b7-b30c-4da7-bef6-8ecb7c7bc19e">
+      <Text>Petoskey</Text>
+    </Paragraph>
+    <Paragraph Type="Lyrics" id="b30c3075-7e3a-4dbb-8d1b-6516a352a173">
+      <Text>All I want is a dad.</Text>
+    </Paragraph>
+    <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="1.25" RightIndent="7.25" SpaceBefore="12" Spacing="1" StartsNewPage="No" Type="General" id="4b529b82-9d4f-46b6-908f-65e497b0d80b">
+      <DualDialogue>
+        <SpellCheckIgnoreLists>
+          <IgnoredRanges/>
+          <IgnoredWords/>
+        </SpellCheckIgnoreLists>
+        <Paragraph Type="Character" id="a334e525-ff1c-42d2-a659-5c543cefc92a">
+          <Text>Lulu &amp; COUSINS</Text>
+        </Paragraph>
+        <Paragraph Type="Lyrics" id="81a8e66a-8d26-4baa-85ac-3dff0439d919">
+          <Text>There is a catch...</Text>
+        </Paragraph>
+        <Paragraph Type="Character" id="a4f7ef0d-ae6f-4b21-89a5-9f7e70c30734">
+          <Text>Fishes</Text>
+        </Paragraph>
+        <Paragraph Type="Lyrics" id="9bb4df60-e9d6-423f-933b-7ecb1e63aa9d">
+          <Text>You need to catch...</Text>
+        </Paragraph>
+      </DualDialogue>
+    </Paragraph>
+    <Paragraph Type="Action" id="3da7992d-89ad-403d-8506-40a5c1967f37">
+      <Text>Petoskey holds up the Heirloom for Petey and Liz to bear witness.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="4643bab1-e80a-4103-85c3-a36acc9b3b32">
+      <Text>PetoSKEY</Text>
+    </Paragraph>
+    <Paragraph Type="Lyrics" id="a93d0fd0-3a17-452c-83da-fde8e3d9dc31">
+      <Text>My father’s soul!</Text>
+    </Paragraph>
+    <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="1.25" RightIndent="7.25" SpaceBefore="12" Spacing="1" StartsNewPage="No" Type="General" id="e6cb2b60-7450-41a2-88af-2ad26d7cd6cf">
+      <DualDialogue>
+        <SpellCheckIgnoreLists>
+          <IgnoredRanges/>
+          <IgnoredWords/>
+        </SpellCheckIgnoreLists>
+        <Paragraph Type="Character" id="03a732b2-95bc-43e5-bea5-ca3cefb4f4c9">
+          <Text>Lulu &amp; Cousins</Text>
+        </Paragraph>
+        <Paragraph Type="Lyrics" id="be51f5b6-8eb7-46a6-ae3e-57ba8aa5b505">
+          <Text>And release!</Text>
+        </Paragraph>
+        <Paragraph Type="Character" id="8ae3cfbc-6352-4241-95bb-5a27dadb0eb6">
+          <Text>Fishes</Text>
+        </Paragraph>
+        <Paragraph Type="Lyrics" id="62f1cca7-2010-4427-aedb-74f7e5b1875e">
+          <Text>And release!</Text>
+        </Paragraph>
+      </DualDialogue>
+    </Paragraph>
+    <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="1.25" RightIndent="7.25" SpaceBefore="12" Spacing="1" StartsNewPage="No" Type="General" id="eb856690-b1a3-4f35-8b5f-8c2819a62116">
+      <Text Style="Underline">End of “</Text>
+      <Text Color="#00000000FEFE" Style="Underline+AllCaps">Fish For Mom and Dad</Text>
+      <Text Style="Underline">”</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="a831e112-fde5-46b1-811f-423583d8a044">
+      <Text>Everyone approaches the rapids.</Text>
     </Paragraph>
     <Paragraph Type="Character" id="aeba3474-a3f5-4695-afbf-79aab80721ae">
       <Text>Petey</Text>
@@ -3794,19 +4063,14 @@ The Twins’ canoe skids by a pine tree.</Text>
     <Paragraph Type="Action" id="30568caa-03e2-432e-b81d-eaab4014bbc6">
       <Text>Lulu hits Petoskey with the paddle which causes the canoe to capsize.</Text>
     </Paragraph>
-    <Paragraph Type="Action" id="46934aea-410d-45bf-abc9-84e2edad9fc7">
-      <Text>Underwater, Petoskey loses grip of the shadowy figure as they vanish. He realizes the Heirloom is missing from his neck.</Text>
-    </Paragraph>
-    <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="1.25" RightIndent="7.25" SpaceBefore="12" Spacing="1" StartsNewPage="No" Type="General" id="eb856690-b1a3-4f35-8b5f-8c2819a62116">
-      <Text Style="Underline">End of “</Text>
-      <Text Color="#00000000FEFE" Style="Underline+AllCaps">Fish For My Dad</Text>
-      <Text Style="Underline">”</Text>
+    <Paragraph Type="Action" id="be924154-4a84-4750-9ef6-61b821706266">
+      <Text>Underwater, Petoskey loses grip of Petey, now gone. He realizes the Heirloom is missing from his neck.</Text>
     </Paragraph>
     <Paragraph Type="Scene Info" id="c4991dc9-c78e-42e1-985d-061b649af3c4">
       <Text Style="Bold+Underline+AllCaps">Scene 6</Text>
     </Paragraph>
     <Paragraph Type="Scene Heading" id="294eb061-a2b6-4248-854f-106f0e51c061">
-      <SceneProperties Length="1" Page="36" Title="">
+      <SceneProperties Length="1 1/8" Page="37" Title="">
         <SceneArcBeats>
           <CharacterArcBeat Name="BAILEY">
             <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" OutlineLevel="0" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
@@ -3828,7 +4092,7 @@ The Twins’ canoe skids by a pine tree.</Text>
       <Text Style="Bold+AllCaps">Ext. Pine River, August 2022 - Day</Text>
     </Paragraph>
     <Paragraph Type="Action" id="7d18cb12-b334-4a20-af1e-b5c1f09ccfdf">
-      <Text>Liz grabs Petoskey from the water.</Text>
+      <Text>Present-day Liz grabs Petoskey from the water.</Text>
     </Paragraph>
     <Paragraph Type="Character" id="60808934-9b70-46fc-a32c-a80d048d1f42">
       <Text>LizziE</Text>
@@ -3923,7 +4187,7 @@ The Twins’ canoe skids by a pine tree.</Text>
       <Text Style="Bold+Underline+AllCaps">Scene 7</Text>
     </Paragraph>
     <Paragraph Type="Scene Heading" id="359e378d-41c7-4a78-b737-d9c55d576fff">
-      <SceneProperties Length="2/8" Page="37" Title="">
+      <SceneProperties Length="2/8" Page="38" Title="">
         <SceneArcBeats>
           <CharacterArcBeat Name="LULU">
             <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" OutlineLevel="0" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
@@ -3953,7 +4217,7 @@ The Twins’ canoe skids by a pine tree.</Text>
       <Text>...</Text>
     </Paragraph>
     <Paragraph Type="Scene Heading" id="2b317a2f-acac-442b-b0d3-0eb725b26d30">
-      <SceneProperties Length="7/8" Page="37" Title="">
+      <SceneProperties Length="7/8" Page="38" Title="">
         <SceneArcBeats>
           <CharacterArcBeat Name="DEER">
             <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" OutlineLevel="0" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
@@ -4020,13 +4284,13 @@ Show me danger and I’ll share it for everyone to reckon</Text>
       <Text Style="Bold+Underline+AllCaps">Scene 8</Text>
     </Paragraph>
     <Paragraph Type="Scene Heading" id="bd4104a8-52d1-44c9-8490-38b1fffb433a">
-      <SceneProperties Length="1/8" Page="38" Title="">
+      <SceneProperties Length="1/8" Page="39" Title="">
         <SceneArcBeats/>
       </SceneProperties>
       <Text Style="Bold+AllCaps">Ext. Lake Michigan Shores - Morning</Text>
     </Paragraph>
     <Paragraph Type="Scene Heading" id="2b317a2f-acac-442b-b0d3-0eb725b26d30">
-      <SceneProperties Length="1" Page="38" Title="">
+      <SceneProperties Length="1" Page="39" Title="">
         <SceneArcBeats/>
       </SceneProperties>
       <Text Style="Underline+AllCaps">11. “</Text>
@@ -4090,7 +4354,7 @@ Show me danger and I’ll share it for everyone to reckon</Text>
       <Text Style="Underline">”</Text>
     </Paragraph>
     <Paragraph Type="Scene Heading" id="2b317a2f-acac-442b-b0d3-0eb725b26d30">
-      <SceneProperties Length="1 5/8" Page="39" Title="">
+      <SceneProperties Length="1 5/8" Page="40" Title="">
         <SceneArcBeats>
           <CharacterArcBeat Name="LULU">
             <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" OutlineLevel="0" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
@@ -4208,7 +4472,7 @@ Show me danger and I’ll share it for everyone to reckon</Text>
       <Text Style="Bold+Underline+AllCaps">Scene 9</Text>
     </Paragraph>
     <Paragraph Type="Scene Heading" id="6c191985-dc7e-4bd5-acfb-f6b6e0ad2bb7">
-      <SceneProperties Length="2" Page="40" Title="">
+      <SceneProperties Length="2" Page="41" Title="">
         <SceneArcBeats>
           <CharacterArcBeat Name="CHERRY">
             <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" OutlineLevel="0" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
@@ -4398,7 +4662,7 @@ Show me danger and I’ll share it for everyone to reckon</Text>
       <Text>You didn’t happen to buy these at a rock store?</Text>
     </Paragraph>
     <Paragraph Type="Scene Heading" id="2b317a2f-acac-442b-b0d3-0eb725b26d30">
-      <SceneProperties Length="3 4/8" Page="42" Title="">
+      <SceneProperties Length="3 4/8" Page="43" Title="">
         <SceneArcBeats>
           <CharacterArcBeat Name="CHERRY">
             <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" OutlineLevel="0" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
@@ -4735,7 +4999,7 @@ You’ve hurt...</Text>
       <Text Style="Underline">”</Text>
     </Paragraph>
     <Paragraph Type="Scene Heading" id="2b317a2f-acac-442b-b0d3-0eb725b26d30">
-      <SceneProperties Length="1 7/8" Page="46" Title="">
+      <SceneProperties Length="1 7/8" Page="47" Title="">
         <SceneArcBeats>
           <CharacterArcBeat Name="KEEPERS">
             <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" OutlineLevel="0" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
@@ -4982,13 +5246,13 @@ Intermission</Text>
       <Text Style="Bold+Underline+AllCaps">Scene 1</Text>
     </Paragraph>
     <Paragraph Type="Scene Heading" id="ff2224c8-4acc-4956-867a-17fd275c56b8">
-      <SceneProperties Length="1/8" Page="48" Title="">
+      <SceneProperties Length="1/8" Page="50" Title="">
         <SceneArcBeats/>
       </SceneProperties>
       <Text Style="Bold+AllCaps">Ext. Elk Rapids, August 2016 - Day</Text>
     </Paragraph>
     <Paragraph Type="Scene Heading" id="2b317a2f-acac-442b-b0d3-0eb725b26d30">
-      <SceneProperties Length="2 3/8" Page="48" Title="">
+      <SceneProperties Length="2 3/8" Page="50" Title="">
         <SceneArcBeats>
           <CharacterArcBeat Name="LULU">
             <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" OutlineLevel="0" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
@@ -5233,7 +5497,7 @@ Hands come in handy!</Text>
       <Text Style="Bold+Underline+AllCaps">Scene 2</Text>
     </Paragraph>
     <Paragraph Type="Scene Heading" id="ff2224c8-4acc-4956-867a-17fd275c56b8">
-      <SceneProperties Length="4/8" Page="50" Title="">
+      <SceneProperties Length="4/8" Page="52" Title="">
         <SceneArcBeats>
           <CharacterArcBeat Name="CHERRY">
             <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" OutlineLevel="0" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
@@ -5291,7 +5555,7 @@ Hands come in handy!</Text>
       <Text>When did it ever?</Text>
     </Paragraph>
     <Paragraph Type="Scene Heading" id="2b317a2f-acac-442b-b0d3-0eb725b26d30">
-      <SceneProperties Length="1 3/8" Page="51" Title="">
+      <SceneProperties Length="1 3/8" Page="53" Title="">
         <SceneArcBeats>
           <CharacterArcBeat Name="LIBERTY &amp; BAILEY">
             <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" OutlineLevel="0" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
@@ -5421,7 +5685,7 @@ Let us find your rock!</Text>
       <Text Style="Bold+Underline+AllCaps">Scene 3</Text>
     </Paragraph>
     <Paragraph Type="Scene Heading" id="ff2224c8-4acc-4956-867a-17fd275c56b8">
-      <SceneProperties Length="6/8" Page="52" Title="">
+      <SceneProperties Length="6/8" Page="54" Title="">
         <SceneArcBeats>
           <CharacterArcBeat Name="JASPER">
             <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" OutlineLevel="0" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
@@ -5489,7 +5753,7 @@ Let us find your rock!</Text>
       <Text>No, I don’t.</Text>
     </Paragraph>
     <Paragraph Type="Scene Heading" id="2b317a2f-acac-442b-b0d3-0eb725b26d30">
-      <SceneProperties Length="2 3/8" Page="53" Title="">
+      <SceneProperties Length="2 3/8" Page="55" Title="">
         <SceneArcBeats>
           <CharacterArcBeat Name="JACOB">
             <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" OutlineLevel="0" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
@@ -5756,13 +6020,13 @@ so long as you listen to the bread.</Text>
       <Text Style="Bold+Underline+AllCaps">Scene 4</Text>
     </Paragraph>
     <Paragraph Type="Scene Heading" id="ff2224c8-4acc-4956-867a-17fd275c56b8">
-      <SceneProperties Length="1/8" Page="55" Title="">
+      <SceneProperties Length="1/8" Page="57" Title="">
         <SceneArcBeats/>
       </SceneProperties>
       <Text Style="Bold+AllCaps">Ext. Mackinac Bridge - Day</Text>
     </Paragraph>
     <Paragraph Type="Scene Heading" id="9db8ffae-33d8-4f33-9d0f-55621098fec0">
-      <SceneProperties Length="6/8" Page="55" Title="">
+      <SceneProperties Length="6/8" Page="57" Title="">
         <SceneArcBeats>
           <CharacterArcBeat Name="PETOSKEY">
             <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" OutlineLevel="0" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
@@ -5817,7 +6081,7 @@ so long as you listen to the bread.</Text>
       <Text Style="Underline">”</Text>
     </Paragraph>
     <Paragraph Type="Scene Heading" id="9db8ffae-33d8-4f33-9d0f-55621098fec0">
-      <SceneProperties Length="2 5/8" Page="56" Title="">
+      <SceneProperties Length="2 5/8" Page="58" Title="">
         <SceneArcBeats>
           <CharacterArcBeat Name="JASPER">
             <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" OutlineLevel="0" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
@@ -6070,13 +6334,13 @@ so long as you listen to the bread.</Text>
       <Text Style="Bold+Underline+AllCaps">Scene 1</Text>
     </Paragraph>
     <Paragraph Type="Scene Heading" id="ff2224c8-4acc-4956-867a-17fd275c56b8">
-      <SceneProperties Length="1/8" Page="59" Title="">
+      <SceneProperties Length="1/8" Page="61" Title="">
         <SceneArcBeats/>
       </SceneProperties>
       <Text Style="Bold+AllCaps">Ext. Elk Rapids - Day</Text>
     </Paragraph>
     <Paragraph Type="Scene Heading" id="9db8ffae-33d8-4f33-9d0f-55621098fec0">
-      <SceneProperties Length="5" Page="59" Title="">
+      <SceneProperties Length="5" Page="61" Title="">
         <SceneArcBeats>
           <CharacterArcBeat Name="CHERRY">
             <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" OutlineLevel="0" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
@@ -6590,7 +6854,7 @@ so long as you listen to the bread.</Text>
       <Text Style="Bold+Underline+AllCaps">Scene 2</Text>
     </Paragraph>
     <Paragraph Type="Scene Heading" id="ff2224c8-4acc-4956-867a-17fd275c56b8">
-      <SceneProperties Length="2 3/8" Page="64" Title="">
+      <SceneProperties Length="2 3/8" Page="66" Title="">
         <SceneArcBeats>
           <CharacterArcBeat Name="AUDIENCE MEMBER">
             <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" OutlineLevel="0" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
@@ -6864,13 +7128,13 @@ so long as you listen to the bread.</Text>
       <Text Style="Bold+Underline+AllCaps">Scene 3</Text>
     </Paragraph>
     <Paragraph Type="Scene Heading" id="ff2224c8-4acc-4956-867a-17fd275c56b8">
-      <SceneProperties Length="1/8" Page="66" Title="">
+      <SceneProperties Length="1/8" Page="68" Title="">
         <SceneArcBeats/>
       </SceneProperties>
       <Text Style="Bold+AllCaps">Ext. Mackinac Bridge - Day</Text>
     </Paragraph>
     <Paragraph Type="Scene Heading" id="5da96831-1e73-4f5e-baff-daeadd78b157">
-      <SceneProperties Length="1 3/8" Page="66" Title="">
+      <SceneProperties Length="1 3/8" Page="68" Title="">
         <SceneArcBeats>
           <CharacterArcBeat Name="LIZZIE">
             <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" OutlineLevel="0" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
@@ -7044,13 +7308,13 @@ You are my soul!</Text>
       <Text Style="Bold+Underline+AllCaps">Scene 1</Text>
     </Paragraph>
     <Paragraph Type="Scene Heading" id="987c3cbc-adb0-4eed-895f-9c2ec73d05c3">
-      <SceneProperties Length="1/8" Page="68" Title="">
+      <SceneProperties Length="1/8" Page="70" Title="">
         <SceneArcBeats/>
       </SceneProperties>
       <Text Style="Bold+AllCaps">Ext. Elk Rapids, 2037 - Day</Text>
     </Paragraph>
     <Paragraph Type="Scene Heading" id="5da96831-1e73-4f5e-baff-daeadd78b157">
-      <SceneProperties Length="1" Page="68" Title="">
+      <SceneProperties Length="1" Page="70" Title="">
         <SceneArcBeats>
           <CharacterArcBeat Name="LIZZIE">
             <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" OutlineLevel="0" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
@@ -7144,7 +7408,7 @@ And Lulu ended up turning our life story into a musical for her high school seni
       <Text Style="Bold+Underline+AllCaps">Scene 2</Text>
     </Paragraph>
     <Paragraph Type="Scene Heading" id="987c3cbc-adb0-4eed-895f-9c2ec73d05c3">
-      <SceneProperties Length="7/8" Page="69" Title="">
+      <SceneProperties Length="7/8" Page="71" Title="">
         <SceneArcBeats>
           <CharacterArcBeat Name="JACOB">
             <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" OutlineLevel="0" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
@@ -7200,7 +7464,7 @@ And here comes Elk Rapids with the world-class </Text>
       <Text>Who are we?!</Text>
     </Paragraph>
     <Paragraph Type="Scene Heading" id="5da96831-1e73-4f5e-baff-daeadd78b157">
-      <SceneProperties Length="5/8" Page="70" Title="">
+      <SceneProperties Length="5/8" Page="72" Title="">
         <SceneArcBeats>
           <CharacterArcBeat Name="CHERRY">
             <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" OutlineLevel="0" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
@@ -7339,7 +7603,7 @@ Winter in our bones.</Text>
 
   <WindowState Height="635" Left="2" Mode="Maximized" Top="2" Width="649"/>
 
-  <TextState Scaling="100" Selection="28609,28609" ShowInvisibles="No"/>
+  <TextState Scaling="100" Selection="0,0" ShowInvisibles="No"/>
 
   <ElementSettings Type="General">
     <FontSpec AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style=""/>
@@ -7709,6 +7973,9 @@ Winter in our bones.</Text>
       <Character>Vandams W/o Petoskey</Character>
       <Character>Keepers</Character>
       <Character>VandaMS W/O Liz, Petoskey, Shelby</Character>
+      <Character>Bass</Character>
+      <Character>Fishes</Character>
+      <Character>Lulu &amp; Cousins</Character>
     </Characters>
     <Extensions>
       <Extension>(OFF)</Extension>
@@ -8253,6 +8520,9 @@ Winter in our bones.</Text>
     <Member Actor="" Character="Vandams W/o Petoskey"/>
     <Member Actor="" Character="Keepers"/>
     <Member Actor="" Character="VandaMS W/O Liz, Petoskey, Shelby"/>
+    <Member Actor="" Character="Bass"/>
+    <Member Actor="" Character="Fishes"/>
+    <Member Actor="" Character="Lulu &amp; Cousins"/>
   </Cast>
 
   <SceneNumberOptions LeftLocation="0.75" NumberScheme="1A" RightLocation="7.38" ShowNumbersOnLeft="Yes" ShowNumbersOnRight="Yes">
@@ -8266,6 +8536,7 @@ Winter in our bones.</Text>
   <CharacterHighlighting>
     <Character Color="#RRRRGGGGBBBB" Name="AUDIENCE MEMBER" Visible="No"/>
     <Character Color="#RRRRGGGGBBBB" Name="BAILEY" Visible="No"/>
+    <Character Color="#RRRRGGGGBBBB" Name="BASS" Visible="No"/>
     <Character Color="#RRRRGGGGBBBB" Name="CHERRY" Visible="No"/>
     <Character Color="#RRRRGGGGBBBB" Name="CHERRY &amp; PERRY" Visible="No"/>
     <Character Color="#RRRRGGGGBBBB" Name="CHERRY &amp; SHELBY" Visible="No"/>
@@ -8274,6 +8545,7 @@ Winter in our bones.</Text>
     <Character Color="#RRRRGGGGBBBB" Name="COUSINS" Visible="No"/>
     <Character Color="#RRRRGGGGBBBB" Name="DEER" Visible="No"/>
     <Character Color="#RRRRGGGGBBBB" Name="DETECTIVE" Visible="No"/>
+    <Character Color="#RRRRGGGGBBBB" Name="FISHES" Visible="No"/>
     <Character Color="#RRRRGGGGBBBB" Name="FORD" Visible="No"/>
     <Character Color="#RRRRGGGGBBBB" Name="JACOB" Visible="No"/>
     <Character Color="#RRRRGGGGBBBB" Name="JASPER" Visible="No"/>
@@ -8286,6 +8558,7 @@ Winter in our bones.</Text>
     <Character Color="#RRRRGGGGBBBB" Name="LIZZIE &amp; PETEY" Visible="No"/>
     <Character Color="#RRRRGGGGBBBB" Name="LIZZIE &amp; SHELBY" Visible="No"/>
     <Character Color="#RRRRGGGGBBBB" Name="LULU" Visible="No"/>
+    <Character Color="#RRRRGGGGBBBB" Name="LULU &amp; COUSINS" Visible="No"/>
     <Character Color="#RRRRGGGGBBBB" Name="LULU &amp; JACOB" Visible="No"/>
     <Character Color="#RRRRGGGGBBBB" Name="LULU &amp; JASPER" Visible="No"/>
     <Character Color="#RRRRGGGGBBBB" Name="LULU &amp; PETOSKEY" Visible="No"/>
@@ -8330,7 +8603,7 @@ Winter in our bones.</Text>
 
   <DisplayBoards>
     <DisplayBoard Height="10000" Id="06da4865-abe0-4945-8472-2da2dfadf07d" ScrollOrigin="0,0" Type="Beat" Width="24000" ZoomLevel="100.000"/>
-    <DisplayBoard Height="90" Id="37ad8c99-f42d-43aa-9a6e-bc6cb6bfe318" ScrollOrigin="3333,0" Type="StoryMap" Width="14600" ZoomLevel="730.000">
+    <DisplayBoard Height="90" Id="37ad8c99-f42d-43aa-9a6e-bc6cb6bfe318" ScrollOrigin="0,0" Type="StoryMap" Width="14600" ZoomLevel="730.000">
       <Lanes>
         <Lane Id="f97fe2a6-a64b-4a18-80a0-847c0b9f730e" Label="Outline 1" Level="7" Type="Outline 1"/>
         <Lane Id="a53ef67b-9d7e-4b26-a603-4ea6fd02981c" Label="Outline 2" Level="5" Type="Outline 2"/>
