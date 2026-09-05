@@ -6060,29 +6060,431 @@ so long as you listen to the bread.</Text>
     <Paragraph Type="Action" id="bd470467-f960-4685-90d9-ebf0c8b1071e">
       <Text>Lulu and Jasper run out.</Text>
     </Paragraph>
+    <Paragraph Type="Action" id="df9bd106-62e0-4e50-963f-687587f1ad49">
+      <Text>Liz sets up a boat.</Text>
+    </Paragraph>
     <Paragraph Type="Scene Info" id="bfda984e-c564-4342-b53d-a7ca9637fe52">
       <Text Style="Bold+Underline+AllCaps">Scene 4</Text>
     </Paragraph>
+    <Paragraph Type="Scene Heading" id="566e7937-6284-47c2-97bd-e288de3088f3">
+      <SceneProperties Length="7/8" Page="56" Title="">
+        <SceneArcBeats>
+          <CharacterArcBeat Name="LIZZIE">
+            <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" OutlineLevel="0" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+          </CharacterArcBeat>
+          <CharacterArcBeat Name="LIZZIE &amp; PETEY">
+            <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" OutlineLevel="0" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+          </CharacterArcBeat>
+          <CharacterArcBeat Name="PETEY">
+            <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" OutlineLevel="0" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+          </CharacterArcBeat>
+        </SceneArcBeats>
+      </SceneProperties>
+      <Text Style="Bold+AllCaps">Ext. Mackinac Island, March 2003 - Day</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="ca743b5b-18ad-4ee7-8d44-bdb5274064a3">
+      <Text>Liz and Petey sail on their boat that they made at their shipyard.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="5f00e406-708f-47a2-930f-d0b54c354022">
+      <Text>LizZIE</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="614863d3-7473-45e2-ae69-44b9c30035a9">
+      <Text>The tide is turning on the public sentiment towards the war, but at least the shipbuilding business is booming.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="e62c13e4-5561-484a-9d73-d21d7bec6604">
+      <Text>PetEY</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="03ea2baa-27cd-41b5-af7b-8d46735981ad">
+      <Text>We’ll win every battle, thanks to our shipyard.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="ffd10f44-c508-4b41-87f4-0bfcc453f283">
+      <Text>LIZZIE</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="dea43aff-4b54-46b5-bdfe-7ed36b813224">
+      <Text>Are we even gonna conquer Mackinac Strait? The water is rough here.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="4c6b87c0-755d-4002-bcac-af7038d7152a">
+      <Text>PETEY</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="7f14cd44-a20b-4696-9b9c-53779689035a">
+      <Text>And it’s still winter.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="8361e9d3-752f-43bc-873f-cec9751dc631">
+      <Text>LIZZIE</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="a6ca1a2d-23ca-4a64-9c10-3c66712134da">
+      <Text>Thanks for being up for this.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="6a70c4bf-699f-4ba2-8669-6b4e84a59ebd">
+      <Text>PETEY</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="83852eea-3654-4b9a-a2a6-f023a8759fb2">
+      <Text>No, it’s you.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="054fa887-4030-4548-8f8e-547da6d5db8f">
+      <Text>LIZZIE &amp; PETEY</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="139c0464-6775-4fd2-9d88-19e919416884">
+      <Text>Nah, we asked at the same time. Jinx!</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="bd1ddc2b-2831-4f6e-8361-0084a5fdea6a">
+      <Text>PETEY</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="cb2f1724-1d0f-41f2-8031-816c52500576">
+      <Text>You hear that?</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="1ad5ff36-6b5d-428c-9b64-233027af2caa">
+      <Text>LIZZIE</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="5d432cd0-11a8-482e-974c-6f81e2c83ad5">
+      <Text>Ah! The boat’s leaking.</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="2f1ab09a-7197-4d77-b18b-754fc1cf591e">
+      <Text>Liz patches up a hole in the boat.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="9763de78-7299-4b8e-aa97-0b5a5e60b68f">
+      <Text>Petey</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="4863158d-b529-4f4b-b6dc-5552a8bd19ad">
+      <Text>You’re a natural at this.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="789258bc-3ab0-4eb1-877e-a1bd8403151a">
+      <Text>LIZZIE</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="83f08338-08d2-43a2-b4f7-6265f5389895">
+      <Text>And you are... Uh...</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="007dad63-3e2a-45e2-9e0b-cc26699225aa">
+      <Text>Petey</Text>
+    </Paragraph>
+    <Paragraph Type="Parenthetical" id="2ac3b71b-46e9-4a8e-9d68-96f29d1ba8c8">
+      <Text>(Blushing)</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="ea0e4ffb-5b7f-4107-95a2-0d3c619aaf0d">
+      <Text Style="Italic">Yes</Text>
+      <Text>...?</Text>
+    </Paragraph>
+    <Paragraph Type="Scene Heading" id="9db8ffae-33d8-4f33-9d0f-55621098fec0">
+      <SceneProperties Length="2 3/8" Page="57" Title="">
+        <SceneArcBeats>
+          <CharacterArcBeat Name="LIZZIE">
+            <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" OutlineLevel="0" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+          </CharacterArcBeat>
+          <CharacterArcBeat Name="LIZZIE &amp; PETEY">
+            <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" OutlineLevel="0" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+          </CharacterArcBeat>
+          <CharacterArcBeat Name="PETEY">
+            <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" OutlineLevel="0" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+          </CharacterArcBeat>
+        </SceneArcBeats>
+      </SceneProperties>
+      <Text Style="Underline+AllCaps">18. “</Text>
+      <Text Color="#00000000FEFE" Style="Underline+AllCaps">Natural Beauty</Text>
+      <Text Style="Underline+AllCaps">”</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="73382650-89ed-4d73-8936-31847ee7920e">
+      <Text>Liz taps Petey’s nose.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="4f74aa28-7433-4506-b047-c5fbeeca8282">
+      <Text>LizzIE</Text>
+    </Paragraph>
+    <Paragraph Type="Lyrics" id="e888afeb-20c0-4fa7-b132-beb41956152a">
+      <Text>You are beautiful.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="6168a666-61a6-4ae1-ac1c-492dfc33731e">
+      <Text>Petey</Text>
+    </Paragraph>
+    <Paragraph Type="Lyrics" id="f74833eb-3147-4170-8fb1-4bc62facee75">
+      <Text Style="Italic+AllCaps">You think i’m beautiful</Text>
+      <Text>?</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="b6d5822e-f24a-4716-a86c-da401382d9b1">
+      <Text>LizzIE</Text>
+    </Paragraph>
+    <Paragraph Type="Lyrics" id="6eaac2fa-928d-40c4-93a8-70370e6ef8e6">
+      <Text>Just take the compliment.
+You don’t have to get all weird about it.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="4b015534-90cb-4801-a9f4-ea675f337625">
+      <Text>PeteY</Text>
+    </Paragraph>
+    <Paragraph Type="Lyrics" id="d03cbd85-ff0c-4912-9ebe-a4095ff75670">
+      <Text>Whatever you say, Ms. Natural.</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="2f105642-b407-46c9-8da7-e5a62ee138ec">
+      <Text>Petey motions to Liz that he has questions. They may nod “yes.”</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="c58ebf0a-1671-490d-834e-3ee7060c5a74">
+      <Text>Petey</Text>
+    </Paragraph>
+    <Paragraph Type="Lyrics" id="bd986d4b-7aa4-490d-afed-18f2279d2e0b">
+      <Text>Am I beautiful as the Great Lakes?</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="ce101799-545c-49ea-a681-e0341848707d">
+      <Text>LizZIE</Text>
+    </Paragraph>
+    <Paragraph Type="Lyrics" id="eb576733-5989-447e-9f68-05db42b115bc">
+      <Text>Am I natural as the glaciers who carved it?</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="8d8b8aaf-8f5b-4217-afbd-489aa5d1cf9c">
+      <Text>Petey</Text>
+    </Paragraph>
+    <Paragraph Type="Lyrics" id="f547ef65-2325-4139-a579-7ef148bd5ff2">
+      <Text>Am I beautiful like her snow?</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="eaa9b52d-5fd5-477a-b919-5f390dce22cf">
+      <Text>LizzIE</Text>
+    </Paragraph>
+    <Paragraph Type="Lyrics" id="b1d3251c-bc5d-410e-820f-395f230e7470">
+      <Text>Am I natural like her hills and coves?</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="6000e438-a1ad-4c07-8e9d-100041fca005">
+      <Text>PeteY</Text>
+    </Paragraph>
+    <Paragraph Type="Lyrics" id="cc674b47-4d80-4c24-8f87-728fa9beecbd">
+      <Text>Was I beauty shoveling in a blizzard?</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="3728b8d9-5359-4942-993b-81072bace7ff">
+      <Text>Petey shovels.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="b447c32e-69b8-4e1b-91f0-ca26aed2f1bd">
+      <Text>LizZIE</Text>
+    </Paragraph>
+    <Paragraph Type="Lyrics" id="05746d7d-1681-4624-a8db-7aab53e7a099">
+      <Text>Was I a natural catching hail like a wizard?</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="bb0467bf-6a29-43b3-af07-4e012b8e23d1">
+      <Text>Liz catches hail like a baseball.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="4fb95723-0790-4676-8261-ecfaa6fb3ea3">
+      <Text>PeteY</Text>
+    </Paragraph>
+    <Paragraph Type="Lyrics" id="5d8bfbda-abf5-47fa-a407-5794c3389ea3">
+      <Text>Hail yeah!</Text>
+    </Paragraph>
+    <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="1.25" RightIndent="7.25" SpaceBefore="12" Spacing="1" StartsNewPage="No" Type="General" id="acef2163-4b11-41ae-a513-6c0ef66e6408">
+      <DualDialogue>
+        <SpellCheckIgnoreLists>
+          <IgnoredRanges/>
+          <IgnoredWords/>
+        </SpellCheckIgnoreLists>
+        <Paragraph Type="Character" id="1506658d-1a1f-470b-b408-90de09db806f">
+          <Text>LizzIE</Text>
+        </Paragraph>
+        <Paragraph Type="Lyrics" id="81504770-00ad-42e6-b7e6-cfff5984d954">
+          <Text>You are a beauty
+in nature.</Text>
+        </Paragraph>
+        <Paragraph Type="Character" id="ff3e219f-38ef-459b-9605-4247f405b228">
+          <Text>Petey</Text>
+        </Paragraph>
+        <Paragraph Type="Lyrics" id="655eeb7c-4fde-439b-82ef-2105ed6902cd">
+          <Text>You are a natural
+and you are beautiful.</Text>
+        </Paragraph>
+      </DualDialogue>
+    </Paragraph>
+    <Paragraph Type="Action" id="252c0c81-4e0d-463b-b4ce-4455194c33d6">
+      <Text>Liz looks at the time and taps her feet impatiently. Petey points to the landscapes.</Text>
+    </Paragraph>
+    <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="1.25" RightIndent="7.25" SpaceBefore="12" Spacing="1" StartsNewPage="No" Type="General" id="124a4385-995f-4da2-a96d-3378fa4be980">
+      <DualDialogue>
+        <SpellCheckIgnoreLists>
+          <IgnoredRanges/>
+          <IgnoredWords/>
+        </SpellCheckIgnoreLists>
+        <Paragraph Type="Character" id="99f1fb83-4d7f-4ef4-b9b5-14e41757b68b">
+          <Text>LizZIE</Text>
+        </Paragraph>
+        <Paragraph Type="Lyrics" id="f2c222bc-5217-4241-b6cd-bd48cbd75e36">
+          <Text>Breathtaking valleys!
+Pretty fast rivers!
+Enormous mountains!
+Massive perched sand dunes!</Text>
+        </Paragraph>
+        <Paragraph Type="Character" id="ad4e1d6a-2308-4b2c-aca7-83e842764a67">
+          <Text>Petey</Text>
+        </Paragraph>
+        <Paragraph Type="Lyrics" id="1c182bc1-1668-4a46-a267-bdf6a5bba67b">
+          <Text>Swooping like a hawk!
+floating like an otter!
+Climbing like a wolf!
+Running like a deer!</Text>
+        </Paragraph>
+      </DualDialogue>
+    </Paragraph>
+    <Paragraph Type="Character" id="496d6a1e-e11a-4faa-8c20-fba3a9b7fac7">
+      <Text>LizzIE</Text>
+    </Paragraph>
+    <Paragraph Type="Lyrics" id="9dae318a-7777-483c-bd8d-37c7c0d84610">
+      <Text>Dumpster trucks pile up on i-75!</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="41a1841a-61e9-4e37-be97-0d9ef0b27337">
+      <Text>Petey</Text>
+    </Paragraph>
+    <Paragraph Type="Lyrics" id="b20c03f6-ecd8-45c3-976e-a0c6ccc7ef99">
+      <Text>Live like a raccoon!</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="8d55c09c-d862-40b2-8800-57e8f0966495">
+      <Text>LizzIE</Text>
+    </Paragraph>
+    <Paragraph Type="Lyrics" id="d8ff0675-4cce-4107-bedf-e84aa342814f">
+      <Text>Hail no!</Text>
+    </Paragraph>
+    <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="1.25" RightIndent="7.25" SpaceBefore="12" Spacing="1" StartsNewPage="No" Type="General" id="81630097-2c6f-440f-9688-7f81a049e47f">
+      <DualDialogue>
+        <SpellCheckIgnoreLists>
+          <IgnoredRanges/>
+          <IgnoredWords/>
+        </SpellCheckIgnoreLists>
+        <Paragraph Type="Character" id="c69ab36c-52a7-4b93-9db5-bc316d196747">
+          <Text>LizZIE</Text>
+        </Paragraph>
+        <Paragraph Type="Lyrics" id="4e562753-25df-4386-ba2f-bcbced007866">
+          <Text>You are so slow.
+Are you gonna ask me something?</Text>
+        </Paragraph>
+        <Paragraph Type="Character" id="1e5110d3-586a-43f7-bf8c-4799f9cd26ed">
+          <Text>Petey</Text>
+        </Paragraph>
+        <Paragraph Type="Lyrics" id="dedb05ec-304d-4f83-b026-d1eab8ccb66f">
+          <Text>You are a-
+beauty?
+This is unnatural.</Text>
+        </Paragraph>
+      </DualDialogue>
+    </Paragraph>
+    <Paragraph Type="Character" id="445e6bda-58b4-46a2-b7f0-165f8bf066ad">
+      <Text>LizziE</Text>
+    </Paragraph>
+    <Paragraph Type="Lyrics" id="6b2fbad6-3854-4ecf-b13a-db056956f8ad">
+      <Text>Am i beautiful or not?</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="04bab945-bafa-47d0-bc7f-60f7e374e5a6">
+      <Text>Petey</Text>
+    </Paragraph>
+    <Paragraph Type="Lyrics" id="3d762b39-3792-4834-98fd-b33f2fce4c84">
+      <Text>You are natural as the uh...?</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="b5af49f2-930e-4cbb-91d9-b586103df21c">
+      <Text>LizzIE</Text>
+    </Paragraph>
+    <Paragraph Type="Lyrics" id="baed7f23-d99d-4fa4-a0ac-ea54b7a248b7">
+      <Text>Never beautiful at all?</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="4f42cfce-dc0c-4484-86ae-fa7478a3479f">
+      <Text>Petey</Text>
+    </Paragraph>
+    <Paragraph Type="Lyrics" id="6c7530ef-a716-4ab1-b3fb-72f635aa718c">
+      <Text>You are natural as the rings of Saturn.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="e3afea0f-51b1-4c2c-bb68-335a46bf1920">
+      <Text>LizZIE</Text>
+    </Paragraph>
+    <Paragraph Type="Lyrics" id="0e616489-f91b-43a6-8ce7-cebb4a7ac3b9">
+      <Text>Am i a beauty wearing no ring?</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="8aaa88e0-cd0d-42d7-8953-063a36273545">
+      <Text>Petey</Text>
+    </Paragraph>
+    <Paragraph Type="Lyrics" id="59a1d175-9319-46c0-9204-c6a099e93ac3">
+      <Text>You are beautiful as impatient.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="dc72c0fd-cdac-43e3-af4a-719386cd17cd">
+      <Text>LizZIE</Text>
+    </Paragraph>
+    <Paragraph Type="Lyrics" id="c035b7c9-9eaf-49e0-95dc-8b97988c8109">
+      <Text>You’re still slow.</Text>
+    </Paragraph>
+    <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="1.25" RightIndent="7.25" SpaceBefore="12" Spacing="1" StartsNewPage="No" Type="General" id="04f560c2-1591-42c9-834b-99ff1c191de8">
+      <DualDialogue>
+        <SpellCheckIgnoreLists>
+          <IgnoredRanges/>
+          <IgnoredWords/>
+        </SpellCheckIgnoreLists>
+        <Paragraph Type="Character" id="1efee96a-5dcd-4d4c-9995-bf2234651234">
+          <Text>LizziE</Text>
+        </Paragraph>
+        <Paragraph Type="Lyrics" id="602d36bd-e48d-4422-8f88-bd4fd9fc9771">
+          <Text>Just act natural.</Text>
+        </Paragraph>
+        <Paragraph Type="Character" id="f047b7c9-4ec3-48be-bbf7-d1abc436dbe5">
+          <Text>Petey</Text>
+        </Paragraph>
+        <Paragraph Type="Lyrics" id="5341d367-5eef-4f8a-b67f-1d2d2d8b4532">
+          <Text>Just act surprised.</Text>
+        </Paragraph>
+      </DualDialogue>
+    </Paragraph>
+    <Paragraph Type="Action" id="b2ab5d47-8734-48dd-a988-703744eb1cd9">
+      <Text>As the boat approaches Mackinac Island, Liz’s family and Petey’s family run out with proposal posters. One reads: “Will you marry me, Petey?” The other reads: “Will you marry me, Lizzie?”</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="190af34e-4ad3-466d-921c-d9d0c60ec4d3">
+      <Text>Liz and Petey get on their knees simultaneously and pull out their rings. Flustered, they laugh. They set up the wedding ceremony on Mackinac Island.</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="498681ed-8ba8-448f-bfcd-b46b7816058f">
+      <Text>In their wedding attire, Liz and Petey walk down the aisle and center themselves. They kiss.</Text>
+    </Paragraph>
+    <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="1.25" RightIndent="7.25" SpaceBefore="12" Spacing="1" StartsNewPage="No" Type="General" id="e744c454-ccf2-4b10-9bb6-5783ff217d12">
+      <DualDialogue>
+        <SpellCheckIgnoreLists>
+          <IgnoredRanges/>
+          <IgnoredWords/>
+        </SpellCheckIgnoreLists>
+        <Paragraph Type="Character" id="5ad597ff-6345-4414-a9c7-9d284b9ff279">
+          <Text>LizZIE</Text>
+        </Paragraph>
+        <Paragraph Type="Lyrics" id="25c9ae4c-8682-4749-836c-7d3accd72646">
+          <Text>We are a natural
+and we are beautiful.</Text>
+        </Paragraph>
+        <Paragraph Type="Character" id="f1bd3053-a8e2-4eba-ac8c-d5e9a7f25773">
+          <Text>Petey</Text>
+        </Paragraph>
+        <Paragraph Type="Lyrics" id="9117e2be-bedf-42c9-b4ca-c08c98cee3ff">
+          <Text>We are a beauty
+in nature.</Text>
+        </Paragraph>
+      </DualDialogue>
+    </Paragraph>
+    <Paragraph Type="Character" id="b1c89955-d853-4ef5-a552-5040123aaa00">
+      <Text>LizzIE</Text>
+    </Paragraph>
+    <Paragraph Type="Lyrics" id="da54e094-712d-4617-aa9a-0e362cb054d0">
+      <Text>We are now married!</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="6a02e99c-2f8f-49c3-aaeb-b2eac26802dc">
+      <Text>LizZIE &amp; PETEY</Text>
+    </Paragraph>
+    <Paragraph Type="Lyrics" id="2ba5967d-dba4-4476-9de4-9b52fa87e6c2">
+      <Text>You are a natural beauty.</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="9e1e85b1-cd88-4b22-b44c-9084b6b1e1d8">
+      <Text>As Liz kisses Petey’s cheek, he stares bittersweetly at the Mackinac Bridge in the distance.</Text>
+    </Paragraph>
+    <Paragraph Type="Scene Info" id="bfda984e-c564-4342-b53d-a7ca9637fe52">
+      <Text Style="Bold+Underline+AllCaps">Scene 5</Text>
+    </Paragraph>
     <Paragraph Type="Scene Heading" id="ff2224c8-4acc-4956-867a-17fd275c56b8">
-      <SceneProperties Length="1/8" Page="56" Title="">
+      <SceneProperties Length="1/8" Page="59" Title="">
         <SceneArcBeats/>
       </SceneProperties>
       <Text Style="Bold+AllCaps">Ext. Mackinac Bridge - Day</Text>
     </Paragraph>
     <Paragraph Type="Scene Heading" id="9db8ffae-33d8-4f33-9d0f-55621098fec0">
-      <SceneProperties Length="1 2/8" Page="56" Title="">
+      <SceneProperties Length="1 1/8" Page="59" Title="">
         <SceneArcBeats>
           <CharacterArcBeat Name="PETOSKEY">
             <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" OutlineLevel="0" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
           </CharacterArcBeat>
         </SceneArcBeats>
       </SceneProperties>
-      <Text Style="Underline+AllCaps">18. “</Text>
+      <Text Style="Underline+AllCaps">19. “</Text>
       <Text Color="#00000000FEFE" Style="Underline+AllCaps">Rock Bottom</Text>
       <Text Style="Underline+AllCaps">”</Text>
     </Paragraph>
     <Paragraph Type="Action" id="1ae32e91-a180-4083-84f5-14dec04b18d5">
-      <Text>Petoskey looks down at the strait.</Text>
+      <Text>On the creaky bridge, Petoskey looks down at the strait.</Text>
     </Paragraph>
     <Paragraph Type="Character" id="e0299ee3-7520-45be-af7d-678c6121e84a">
       <Text>Petoskey</Text>
@@ -6093,11 +6495,6 @@ so long as you listen to the bread.</Text>
     <Paragraph Type="General" id="7ceeb8b7-fb36-4c60-bda0-604d0f0f6d08"/>
     <Paragraph Type="Action" id="b6941f72-4af2-46b6-a270-5c3342f95de3">
       <Text>[Lulu and Jasper drive up to find him. She offers a broken stone as truce.]
-
-
-
-
-
 
 
 
@@ -6151,7 +6548,7 @@ so long as you listen to the bread.</Text>
       <Text Style="Underline">”</Text>
     </Paragraph>
     <Paragraph Type="Scene Heading" id="9db8ffae-33d8-4f33-9d0f-55621098fec0">
-      <SceneProperties Length="2 6/8" Page="58" Title="">
+      <SceneProperties Length="2 6/8" Page="61" Title="">
         <SceneArcBeats>
           <CharacterArcBeat Name="JASPER">
             <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" OutlineLevel="0" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
@@ -6176,7 +6573,7 @@ so long as you listen to the bread.</Text>
           </CharacterArcBeat>
         </SceneArcBeats>
       </SceneProperties>
-      <Text Style="Underline+AllCaps">19. “</Text>
+      <Text Style="Underline+AllCaps">20. “</Text>
       <Text Color="#00000000FEFE" Style="Underline+AllCaps">Family’s in the Fossils</Text>
       <Text Style="Underline+AllCaps">”</Text>
     </Paragraph>
@@ -6255,7 +6652,9 @@ so long as you listen to the bread.</Text>
       <Text>I’m here to take everyone suffering from pain.</Text>
     </Paragraph>
     <Paragraph Type="Action" id="935508f5-a05e-4206-adc7-4331052b8a7b">
-      <Text>[TBD]
+      <Text>[</Text>
+      <Text AdornmentStyle="-1">TBD</Text>
+      <Text>]
 
 
 </Text>
@@ -6431,13 +6830,13 @@ By the way, I’m kidding. No sacrifices here, so long as you stop these data ce
       <Text Style="Bold+Underline+AllCaps">Scene 1</Text>
     </Paragraph>
     <Paragraph Type="Scene Heading" id="ff2224c8-4acc-4956-867a-17fd275c56b8">
-      <SceneProperties Length="1/8" Page="61" Title="">
+      <SceneProperties Length="1/8" Page="64" Title="">
         <SceneArcBeats/>
       </SceneProperties>
       <Text Style="Bold+AllCaps">Ext. Elk Rapids - Day</Text>
     </Paragraph>
     <Paragraph Type="Scene Heading" id="9db8ffae-33d8-4f33-9d0f-55621098fec0">
-      <SceneProperties Length="5" Page="61" Title="">
+      <SceneProperties Length="5" Page="64" Title="">
         <SceneArcBeats>
           <CharacterArcBeat Name="CHERRY">
             <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" OutlineLevel="0" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
@@ -6501,7 +6900,7 @@ By the way, I’m kidding. No sacrifices here, so long as you stop these data ce
           </CharacterArcBeat>
         </SceneArcBeats>
       </SceneProperties>
-      <Text Style="Underline+AllCaps">20. “</Text>
+      <Text Style="Underline+AllCaps">21. “</Text>
       <Text Color="#00000000FEFE" Style="Underline+AllCaps">Leave No Stones Unturned</Text>
       <Text Style="Underline+AllCaps">”</Text>
     </Paragraph>
@@ -6510,6 +6909,7 @@ By the way, I’m kidding. No sacrifices here, so long as you stop these data ce
       <Text>[They return to the fair where Wayland is exhibiting data center models with other developers. Petoskey offers the Ford which she scoffs but is interested in. Jasper then offers his restaurant and golf course. The </Text>
       <Text AdornmentStyle="-1">Vandams</Text>
       <Text> return with decades of themed costume while Wayland shows how much “better” AI is.]
+
 
 
 
@@ -6951,7 +7351,7 @@ By the way, I’m kidding. No sacrifices here, so long as you stop these data ce
       <Text Style="Bold+Underline+AllCaps">Scene 2</Text>
     </Paragraph>
     <Paragraph Type="Scene Heading" id="ff2224c8-4acc-4956-867a-17fd275c56b8">
-      <SceneProperties Length="2 3/8" Page="66" Title="">
+      <SceneProperties Length="2 3/8" Page="69" Title="">
         <SceneArcBeats>
           <CharacterArcBeat Name="AUDIENCE MEMBER">
             <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" OutlineLevel="0" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
@@ -7225,13 +7625,13 @@ By the way, I’m kidding. No sacrifices here, so long as you stop these data ce
       <Text Style="Bold+Underline+AllCaps">Scene 3</Text>
     </Paragraph>
     <Paragraph Type="Scene Heading" id="ff2224c8-4acc-4956-867a-17fd275c56b8">
-      <SceneProperties Length="1/8" Page="68" Title="">
+      <SceneProperties Length="1/8" Page="71" Title="">
         <SceneArcBeats/>
       </SceneProperties>
       <Text Style="Bold+AllCaps">Ext. Mackinac Bridge - Day</Text>
     </Paragraph>
     <Paragraph Type="Scene Heading" id="5da96831-1e73-4f5e-baff-daeadd78b157">
-      <SceneProperties Length="1 3/8" Page="68" Title="">
+      <SceneProperties Length="1 3/8" Page="71" Title="">
         <SceneArcBeats>
           <CharacterArcBeat Name="LIZZIE">
             <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" OutlineLevel="0" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
@@ -7250,7 +7650,7 @@ By the way, I’m kidding. No sacrifices here, so long as you stop these data ce
           </CharacterArcBeat>
         </SceneArcBeats>
       </SceneProperties>
-      <Text Style="Underline+AllCaps">21. “</Text>
+      <Text Style="Underline+AllCaps">22. “</Text>
       <Text Color="#00000000FEFE" Style="Underline+AllCaps">Water to My Soul</Text>
       <Text Style="Underline+AllCaps">”</Text>
     </Paragraph>
@@ -7405,13 +7805,13 @@ You are my soul!</Text>
       <Text Style="Bold+Underline+AllCaps">Scene 1</Text>
     </Paragraph>
     <Paragraph Type="Scene Heading" id="987c3cbc-adb0-4eed-895f-9c2ec73d05c3">
-      <SceneProperties Length="1/8" Page="70" Title="">
+      <SceneProperties Length="1/8" Page="73" Title="">
         <SceneArcBeats/>
       </SceneProperties>
       <Text Style="Bold+AllCaps">Ext. Elk Rapids, 2037 - Day</Text>
     </Paragraph>
     <Paragraph Type="Scene Heading" id="5da96831-1e73-4f5e-baff-daeadd78b157">
-      <SceneProperties Length="1" Page="70" Title="">
+      <SceneProperties Length="1" Page="73" Title="">
         <SceneArcBeats>
           <CharacterArcBeat Name="LIZZIE">
             <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" OutlineLevel="0" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
@@ -7424,7 +7824,7 @@ You are my soul!</Text>
           </CharacterArcBeat>
         </SceneArcBeats>
       </SceneProperties>
-      <Text Style="Underline+AllCaps">21A. “</Text>
+      <Text Style="Underline+AllCaps">22A. “</Text>
       <Text Color="#00000000FEFE" Style="Underline+AllCaps">Life is Complete - Reprise 2</Text>
       <Text Style="Underline+AllCaps">”</Text>
     </Paragraph>
@@ -7505,7 +7905,7 @@ And Lulu ended up turning our life story into a musical for her high school seni
       <Text Style="Bold+Underline+AllCaps">Scene 2</Text>
     </Paragraph>
     <Paragraph Type="Scene Heading" id="987c3cbc-adb0-4eed-895f-9c2ec73d05c3">
-      <SceneProperties Length="7/8" Page="71" Title="">
+      <SceneProperties Length="7/8" Page="74" Title="">
         <SceneArcBeats>
           <CharacterArcBeat Name="JACOB">
             <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" OutlineLevel="0" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
@@ -7561,7 +7961,7 @@ And here comes Elk Rapids with the world-class </Text>
       <Text>Who are we?!</Text>
     </Paragraph>
     <Paragraph Type="Scene Heading" id="5da96831-1e73-4f5e-baff-daeadd78b157">
-      <SceneProperties Length="5/8" Page="72" Title="">
+      <SceneProperties Length="5/8" Page="75" Title="">
         <SceneArcBeats>
           <CharacterArcBeat Name="CHERRY">
             <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" OutlineLevel="0" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
@@ -7583,7 +7983,7 @@ And here comes Elk Rapids with the world-class </Text>
           </CharacterArcBeat>
         </SceneArcBeats>
       </SceneProperties>
-      <Text Style="Underline+AllCaps">22. “</Text>
+      <Text Style="Underline+AllCaps">23. “</Text>
       <Text Color="#00000000FEFE" Style="Underline+AllCaps">Michigan</Text>
       <Text Style="Underline+AllCaps">”</Text>
     </Paragraph>
@@ -7700,7 +8100,7 @@ Winter in our bones.</Text>
 
   <WindowState Height="635" Left="2" Mode="Maximized" Top="2" Width="649"/>
 
-  <TextState Scaling="100" Selection="49133,49133" ShowInvisibles="No"/>
+  <TextState Scaling="100" Selection="0,0" ShowInvisibles="No"/>
 
   <ElementSettings Type="General">
     <FontSpec AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style=""/>
@@ -8134,6 +8534,8 @@ Winter in our bones.</Text>
       <Location>"DEARBORN (DEAR DEER)"</Location>
       <Location>"GICHIGAMIIN (THE GREAT LAKES BALLET)"</Location>
       <Location>MAGTOGOEK (THE WALKING PATH)</Location>
+      <Location>MACKINAC ISLAND, 2003</Location>
+      <Location>"NATURAL BEAUTY"</Location>
     </Locations>
     <TimesOfDay Separator=" - ">
       <TimeOfDay>EVENING</TimeOfDay>
