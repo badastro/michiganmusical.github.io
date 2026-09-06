@@ -18,7 +18,7 @@
           </CharacterArcBeat>
         </SceneArcBeats>
       </SceneProperties>
-      <Text Style="Bold+AllCaps">Ext. Elk Lake House in Elk Rapids, August 2008 - Day</Text>
+      <Text Style="Bold+AllCaps">Ext. Elk Lake House in Elk Rapids - August 2008 - Day</Text>
     </Paragraph>
     <Paragraph Type="Scene Heading" id="93d78288-cd47-42a1-bc05-4a7a4a908f37">
       <SceneProperties Length="4/8" Page="1" Title="">
@@ -1415,7 +1415,7 @@ Nobody.</Text>
           </CharacterArcBeat>
         </SceneArcBeats>
       </SceneProperties>
-      <Text Style="Bold+AllCaps">Ext. Elk Lake House in Elk Rapids, August 2019 - Day</Text>
+      <Text Style="Bold+AllCaps">Ext. Elk Lake House in Elk Rapids - August 2019 - Day</Text>
     </Paragraph>
     <Paragraph Type="Scene Heading" id="8a75dc57-df67-4dfc-968a-373d7d95060b">
       <SceneProperties Length="3 7/8" Page="13" Title="">
@@ -1851,7 +1851,7 @@ So, would it mean the world if I went to this year’s Harbor Days? August two <
       <SceneProperties Length="1/8" Page="16" Title="">
         <SceneArcBeats/>
       </SceneProperties>
-      <Text Style="Bold+AllCaps">Int. Elk Lake House - Living Room, August 2022 - Day</Text>
+      <Text Style="Bold+AllCaps">Int. Elk Lake House - Living Room - August 2022 - Day</Text>
     </Paragraph>
     <Paragraph Type="Scene Heading" id="8a75dc57-df67-4dfc-968a-373d7d95060b">
       <SceneProperties Length="2 3/8" Page="17" Title="">
@@ -3279,7 +3279,7 @@ Ai does the work for me!</Text>
       <SceneProperties Length="1/8" Page="30" Title="">
         <SceneArcBeats/>
       </SceneProperties>
-      <Text Style="Bold+AllCaps">Ext. Lumberjack park, August 2019 - Day</Text>
+      <Text Style="Bold+AllCaps">Ext. Lumberjack park - August 2019 - Day (3 Years ago)</Text>
     </Paragraph>
     <Paragraph Type="Scene Heading" id="2b317a2f-acac-442b-b0d3-0eb725b26d30">
       <SceneProperties Length="1 6/8" Page="30" Title="">
@@ -3466,7 +3466,7 @@ Ai does the work for me!</Text>
     <Paragraph Type="Scene Info" id="c4991dc9-c78e-42e1-985d-061b649af3c4">
       <Text Style="Bold+Underline+AllCaps">Scene 5</Text>
     </Paragraph>
-    <Paragraph Type="Scene Heading" id="294eb061-a2b6-4248-854f-106f0e51c061">
+    <Paragraph Type="Scene Heading" id="3094af7d-f3f9-4d3c-b803-8ee3bd37632a">
       <SceneProperties Length="2 1/8" Page="32" Title="">
         <SceneArcBeats>
           <CharacterArcBeat Name="BAILEY">
@@ -3489,7 +3489,7 @@ Ai does the work for me!</Text>
           </CharacterArcBeat>
         </SceneArcBeats>
       </SceneProperties>
-      <Text Style="Bold+AllCaps">Ext. Pine River - Day</Text>
+      <Text Style="Bold+AllCaps">Ext. Pine River - August 2019 - Day (3 Years ago)</Text>
     </Paragraph>
     <Paragraph Type="Action" id="debc5977-99df-43af-aa99-101aca6b00e1">
       <Text>Jacob rows on his kayak, leading the canoes downstream. Each canoe is occupied by Lulu and Petoskey, Liberty and Bailey, and others.</Text>
@@ -3665,7 +3665,7 @@ Ai does the work for me!</Text>
       <Text>LiberTY &amp; BAILEY</Text>
     </Paragraph>
     <Paragraph Type="Dialogue" id="df1c4461-40b3-48bc-8409-8d9f321bb86f">
-      <Text>Poison ivy bouquets.</Text>
+      <Text>Poison ivy bouquets?</Text>
     </Paragraph>
     <Paragraph Type="Character" id="1ace5d7e-63e2-4cba-98a5-6566edf8c575">
       <Text>Jacob</Text>
@@ -3853,7 +3853,7 @@ Dad from his deathbed.</Text>
       <Text>I said what I said.</Text>
     </Paragraph>
     <Paragraph Type="Action" id="f25e5b4c-b392-46e4-836c-2d3aa188983b">
-      <Text>The rest of the Cousins catch up to Lulu and Petoskey. They perform a fatherly and woodcraft dance.</Text>
+      <Text>The rest of the Cousins catch up to Lulu and Petoskey. Poison ivy covers Jacob’s body. They perform a fatherly and woodcraft dance.</Text>
     </Paragraph>
     <Paragraph Type="Action" id="7dba0429-d53a-4ee2-90a8-a795f850a361">
       <Text>Petoskey gets his fishing pole and extends it to Petey’s canoe.</Text>
@@ -4089,7 +4089,7 @@ Dad from his deathbed.</Text>
           </CharacterArcBeat>
         </SceneArcBeats>
       </SceneProperties>
-      <Text Style="Bold+AllCaps">Ext. Pine River, August 2022 - Day</Text>
+      <Text Style="Bold+AllCaps">Ext. Pine River - August 2022 - Day (Present)</Text>
     </Paragraph>
     <Paragraph Type="Action" id="7d18cb12-b334-4a20-af1e-b5c1f09ccfdf">
       <Text>Present-day Liz grabs Petoskey from the water.</Text>
@@ -5246,11 +5246,11 @@ Intermission</Text>
     <Paragraph Type="Scene Info" id="bfda984e-c564-4342-b53d-a7ca9637fe52">
       <Text Style="Bold+Underline+AllCaps">Scene 1</Text>
     </Paragraph>
-    <Paragraph Type="Scene Heading" id="ff2224c8-4acc-4956-867a-17fd275c56b8">
+    <Paragraph Type="Scene Heading" id="9c665425-7595-4b4e-82fc-8d3de241851c">
       <SceneProperties Length="1/8" Page="49" Title="">
         <SceneArcBeats/>
       </SceneProperties>
-      <Text Style="Bold+AllCaps">Ext. Elk Rapids, August 2016 - Day</Text>
+      <Text Style="Bold+AllCaps">Ext. Elk Rapids - August 2016 - Day (6 Years ago)</Text>
     </Paragraph>
     <Paragraph Type="Scene Heading" id="2b317a2f-acac-442b-b0d3-0eb725b26d30">
       <SceneProperties Length="2 6/8" Page="49" Title="">
@@ -5548,7 +5548,7 @@ Hands come in handy!</Text>
           </CharacterArcBeat>
         </SceneArcBeats>
       </SceneProperties>
-      <Text Style="Bold+AllCaps">Ext. Elk Rapids - Day</Text>
+      <Text Style="Bold+AllCaps">Ext. Elk Rapids - August 2022 - Day (Present)</Text>
     </Paragraph>
     <Paragraph Type="Action" id="88cf1133-89ce-46cc-86ec-3a2420807ff6">
       <Text>Liz watches the 2016 recording of her kids’ song on her phone.</Text>
@@ -5712,7 +5712,7 @@ Let us find your rock!</Text>
       <Text>Petoskey!</Text>
     </Paragraph>
     <Paragraph Type="Character" id="cfe28408-f7fd-44a3-97df-131162acc6ba">
-      <Text>VanDAMS</Text>
+      <Text AdornmentStyle="-1">VanDAMS</Text>
     </Paragraph>
     <Paragraph Type="Lyrics" id="bb923ec8-83ff-4da6-b2c7-ed3ee2740083">
       <Text>Let us find Petoskey!</Text>
@@ -6066,7 +6066,7 @@ so long as you listen to the bread.</Text>
     <Paragraph Type="Scene Info" id="bfda984e-c564-4342-b53d-a7ca9637fe52">
       <Text Style="Bold+Underline+AllCaps">Scene 4</Text>
     </Paragraph>
-    <Paragraph Type="Scene Heading" id="566e7937-6284-47c2-97bd-e288de3088f3">
+    <Paragraph Type="Scene Heading" id="43af1a96-483f-4cad-b5ed-55b07cffc2d1">
       <SceneProperties Length="7/8" Page="56" Title="">
         <SceneArcBeats>
           <CharacterArcBeat Name="LIZZIE">
@@ -6080,7 +6080,7 @@ so long as you listen to the bread.</Text>
           </CharacterArcBeat>
         </SceneArcBeats>
       </SceneProperties>
-      <Text Style="Bold+AllCaps">Ext. Mackinac Island, March 2003 - Day</Text>
+      <Text Style="Bold+AllCaps">Ext. Mackinac Island - March 2003 - Day (19 years ago)</Text>
     </Paragraph>
     <Paragraph Type="Action" id="ca743b5b-18ad-4ee7-8d44-bdb5274064a3">
       <Text>Liz and Petey sail on their boat that they made at their shipyard.</Text>
@@ -6465,11 +6465,11 @@ in nature.</Text>
     <Paragraph Type="Scene Info" id="bfda984e-c564-4342-b53d-a7ca9637fe52">
       <Text Style="Bold+Underline+AllCaps">Scene 5</Text>
     </Paragraph>
-    <Paragraph Type="Scene Heading" id="ff2224c8-4acc-4956-867a-17fd275c56b8">
+    <Paragraph Type="Scene Heading" id="b463f091-ba25-4f10-9445-842f0a2b8717">
       <SceneProperties Length="1/8" Page="59" Title="">
         <SceneArcBeats/>
       </SceneProperties>
-      <Text Style="Bold+AllCaps">Ext. Mackinac Bridge - Day</Text>
+      <Text Style="Bold+AllCaps">Ext. Mackinac Bridge - August 2022 - Day (Present)</Text>
     </Paragraph>
     <Paragraph Type="Scene Heading" id="9db8ffae-33d8-4f33-9d0f-55621098fec0">
       <SceneProperties Length="1 1/8" Page="59" Title="">
@@ -7804,11 +7804,11 @@ You are my soul!</Text>
     <Paragraph Type="Scene Info" id="c4991dc9-c78e-42e1-985d-061b649af3c4">
       <Text Style="Bold+Underline+AllCaps">Scene 1</Text>
     </Paragraph>
-    <Paragraph Type="Scene Heading" id="987c3cbc-adb0-4eed-895f-9c2ec73d05c3">
+    <Paragraph Type="Scene Heading" id="00c9048c-ce54-43ee-af1d-e638c4bceb09">
       <SceneProperties Length="1/8" Page="73" Title="">
         <SceneArcBeats/>
       </SceneProperties>
-      <Text Style="Bold+AllCaps">Ext. Elk Rapids, 2037 - Day</Text>
+      <Text Style="Bold+AllCaps">Ext. Elk Rapids - January 2037 - Day</Text>
     </Paragraph>
     <Paragraph Type="Scene Heading" id="5da96831-1e73-4f5e-baff-daeadd78b157">
       <SceneProperties Length="1" Page="73" Title="">
@@ -7828,10 +7828,10 @@ You are my soul!</Text>
       <Text Color="#00000000FEFE" Style="Underline+AllCaps">Life is Complete - Reprise 2</Text>
       <Text Style="Underline+AllCaps">”</Text>
     </Paragraph>
-    <Paragraph Type="Action" id="c0c40aea-e0d9-4490-95c9-07f4aabb71b6">
+    <Paragraph Type="Action" id="c6043fd8-f36a-47d6-813d-3bee02aa0602">
       <Text>The </Text>
       <Text AdornmentStyle="-1">Vandams</Text>
-      <Text> prepare themselves for the Harbor Days Grande Parade.</Text>
+      <Text> prepare themselves for the Michigan Bicentennial Parade.</Text>
     </Paragraph>
     <Paragraph Type="Character" id="b6c26630-b396-4071-848b-98ded47ef376">
       <Text>LizzIE</Text>
@@ -7905,14 +7905,14 @@ And Lulu ended up turning our life story into a musical for her high school seni
       <Text Style="Bold+Underline+AllCaps">Scene 2</Text>
     </Paragraph>
     <Paragraph Type="Scene Heading" id="987c3cbc-adb0-4eed-895f-9c2ec73d05c3">
-      <SceneProperties Length="7/8" Page="74" Title="">
+      <SceneProperties Length="1" Page="74" Title="">
         <SceneArcBeats>
           <CharacterArcBeat Name="JACOB">
             <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" OutlineLevel="0" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
           </CharacterArcBeat>
         </SceneArcBeats>
       </SceneProperties>
-      <Text Style="Bold+AllCaps">Ext. Lansing, January 26, 2037 - Day</Text>
+      <Text Style="Bold+AllCaps">Ext. Lansing - January 26, 2037 - Day</Text>
     </Paragraph>
     <Paragraph Type="Action" id="1945bc54-6800-4649-9321-3c741873592f">
       <Text>The Michigan Bicentennial Parade ramps up in the state capital.</Text>
@@ -7953,6 +7953,9 @@ And here comes Elk Rapids with the world-class </Text>
       <Text> family resembles the state’s best from Aretha Franklin, Charles Lindbergh, Madonna, Stevie Wonder, to Christopher Wright (author of Pham’s favorite book series, </Text>
       <Text Style="Italic">Michigan Chillers</Text>
       <Text>).</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="1c58fc90-5fed-4609-ac00-7ccb9e1fa3ec">
+      <Text>28-year-old Petoskey, his partner, and their child(ren) march alongside Lulu and her partner.</Text>
     </Paragraph>
     <Paragraph Type="Character" id="ba2bc0cd-f0dc-4056-b2e8-94b3f45b9804">
       <Text>Jacob</Text>
@@ -8586,7 +8589,7 @@ Winter in our bones.</Text>
     <Revision FullRevision="No" ID="19" Mark="*" Name="2nd Tan Rev. (mm/dd/yy)" PageColor="#FDFDF1F1C7C7" Style=""/>
   </Revisions>
 
-  <SplitState ActivePanel="1" CardsAcross="2" ShowAction="Yes" ShowSceneTitle="Yes" ShowSummary="Yes" SplitMode="None" SplitterPosition="2552">
+  <SplitState ActivePanel="1" CardsAcross="2" ShowAction="Yes" ShowSceneTitle="Yes" ShowSummary="Yes" SplitMode="None" SplitterPosition="1358">
     <ScriptPanel DisplayMode="Page">
       <FontSpec AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Arial" RevisionID="0" Size="9" Style=""/>
     </ScriptPanel>
