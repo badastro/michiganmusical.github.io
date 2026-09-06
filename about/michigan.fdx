@@ -3818,11 +3818,11 @@ You need a hunting mentor.</Text>
         <Paragraph Type="Character" id="356e6f3a-1e18-49a1-8028-3f55a0d665b7">
           <Text>Fishes</Text>
         </Paragraph>
-        <Paragraph Type="Lyrics" id="0ce1c628-570e-4df4-ad05-9032e7947bd9">
+        <Paragraph Type="Lyrics" id="a67f6a41-61b3-42de-9931-861e61a19688">
           <Text>You need to catch...
 and release...</Text>
         </Paragraph>
-        <Paragraph Type="Lyrics" id="0ce1c628-570e-4df4-ad05-9032e7947bd9">
+        <Paragraph Type="Lyrics" id="7ffad4b8-1bc2-478b-afdb-06e40469e820">
           <Text>You need to catch...
 and release...</Text>
         </Paragraph>
@@ -4290,71 +4290,257 @@ Show me danger and I’ll share it for everyone to reckon</Text>
       <Text Style="Bold+AllCaps">Ext. Lake Michigan Shores - Morning</Text>
     </Paragraph>
     <Paragraph Type="Scene Heading" id="2b317a2f-acac-442b-b0d3-0eb725b26d30">
-      <SceneProperties Length="1" Page="39" Title="">
-        <SceneArcBeats/>
+      <SceneProperties Length="2 2/8" Page="39" Title="">
+        <SceneArcBeats>
+          <CharacterArcBeat Name="COUSINS">
+            <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" OutlineLevel="0" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+          </CharacterArcBeat>
+          <CharacterArcBeat Name="LULU">
+            <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" OutlineLevel="0" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+          </CharacterArcBeat>
+          <CharacterArcBeat Name="PERRY">
+            <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" OutlineLevel="0" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+          </CharacterArcBeat>
+          <CharacterArcBeat Name="PERRY &amp; COUSINS">
+            <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" OutlineLevel="0" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+          </CharacterArcBeat>
+          <CharacterArcBeat Name="PETOSKEY">
+            <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" OutlineLevel="0" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+          </CharacterArcBeat>
+        </SceneArcBeats>
       </SceneProperties>
       <Text Style="Underline+AllCaps">11. “</Text>
-      <Text Color="#00000000FEFE" Style="Underline+AllCaps">Fossils in the Stones</Text>
+      <Text Color="#00000000FEFE" Style="Underline+AllCaps">Time Does Heal</Text>
       <Text Style="Underline+AllCaps">”</Text>
     </Paragraph>
-    <Paragraph Type="General" id="762b2422-1c67-4cea-a640-3ccfcbd123fe"/>
-    <Paragraph Type="General" id="762b2422-1c67-4cea-a640-3ccfcbd123fe">
-      <Text>[Next day, while Perry teaches fossils to the kids.]
+    <Paragraph Type="Action" id="5dda8f15-1077-4536-a630-f94577238866">
+      <Text>Perry make some noise to wake up Lulu, Petoskey, and other Cousins. She pulls all of them down to the shore for a quick science lesson.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="dfc437b5-fe4b-465d-afeb-b4d4020f9e9a">
+      <Text>PerrY</Text>
+    </Paragraph>
+    <Paragraph Type="Lyrics" id="d37d9ef2-c8f0-4657-8fdb-4df1b6ae180f">
+      <Text>Science never ends!</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="8997cad7-dbfa-4ada-8ff9-6f685f329159">
+      <Text>Cousins</Text>
+    </Paragraph>
+    <Paragraph Type="Lyrics" id="559450c8-996a-4b36-ba8c-fd771c30bc1f">
+      <Text>Science never ends!</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="6d67a390-6e41-4864-ab5c-e6952c5246aa">
+      <Text>PerrY</Text>
+    </Paragraph>
+    <Paragraph Type="Lyrics" id="06cfd6d8-4708-484a-80a4-aab819739f3c">
+      <Text>Science is your best friend!</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="34826438-ce48-49d0-a74b-8718c751810b">
+      <Text>Cousins</Text>
+    </Paragraph>
+    <Paragraph Type="Lyrics" id="97162f3a-ff66-4966-89d1-3ffa3e684b9c">
+      <Text>Science is our best friend!</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="df55ca8c-e023-4fb0-b56b-1a1714171fb9">
+      <Text>Perry pulls out a Fossil and goes to the audience.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="c78b2f90-91fc-437a-a6e5-d47c69a155f4">
+      <Text>PerRY</Text>
+    </Paragraph>
+    <Paragraph Type="Lyrics" id="c6ab09e2-c0fa-42d1-b3c3-bb3a39746793">
+      <Text>Can anyone tell me what this is?
+Can you tell me what this is?
+What is it?
+That’s right, a fossil!
 
+You know what they say?!</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="16ef62fb-f04d-405e-aea5-50c488ca8e22">
+      <Text>CousINS</Text>
+    </Paragraph>
+    <Paragraph Type="Lyrics" id="d6fc18b3-6715-40f8-af0a-336b463e4025">
+      <Text>What?!</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="a54efe61-262e-4deb-93aa-86f5579536a5">
+      <Text>PerRY</Text>
+    </Paragraph>
+    <Paragraph Type="Lyrics" id="a0e1740f-d3c3-4d27-ab85-46441dda4d56">
+      <Text>Fossils are here to stay!
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-</Text>
+Fossils are nature’s time capsule.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="cd78babe-6a9d-4c46-a3ae-fb9a41067f93">
+      <Text>CousINS</Text>
+    </Paragraph>
+    <Paragraph Type="Lyrics" id="b8cfa83e-ae38-4ea0-8f3e-2525321134c2">
+      <Text>How many years?</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="3e8b728c-aed2-4702-b234-f2691f92bf6d">
+      <Text>PerrY</Text>
+    </Paragraph>
+    <Paragraph Type="Lyrics" id="0ac2dff5-c276-4611-93d6-5a8ae26ed472">
+      <Text>Thousands, millions of years!</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="45d7b292-fdd6-41f6-b794-db4048b839c6">
+      <Text>CousINS</Text>
+    </Paragraph>
+    <Paragraph Type="Lyrics" id="8a75b3ef-d58f-4326-ae3e-f2587b72b7c6">
+      <Text>A long time!</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="3245215b-4d68-4df9-8e96-eea1329898a3">
+      <Text>PerRY</Text>
+    </Paragraph>
+    <Paragraph Type="Lyrics" id="759ae804-be71-4bdd-a66d-6a22dab5d30d">
+      <Text>Fossils are nature’s first lesson.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="e58fce44-951e-4d74-b189-e4c6ec2ec59d">
+      <Text>CousinS</Text>
+    </Paragraph>
+    <Paragraph Type="Lyrics" id="57754193-e885-4290-9ffd-c4b971ce63a9">
+      <Text>What do they teach?</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="34be032e-1de4-46b7-9370-4ea6149e6ac2">
+      <Text>PerRY</Text>
+    </Paragraph>
+    <Paragraph Type="Lyrics" id="a96b0552-6395-43b3-afeb-b9f371c60767">
+      <Text>That time does heal.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="fbb6c01b-d4ce-4f14-8717-7f16ab50c1d7">
+      <Text>CousiNS</Text>
+    </Paragraph>
+    <Paragraph Type="Lyrics" id="8c3fafc8-2c15-41d2-84ae-552567520c37">
+      <Text>Heal.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="873fa5d8-c3c1-4e13-97b6-528b31cf7635">
+      <Text>Perry &amp; Cousins</Text>
+    </Paragraph>
+    <Paragraph Type="Lyrics" id="bf61d6dc-5d38-4659-88c4-8ce41ded5aa2">
+      <Text>We’ll all learn to heal.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="c26e97d8-c091-4664-af8f-44ba19640f4d">
+      <Text>Lulu</Text>
+    </Paragraph>
+    <Paragraph Type="Lyrics" id="7fbb5b3e-55d1-402d-92d5-eed9dee30b53">
+      <Text>Do fossils have feelings?</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="14ae3b0e-975e-4b05-8eed-399f588bbf73">
+      <Text>PerrY</Text>
+    </Paragraph>
+    <Paragraph Type="Lyrics" id="8750b876-1051-4a2c-982b-690591c981ce">
+      <Text>Fossils do hold memories.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="04ef016a-f71d-48d7-bbb6-9ef5bff0be1c">
+      <Text>CousINS</Text>
+    </Paragraph>
+    <Paragraph Type="Lyrics" id="85846636-322d-46d0-8ddf-2b6e3445fb7e">
+      <Text>What do they remember?</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="5c7b146c-309e-4686-b30e-4f31ed3f4de1">
+      <Text>PerRY</Text>
+    </Paragraph>
+    <Paragraph Type="Lyrics" id="449d647a-6303-4981-bb6d-e1afc6131719">
+      <Text>Body, diet, history.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="b6aa7cad-9752-4d7b-94e6-7a0ee7e8ddb3">
+      <Text>PerRY &amp; COUSINS</Text>
+    </Paragraph>
+    <Paragraph Type="Lyrics" id="af1e5639-8438-4f5f-a799-556d85a87ebe">
+      <Text>Fossils have a story to share.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="2d6b15e8-7fa1-4560-8069-c3e30965045b">
+      <Text>PerRY</Text>
+    </Paragraph>
+    <Paragraph Type="Lyrics" id="af1e5639-8438-4f5f-a799-556d85a87ebe">
+      <Text>Stare at it long and you will see.
+Fossils have all sorts of history.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="b5f93a11-de0c-4f99-8601-c9d2f466cb4e">
+      <Text>PetoSKEY</Text>
+    </Paragraph>
+    <Paragraph Type="Lyrics" id="2b565ccd-277b-407b-bc40-1dd2a4f30184">
+      <Text>Don’t fossils remind us we’ll be history?</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="59239fa7-1ee8-4e0c-9522-6abfcece9ca1">
+      <Text>Perry</Text>
+    </Paragraph>
+    <Paragraph Type="Lyrics" id="823d64fb-2833-4b3c-a960-65c1e7ec4c5a">
+      <Text>I know how you feel...
+Fossils come here to heal
+because...</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="7b87c504-1c5e-42d6-bf5f-be37814408e9">
+      <Text>PerrY &amp; COUSINS</Text>
+    </Paragraph>
+    <Paragraph Type="Lyrics" id="23a83a60-bdf2-4f40-afff-b842512ffd50">
+      <Text>Fossils are here to stay!</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="5c100314-af2f-4a2c-a83e-e54e02e35899">
+      <Text>PerrY</Text>
+    </Paragraph>
+    <Paragraph Type="Lyrics" id="31037646-888f-4681-9885-aeec8e1b3c93">
+      <Text>Fossils are split into two main groups!</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="88877382-b537-44f3-9c96-b041ca1d3ed9">
+      <Text>The Cousins hold up dinosaur bones and footprints.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="0950c20e-3e5c-4037-8f4a-a91533dcfdf2">
+      <Text>Cousins</Text>
+    </Paragraph>
+    <Paragraph Type="Lyrics" id="45180216-7c2b-4cbe-8391-ee1355f53a5e">
+      <Text>Trace and body!</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="590b5c1a-882e-4dfc-bd5f-76bebffbac5b">
+      <Text>PerRY</Text>
+    </Paragraph>
+    <Paragraph Type="Lyrics" id="8a900e47-80b9-4b36-8932-4ef27c265f01">
+      <Text>Footprint fossils are different from bones!</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="6a170172-ebb7-4d36-bd02-09f4594ec0bd">
+      <Text>Cousins</Text>
+    </Paragraph>
+    <Paragraph Type="Lyrics" id="088bdbd5-098f-4cae-82b2-f7dd8cded703">
+      <Text>Dinosaurs!</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="7e7ef054-f988-4ddb-be5e-f4de188ef8d2">
+      <Text>PerRY</Text>
+    </Paragraph>
+    <Paragraph Type="Lyrics" id="8bb823cd-ddb7-4304-88c7-4b8c699ce5e3">
+      <Text>Fossils are nature’s reminder!</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="062d013b-ae6d-4007-b1e6-0359a52f1408">
+      <Text>CousinS</Text>
+    </Paragraph>
+    <Paragraph Type="Lyrics" id="207a07ee-5d27-4e74-96ea-671f9c2b2b11">
+      <Text>And that is time...</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="4a334661-7499-4164-9ec4-7438c3380559">
+      <Text>PerrY</Text>
+    </Paragraph>
+    <Paragraph Type="Lyrics" id="2b201a78-0f64-486f-a6ad-e4d7ca7fc771">
+      <Text>That time does heal.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="05fa1689-f358-4372-81b6-969c4d3601dd">
+      <Text>CousinS</Text>
+    </Paragraph>
+    <Paragraph Type="Lyrics" id="801f6710-0894-4908-a328-4faaa2b92757">
+      <Text>Heal.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="d3eb0c1b-6422-40a2-862d-88adbe2fe091">
+      <Text>PerRY &amp; COUSINS</Text>
+    </Paragraph>
+    <Paragraph Type="Lyrics" id="1e300dd9-d4d6-47c3-9b0f-b21919e7013c">
+      <Text>We’ll all learn to heal.
+Fossils help us heal.</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="40547a94-a540-48f6-8713-69e7745d448d">
+      <Text>Perry gives fossils to everyone.</Text>
     </Paragraph>
     <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="1.25" RightIndent="7.25" SpaceBefore="12" Spacing="1" StartsNewPage="No" Type="General" id="eb856690-b1a3-4f35-8b5f-8c2819a62116">
       <Text Style="Underline">End of “</Text>
-      <Text Color="#00000000FEFE" Style="Underline+AllCaps">Fossils in the Stones</Text>
+      <Text Color="#00000000FEFE" Style="Underline+AllCaps">Time does Heal</Text>
       <Text Style="Underline">”</Text>
     </Paragraph>
     <Paragraph Type="Scene Heading" id="2b317a2f-acac-442b-b0d3-0eb725b26d30">
-      <SceneProperties Length="1 5/8" Page="40" Title="">
+      <SceneProperties Length="1 4/8" Page="41" Title="">
         <SceneArcBeats>
           <CharacterArcBeat Name="LULU">
             <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" OutlineLevel="0" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
@@ -4370,13 +4556,7 @@ Show me danger and I’ll share it for everyone to reckon</Text>
       <Text Style="Underline+AllCaps">”</Text>
     </Paragraph>
     <Paragraph Type="Action" id="4b0f39ae-5cba-43af-8780-beac416142b1">
-      <Text>Lulu trails off from the group. </Text>
-    </Paragraph>
-    <Paragraph Type="Action" id="2a260655-c8bd-4b7b-bcd2-2ddd9ba73475">
-      <Text>As she walks along the coastline of the fourth wall, the Deer approaches from the audience. They drop off the Heirloom and other special rocks and fossils.</Text>
-    </Paragraph>
-    <Paragraph Type="Action" id="78b2b8e7-2b32-4f26-94b0-d8d40990840a">
-      <Text>Lulu looks over as the Deer dashes away. She finds the rock deposits.</Text>
+      <Text>Lulu trails off from the group, looking at her fossil. As she walks along the coastline of the fourth wall, the Deer approaches from the audience. They startle her. She uses the fossil as a shield. The Deer snatches her fossil away then drop off the Heirloom and other special rocks. She stares at the rock deposit.</Text>
     </Paragraph>
     <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="1.25" RightIndent="7.25" SpaceBefore="12" Spacing="1" StartsNewPage="No" Type="General" id="eb856690-b1a3-4f35-8b5f-8c2819a62116">
       <Text AdornmentStyle="-1" Style="Underline+AllCaps">Magtogoek</Text>
@@ -4392,7 +4572,6 @@ Show me danger and I’ll share it for everyone to reckon</Text>
     <Paragraph Type="Action" id="76731b03-8469-4a8a-b3d4-ab63b199be58">
       <Text>The Chippewa, Keepers of Tradition, dance and interact.</Text>
     </Paragraph>
-    <Paragraph Type="Action" id="3ff3e74f-c49d-4bf5-8ad0-067458e3d508"/>
     <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="1.25" RightIndent="7.25" SpaceBefore="12" Spacing="1" StartsNewPage="No" Type="General" id="eb856690-b1a3-4f35-8b5f-8c2819a62116">
       <Text AdornmentStyle="-1" Style="Underline+AllCaps">Erielhonan</Text>
       <Text Style="Underline+AllCaps"> (Long Tail)</Text>
@@ -4472,7 +4651,7 @@ Show me danger and I’ll share it for everyone to reckon</Text>
       <Text Style="Bold+Underline+AllCaps">Scene 9</Text>
     </Paragraph>
     <Paragraph Type="Scene Heading" id="6c191985-dc7e-4bd5-acfb-f6b6e0ad2bb7">
-      <SceneProperties Length="2" Page="41" Title="">
+      <SceneProperties Length="2" Page="42" Title="">
         <SceneArcBeats>
           <CharacterArcBeat Name="CHERRY">
             <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" OutlineLevel="0" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
@@ -4662,7 +4841,7 @@ Show me danger and I’ll share it for everyone to reckon</Text>
       <Text>You didn’t happen to buy these at a rock store?</Text>
     </Paragraph>
     <Paragraph Type="Scene Heading" id="2b317a2f-acac-442b-b0d3-0eb725b26d30">
-      <SceneProperties Length="3 4/8" Page="43" Title="">
+      <SceneProperties Length="3 4/8" Page="44" Title="">
         <SceneArcBeats>
           <CharacterArcBeat Name="CHERRY">
             <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" OutlineLevel="0" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
@@ -4999,7 +5178,7 @@ You’ve hurt...</Text>
       <Text Style="Underline">”</Text>
     </Paragraph>
     <Paragraph Type="Scene Heading" id="2b317a2f-acac-442b-b0d3-0eb725b26d30">
-      <SceneProperties Length="1 7/8" Page="47" Title="">
+      <SceneProperties Length="1 7/8" Page="48" Title="">
         <SceneArcBeats>
           <CharacterArcBeat Name="KEEPERS">
             <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" OutlineLevel="0" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
@@ -5247,13 +5426,13 @@ Intermission</Text>
       <Text Style="Bold+Underline+AllCaps">Scene 1</Text>
     </Paragraph>
     <Paragraph Type="Scene Heading" id="9c665425-7595-4b4e-82fc-8d3de241851c">
-      <SceneProperties Length="1/8" Page="49" Title="">
+      <SceneProperties Length="1/8" Page="51" Title="">
         <SceneArcBeats/>
       </SceneProperties>
       <Text Style="Bold+AllCaps">Ext. Elk Rapids - August 2016 - Day (6 Years ago)</Text>
     </Paragraph>
     <Paragraph Type="Scene Heading" id="2b317a2f-acac-442b-b0d3-0eb725b26d30">
-      <SceneProperties Length="2 6/8" Page="49" Title="">
+      <SceneProperties Length="2 6/8" Page="51" Title="">
         <SceneArcBeats>
           <CharacterArcBeat Name="LULU">
             <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" OutlineLevel="0" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
@@ -5535,7 +5714,7 @@ Hands come in handy!</Text>
       <Text Style="Bold+Underline+AllCaps">Scene 2</Text>
     </Paragraph>
     <Paragraph Type="Scene Heading" id="ff2224c8-4acc-4956-867a-17fd275c56b8">
-      <SceneProperties Length="4/8" Page="51" Title="">
+      <SceneProperties Length="4/8" Page="53" Title="">
         <SceneArcBeats>
           <CharacterArcBeat Name="CHERRY">
             <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" OutlineLevel="0" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
@@ -5593,7 +5772,7 @@ Hands come in handy!</Text>
       <Text>When did it ever?</Text>
     </Paragraph>
     <Paragraph Type="Scene Heading" id="2b317a2f-acac-442b-b0d3-0eb725b26d30">
-      <SceneProperties Length="1 3/8" Page="52" Title="">
+      <SceneProperties Length="1 3/8" Page="54" Title="">
         <SceneArcBeats>
           <CharacterArcBeat Name="LIBERTY &amp; BAILEY">
             <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" OutlineLevel="0" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
@@ -5729,7 +5908,7 @@ Let us find your rock!</Text>
       <Text Style="Bold+Underline+AllCaps">Scene 3</Text>
     </Paragraph>
     <Paragraph Type="Scene Heading" id="ff2224c8-4acc-4956-867a-17fd275c56b8">
-      <SceneProperties Length="6/8" Page="53" Title="">
+      <SceneProperties Length="6/8" Page="55" Title="">
         <SceneArcBeats>
           <CharacterArcBeat Name="JASPER">
             <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" OutlineLevel="0" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
@@ -5797,7 +5976,7 @@ Let us find your rock!</Text>
       <Text>No, I don’t.</Text>
     </Paragraph>
     <Paragraph Type="Scene Heading" id="2b317a2f-acac-442b-b0d3-0eb725b26d30">
-      <SceneProperties Length="2 3/8" Page="54" Title="">
+      <SceneProperties Length="2 3/8" Page="56" Title="">
         <SceneArcBeats>
           <CharacterArcBeat Name="JACOB">
             <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" OutlineLevel="0" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
@@ -6067,7 +6246,7 @@ so long as you listen to the bread.</Text>
       <Text Style="Bold+Underline+AllCaps">Scene 4</Text>
     </Paragraph>
     <Paragraph Type="Scene Heading" id="43af1a96-483f-4cad-b5ed-55b07cffc2d1">
-      <SceneProperties Length="7/8" Page="56" Title="">
+      <SceneProperties Length="7/8" Page="58" Title="">
         <SceneArcBeats>
           <CharacterArcBeat Name="LIZZIE">
             <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" OutlineLevel="0" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
@@ -6165,7 +6344,7 @@ so long as you listen to the bread.</Text>
       <Text>...?</Text>
     </Paragraph>
     <Paragraph Type="Scene Heading" id="9db8ffae-33d8-4f33-9d0f-55621098fec0">
-      <SceneProperties Length="2 3/8" Page="57" Title="">
+      <SceneProperties Length="2 3/8" Page="59" Title="">
         <SceneArcBeats>
           <CharacterArcBeat Name="LIZZIE">
             <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" OutlineLevel="0" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
@@ -6466,13 +6645,13 @@ in nature.</Text>
       <Text Style="Bold+Underline+AllCaps">Scene 5</Text>
     </Paragraph>
     <Paragraph Type="Scene Heading" id="b463f091-ba25-4f10-9445-842f0a2b8717">
-      <SceneProperties Length="1/8" Page="59" Title="">
+      <SceneProperties Length="1/8" Page="61" Title="">
         <SceneArcBeats/>
       </SceneProperties>
       <Text Style="Bold+AllCaps">Ext. Mackinac Bridge - August 2022 - Day (Present)</Text>
     </Paragraph>
     <Paragraph Type="Scene Heading" id="9db8ffae-33d8-4f33-9d0f-55621098fec0">
-      <SceneProperties Length="1 1/8" Page="59" Title="">
+      <SceneProperties Length="1 1/8" Page="61" Title="">
         <SceneArcBeats>
           <CharacterArcBeat Name="PETOSKEY">
             <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" OutlineLevel="0" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
@@ -6548,7 +6727,7 @@ in nature.</Text>
       <Text Style="Underline">”</Text>
     </Paragraph>
     <Paragraph Type="Scene Heading" id="9db8ffae-33d8-4f33-9d0f-55621098fec0">
-      <SceneProperties Length="2 6/8" Page="61" Title="">
+      <SceneProperties Length="2 6/8" Page="63" Title="">
         <SceneArcBeats>
           <CharacterArcBeat Name="JASPER">
             <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" OutlineLevel="0" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
@@ -6830,13 +7009,13 @@ By the way, I’m kidding. No sacrifices here, so long as you stop these data ce
       <Text Style="Bold+Underline+AllCaps">Scene 1</Text>
     </Paragraph>
     <Paragraph Type="Scene Heading" id="ff2224c8-4acc-4956-867a-17fd275c56b8">
-      <SceneProperties Length="1/8" Page="64" Title="">
+      <SceneProperties Length="1/8" Page="66" Title="">
         <SceneArcBeats/>
       </SceneProperties>
       <Text Style="Bold+AllCaps">Ext. Elk Rapids - Day</Text>
     </Paragraph>
     <Paragraph Type="Scene Heading" id="9db8ffae-33d8-4f33-9d0f-55621098fec0">
-      <SceneProperties Length="5" Page="64" Title="">
+      <SceneProperties Length="5" Page="66" Title="">
         <SceneArcBeats>
           <CharacterArcBeat Name="CHERRY">
             <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" OutlineLevel="0" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
@@ -7351,7 +7530,7 @@ By the way, I’m kidding. No sacrifices here, so long as you stop these data ce
       <Text Style="Bold+Underline+AllCaps">Scene 2</Text>
     </Paragraph>
     <Paragraph Type="Scene Heading" id="ff2224c8-4acc-4956-867a-17fd275c56b8">
-      <SceneProperties Length="2 3/8" Page="69" Title="">
+      <SceneProperties Length="2 3/8" Page="71" Title="">
         <SceneArcBeats>
           <CharacterArcBeat Name="AUDIENCE MEMBER">
             <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" OutlineLevel="0" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
@@ -7625,13 +7804,13 @@ By the way, I’m kidding. No sacrifices here, so long as you stop these data ce
       <Text Style="Bold+Underline+AllCaps">Scene 3</Text>
     </Paragraph>
     <Paragraph Type="Scene Heading" id="ff2224c8-4acc-4956-867a-17fd275c56b8">
-      <SceneProperties Length="1/8" Page="71" Title="">
+      <SceneProperties Length="1/8" Page="73" Title="">
         <SceneArcBeats/>
       </SceneProperties>
       <Text Style="Bold+AllCaps">Ext. Mackinac Bridge - Day</Text>
     </Paragraph>
     <Paragraph Type="Scene Heading" id="5da96831-1e73-4f5e-baff-daeadd78b157">
-      <SceneProperties Length="1 3/8" Page="71" Title="">
+      <SceneProperties Length="1 3/8" Page="73" Title="">
         <SceneArcBeats>
           <CharacterArcBeat Name="LIZZIE">
             <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" OutlineLevel="0" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
@@ -7805,13 +7984,13 @@ You are my soul!</Text>
       <Text Style="Bold+Underline+AllCaps">Scene 1</Text>
     </Paragraph>
     <Paragraph Type="Scene Heading" id="00c9048c-ce54-43ee-af1d-e638c4bceb09">
-      <SceneProperties Length="1/8" Page="73" Title="">
+      <SceneProperties Length="1/8" Page="75" Title="">
         <SceneArcBeats/>
       </SceneProperties>
       <Text Style="Bold+AllCaps">Ext. Elk Rapids - January 2037 - Day</Text>
     </Paragraph>
     <Paragraph Type="Scene Heading" id="5da96831-1e73-4f5e-baff-daeadd78b157">
-      <SceneProperties Length="1" Page="73" Title="">
+      <SceneProperties Length="1" Page="75" Title="">
         <SceneArcBeats>
           <CharacterArcBeat Name="LIZZIE">
             <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" OutlineLevel="0" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
@@ -7905,7 +8084,7 @@ And Lulu ended up turning our life story into a musical for her high school seni
       <Text Style="Bold+Underline+AllCaps">Scene 2</Text>
     </Paragraph>
     <Paragraph Type="Scene Heading" id="987c3cbc-adb0-4eed-895f-9c2ec73d05c3">
-      <SceneProperties Length="1" Page="74" Title="">
+      <SceneProperties Length="1" Page="76" Title="">
         <SceneArcBeats>
           <CharacterArcBeat Name="JACOB">
             <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" OutlineLevel="0" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
@@ -7964,7 +8143,7 @@ And here comes Elk Rapids with the world-class </Text>
       <Text>Who are we?!</Text>
     </Paragraph>
     <Paragraph Type="Scene Heading" id="5da96831-1e73-4f5e-baff-daeadd78b157">
-      <SceneProperties Length="5/8" Page="75" Title="">
+      <SceneProperties Length="5/8" Page="77" Title="">
         <SceneArcBeats>
           <CharacterArcBeat Name="CHERRY">
             <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" OutlineLevel="0" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
@@ -8103,7 +8282,7 @@ Winter in our bones.</Text>
 
   <WindowState Height="635" Left="2" Mode="Maximized" Top="2" Width="649"/>
 
-  <TextState Scaling="100" Selection="0,0" ShowInvisibles="No"/>
+  <TextState Scaling="100" Selection="33339,33389" ShowInvisibles="No"/>
 
   <ElementSettings Type="General">
     <FontSpec AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style=""/>
@@ -8477,6 +8656,7 @@ Winter in our bones.</Text>
       <Character>Fishes</Character>
       <Character>Lulu &amp; Cousins</Character>
       <Character>Michilimackinac</Character>
+      <Character>Perry &amp; Cousins</Character>
     </Characters>
     <Extensions>
       <Extension>(OFF)</Extension>
@@ -8502,6 +8682,7 @@ Winter in our bones.</Text>
       <SceneIntro>12</SceneIntro>
       <SceneIntro>9</SceneIntro>
       <SceneIntro>10</SceneIntro>
+      <SceneIntro>11</SceneIntro>
     </SceneIntros>
     <Locations>
       <Location>"LIFE IS COMPLETE"</Location>
@@ -8539,6 +8720,7 @@ Winter in our bones.</Text>
       <Location>MAGTOGOEK (THE WALKING PATH)</Location>
       <Location>MACKINAC ISLAND, 2003</Location>
       <Location>"NATURAL BEAUTY"</Location>
+      <Location>"TIME DOES HEAL"</Location>
     </Locations>
     <TimesOfDay Separator=" - ">
       <TimeOfDay>EVENING</TimeOfDay>
@@ -8589,7 +8771,7 @@ Winter in our bones.</Text>
     <Revision FullRevision="No" ID="19" Mark="*" Name="2nd Tan Rev. (mm/dd/yy)" PageColor="#FDFDF1F1C7C7" Style=""/>
   </Revisions>
 
-  <SplitState ActivePanel="1" CardsAcross="2" ShowAction="Yes" ShowSceneTitle="Yes" ShowSummary="Yes" SplitMode="None" SplitterPosition="1358">
+  <SplitState ActivePanel="1" CardsAcross="2" ShowAction="Yes" ShowSceneTitle="Yes" ShowSummary="Yes" SplitMode="None" SplitterPosition="2552">
     <ScriptPanel DisplayMode="Page">
       <FontSpec AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Arial" RevisionID="0" Size="9" Style=""/>
     </ScriptPanel>
@@ -9027,6 +9209,7 @@ Winter in our bones.</Text>
     <Member Actor="" Character="Fishes"/>
     <Member Actor="" Character="Lulu &amp; Cousins"/>
     <Member Actor="" Character="Michilimackinac"/>
+    <Member Actor="" Character="Perry &amp; Cousins"/>
   </Cast>
 
   <SceneNumberOptions LeftLocation="0.75" NumberScheme="1A" RightLocation="7.38" ShowNumbersOnLeft="Yes" ShowNumbersOnRight="Yes">
@@ -9075,6 +9258,7 @@ Winter in our bones.</Text>
     <Character Color="#RRRRGGGGBBBB" Name="OLIGARCH" Visible="No"/>
     <Character Color="#RRRRGGGGBBBB" Name="OLIGARCHS" Visible="No"/>
     <Character Color="#RRRRGGGGBBBB" Name="PERRY" Visible="No"/>
+    <Character Color="#RRRRGGGGBBBB" Name="PERRY &amp; COUSINS" Visible="No"/>
     <Character Color="#RRRRGGGGBBBB" Name="PETEY" Visible="No"/>
     <Character Color="#RRRRGGGGBBBB" Name="PETEY &amp; MILLY" Visible="No"/>
     <Character Color="#RRRRGGGGBBBB" Name="PETEY &amp; PETOSKEY" Visible="No"/>
