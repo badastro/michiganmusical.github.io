@@ -6719,7 +6719,7 @@ Everyday this bedrock sleepwalks.</Text>
       <Text Style="Underline">”</Text>
     </Paragraph>
     <Paragraph Type="Scene Heading" id="9db8ffae-33d8-4f33-9d0f-55621098fec0">
-      <SceneProperties Length="2 6/8" Page="62" Title="">
+      <SceneProperties Length="3 6/8" Page="62" Title="">
         <SceneArcBeats>
           <CharacterArcBeat Name="JASPER">
             <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" OutlineLevel="0" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
@@ -6812,12 +6812,87 @@ Everyday this bedrock sleepwalks.</Text>
     <Paragraph Type="Dialogue" id="07f401c2-9ca8-44c8-90dc-5fda855bb7a9">
       <Text>You must be Petoskey. I’ve heard so much about you, yet he hasn’t met you. But he heard my call, and we met as bodies of water.</Text>
     </Paragraph>
-    <Paragraph Type="Dialogue" id="bb0bc798-6527-41a8-9b00-ce6a71412f98"/>
     <Paragraph Type="Character" id="5174308c-227d-4147-8c71-c1b26ca705a1">
       <Text>PetoSKEY</Text>
     </Paragraph>
     <Paragraph Type="Dialogue" id="5db996a3-67ea-4d68-8488-0c56af383be3">
       <Text>Why did you take my dad away?</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="aa221734-f0ea-4f5f-a56f-0a83ad22a572">
+      <Text>MICHILIMACKINAC</Text>
+    </Paragraph>
+    <Paragraph Type="Lyrics" id="885a120b-363e-48fb-9b5d-bee7de46e584">
+      <Text>When your loved one passes...</Text>
+    </Paragraph>
+    <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="1.25" RightIndent="7.25" SpaceBefore="12" Spacing="1" StartsNewPage="No" Type="General" id="7cd823c3-e8c6-4fb3-b1e4-abc23097b283">
+      <DualDialogue>
+        <SpellCheckIgnoreLists>
+          <IgnoredRanges/>
+          <IgnoredWords/>
+        </SpellCheckIgnoreLists>
+        <Paragraph Type="Character" id="9be9c15a-e7b3-4cea-be9a-86b49daaea0c">
+          <Text>MicHILIMACKINAC</Text>
+        </Paragraph>
+        <Paragraph Type="Lyrics" id="fb42dc98-9137-44d2-b5b0-12ee961ff634">
+          <Text>No longer leaving footprints on the world.</Text>
+        </Paragraph>
+        <Paragraph Type="Character" id="d872d3cb-07dd-4533-8291-ba7fad73ec2f">
+          <Text>Lulu &amp; PETOSKEY</Text>
+        </Paragraph>
+        <Paragraph Type="Lyrics" id="ab053413-255e-4a49-afc7-19f740130499">
+          <Text>No longer...</Text>
+        </Paragraph>
+      </DualDialogue>
+    </Paragraph>
+    <Paragraph Type="Character" id="bcb5fb49-1af0-44eb-b76a-9e08df9b654f">
+      <Text>Lulu &amp; PETOSKEY</Text>
+    </Paragraph>
+    <Paragraph Type="Lyrics" id="204622d5-b9ea-48f7-a01d-ba70cc59b492">
+      <Text>The world no longer spins.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="cda5df26-9ab7-4250-8a9d-ea5376a36682">
+      <Text>MichiLIMACKINAC</Text>
+    </Paragraph>
+    <Paragraph Type="Lyrics" id="c00b53b2-f95d-4f53-85fd-6fad4e19097c">
+      <Text>Your family don’t lay forever in tombs.</Text>
+    </Paragraph>
+    <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="1.25" RightIndent="7.25" SpaceBefore="12" Spacing="1" StartsNewPage="No" Type="General" id="8c684e5e-67e6-4ff6-89b3-13d34f7343f9">
+      <DualDialogue>
+        <SpellCheckIgnoreLists>
+          <IgnoredRanges/>
+          <IgnoredWords/>
+        </SpellCheckIgnoreLists>
+        <Paragraph Type="Character" id="c28ab6e2-9ae1-4b5f-aa3b-bdd77a14448d">
+          <Text>MichiLIMACKINAC</Text>
+        </Paragraph>
+        <Paragraph Type="Lyrics" id="4aac8389-0889-416b-bd92-94b5fb853654">
+          <Text>The dead’s set in stone and fossilized.</Text>
+        </Paragraph>
+        <Paragraph Type="Character" id="c7bbe4da-0d8f-452b-8035-fe527f7e31bb">
+          <Text>Lulu &amp; PETOSKEY</Text>
+        </Paragraph>
+        <Paragraph Type="Lyrics" id="21ab1e02-1fe7-4a0c-95d2-08317ac1cd35">
+          <Text>The dead live on?</Text>
+        </Paragraph>
+      </DualDialogue>
+    </Paragraph>
+    <Paragraph Type="Character" id="7fec8a6b-6af7-47a9-bbeb-e04e5dac1195">
+      <Text>MichILIMACKINAC</Text>
+    </Paragraph>
+    <Paragraph Type="Lyrics" id="1efc80ef-efb9-42c0-a062-bae276e79e31">
+      <Text>So everyone’s families remembered in the fossils.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="90e7fedd-1780-484e-baa0-bc62775061c1">
+      <Text>Lulu &amp; PETOSKEY</Text>
+    </Paragraph>
+    <Paragraph Type="Lyrics" id="690e0e8b-cd09-479f-b80f-4cbc27d45c07">
+      <Text>Family’s in the fossils?</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="046cc6f9-b334-49ed-b774-1e4d6e0d763b">
+      <Text>MichiLIMACKINAC</Text>
+    </Paragraph>
+    <Paragraph Type="Lyrics" id="03ffa5d1-fc8a-48cb-9d89-306e0310fbc1">
+      <Text>Them fossils.</Text>
     </Paragraph>
     <Paragraph Type="Character" id="bcb5fb49-1af0-44eb-b76a-9e08df9b654f">
       <Text>MIcHILIMACKINAC</Text>
@@ -6825,13 +6900,33 @@ Everyday this bedrock sleepwalks.</Text>
     <Paragraph Type="Dialogue" id="e30f9c61-0cdf-4689-94a0-923640d68480">
       <Text>I’m here to take everyone suffering from pain.</Text>
     </Paragraph>
-    <Paragraph Type="Action" id="935508f5-a05e-4206-adc7-4331052b8a7b">
-      <Text>[</Text>
-      <Text AdornmentStyle="-1">TBD</Text>
-      <Text>]
-
-
-</Text>
+    <Paragraph Type="Character" id="02be3e1e-7228-4e8a-afe7-5920bd93d6d2">
+      <Text>PetoSKEY</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="512edf5f-5de4-4807-bd2c-4c0ac852cfdf">
+      <Text>Can you take mom’s pain away?</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="5d5ee7cf-28ce-4213-a85d-79780d2a0b7f">
+      <Text>MICHILIMACKINAC</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="0199b970-4bf3-4743-a9bb-84fd5a8006b2">
+      <Text>If she wants to take a shortcut here, like her lover. Be my guest. Anyone can be my guest.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="427ce480-74fe-45a2-8588-6e1354bb46e2">
+      <Text>Lulu &amp; PETOSKEY</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="5e192e7b-5c7a-4dd0-adea-9315ed9f6ef2">
+      <Text>No </Text>
+      <Text AdornmentStyle="-1">no</Text>
+      <Text> </Text>
+      <Text AdornmentStyle="-1">no</Text>
+      <Text>.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="2ad35173-ddf9-476c-88e2-f28273d68e4a">
+      <Text>Lulu</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="dadbad60-4b9e-46c0-a20b-67548f3f9ccd">
+      <Text>We don’t need another soul to be your guest.</Text>
     </Paragraph>
     <Paragraph Type="Character" id="d83a469c-f15b-4c2f-9103-833e86fff5aa">
       <Text>MicHILIMACKINAC</Text>
@@ -6928,6 +7023,76 @@ By the way, I’m kidding. No sacrifices here, so long as you stop these data ce
       <Text Style="Italic">great</Text>
       <Text>, my children.</Text>
     </Paragraph>
+    <Paragraph Type="Character" id="6465a0a4-abf4-4b40-81a5-fe53830d1e84">
+      <Text>MICHILIMACKINAC</Text>
+    </Paragraph>
+    <Paragraph Type="Lyrics" id="5ca3b5a1-7830-40f5-a69f-f4de4c755971">
+      <Text>When your loved one passes...</Text>
+    </Paragraph>
+    <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="1.25" RightIndent="7.25" SpaceBefore="12" Spacing="1" StartsNewPage="No" Type="General" id="7cd823c3-e8c6-4fb3-b1e4-abc23097b283">
+      <DualDialogue>
+        <SpellCheckIgnoreLists>
+          <IgnoredRanges/>
+          <IgnoredWords/>
+        </SpellCheckIgnoreLists>
+        <Paragraph Type="Character" id="9be9c15a-e7b3-4cea-be9a-86b49daaea0c">
+          <Text>MicHILIMACKINAC</Text>
+        </Paragraph>
+        <Paragraph Type="Lyrics" id="fb42dc98-9137-44d2-b5b0-12ee961ff634">
+          <Text>No longer leaving footprints on the world.</Text>
+        </Paragraph>
+        <Paragraph Type="Character" id="d872d3cb-07dd-4533-8291-ba7fad73ec2f">
+          <Text>Lulu &amp; PETOSKEY</Text>
+        </Paragraph>
+        <Paragraph Type="Lyrics" id="ab053413-255e-4a49-afc7-19f740130499">
+          <Text>No longer...</Text>
+        </Paragraph>
+      </DualDialogue>
+    </Paragraph>
+    <Paragraph Type="Character" id="bcb5fb49-1af0-44eb-b76a-9e08df9b654f">
+      <Text>Lulu &amp; PETOSKEY</Text>
+    </Paragraph>
+    <Paragraph Type="Lyrics" id="1ca4cb45-7cb9-4cde-9c44-a13c965aa8b2">
+      <Text>The world no longer spins.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="f5b6b2dc-a10c-4269-a441-83d4a954dcf6">
+      <Text>MichiLIMACKINAC</Text>
+    </Paragraph>
+    <Paragraph Type="Lyrics" id="c5f17e01-eca9-4449-a048-3ae036ad060f">
+      <Text>Your family don’t lay forever in tombs.</Text>
+    </Paragraph>
+    <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="1.25" RightIndent="7.25" SpaceBefore="12" Spacing="1" StartsNewPage="No" Type="General" id="8c684e5e-67e6-4ff6-89b3-13d34f7343f9">
+      <DualDialogue>
+        <SpellCheckIgnoreLists>
+          <IgnoredRanges/>
+          <IgnoredWords/>
+        </SpellCheckIgnoreLists>
+        <Paragraph Type="Character" id="c28ab6e2-9ae1-4b5f-aa3b-bdd77a14448d">
+          <Text>MichiLIMACKINAC</Text>
+        </Paragraph>
+        <Paragraph Type="Lyrics" id="4aac8389-0889-416b-bd92-94b5fb853654">
+          <Text>The dead’s set in stone and fossilized.</Text>
+        </Paragraph>
+        <Paragraph Type="Character" id="c7bbe4da-0d8f-452b-8035-fe527f7e31bb">
+          <Text>Lulu &amp; PETOSKEY</Text>
+        </Paragraph>
+        <Paragraph Type="Lyrics" id="21ab1e02-1fe7-4a0c-95d2-08317ac1cd35">
+          <Text>The dead live on?</Text>
+        </Paragraph>
+      </DualDialogue>
+    </Paragraph>
+    <Paragraph Type="Character" id="db5e347c-e1b7-420f-a63a-7e0ff7a977fc">
+      <Text>MichILIMACKINAC</Text>
+    </Paragraph>
+    <Paragraph Type="Lyrics" id="771ee7c5-ee40-42b4-9b8d-1b1036dc35ab">
+      <Text>So everyone’s families remembered in the fossils.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="b1b2cd89-338a-4ba7-a4c7-b7d7ecfe5ce9">
+      <Text>Lulu &amp; PETOSKEY</Text>
+    </Paragraph>
+    <Paragraph Type="Lyrics" id="a3918cb0-0a3a-4421-a05c-cbd1f2cbc5e1">
+      <Text>Family’s in the fossils.</Text>
+    </Paragraph>
     <Paragraph Type="Character" id="c21ec981-12d8-4b8a-ba70-c3c6516bad9a">
       <Text>KeEPERS (V.O.)</Text>
     </Paragraph>
@@ -7004,7 +7169,7 @@ By the way, I’m kidding. No sacrifices here, so long as you stop these data ce
       <Text Style="Bold+Underline+AllCaps">Scene 1</Text>
     </Paragraph>
     <Paragraph Type="Scene Heading" id="ff2224c8-4acc-4956-867a-17fd275c56b8">
-      <SceneProperties Length="4 7/8" Page="66" Title="">
+      <SceneProperties Length="4 7/8" Page="67" Title="">
         <SceneArcBeats>
           <CharacterArcBeat Name="AI">
             <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" OutlineLevel="0" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
@@ -7585,7 +7750,7 @@ By the way, I’m kidding. No sacrifices here, so long as you stop these data ce
       <Text>Activate Elk dot AI!</Text>
     </Paragraph>
     <Paragraph Type="Scene Heading" id="9db8ffae-33d8-4f33-9d0f-55621098fec0">
-      <SceneProperties Length="3 3/8" Page="71" Title="">
+      <SceneProperties Length="3 3/8" Page="72" Title="">
         <SceneArcBeats>
           <CharacterArcBeat Name="CHERRY">
             <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" OutlineLevel="0" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
@@ -7982,7 +8147,7 @@ By the way, I’m kidding. No sacrifices here, so long as you stop these data ce
       <Text Style="Bold+Underline+AllCaps">Scene 2</Text>
     </Paragraph>
     <Paragraph Type="Scene Heading" id="ff2224c8-4acc-4956-867a-17fd275c56b8">
-      <SceneProperties Length="2 3/8" Page="74" Title="">
+      <SceneProperties Length="2 3/8" Page="75" Title="">
         <SceneArcBeats>
           <CharacterArcBeat Name="AUDIENCE MEMBER">
             <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" OutlineLevel="0" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
@@ -8256,13 +8421,13 @@ By the way, I’m kidding. No sacrifices here, so long as you stop these data ce
       <Text Style="Bold+Underline+AllCaps">Scene 3</Text>
     </Paragraph>
     <Paragraph Type="Scene Heading" id="ff2224c8-4acc-4956-867a-17fd275c56b8">
-      <SceneProperties Length="1/8" Page="76" Title="">
+      <SceneProperties Length="1/8" Page="77" Title="">
         <SceneArcBeats/>
       </SceneProperties>
       <Text Style="Bold+AllCaps">Ext. Mackinac Bridge - Day</Text>
     </Paragraph>
     <Paragraph Type="Scene Heading" id="5da96831-1e73-4f5e-baff-daeadd78b157">
-      <SceneProperties Length="1 2/8" Page="76" Title="">
+      <SceneProperties Length="1 2/8" Page="77" Title="">
         <SceneArcBeats>
           <CharacterArcBeat Name="LIZZIE">
             <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" OutlineLevel="0" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
@@ -8436,13 +8601,13 @@ You are my soul!</Text>
       <Text Style="Bold+Underline+AllCaps">Scene 1</Text>
     </Paragraph>
     <Paragraph Type="Scene Heading" id="00c9048c-ce54-43ee-af1d-e638c4bceb09">
-      <SceneProperties Length="1/8" Page="79" Title="">
+      <SceneProperties Length="1/8" Page="80" Title="">
         <SceneArcBeats/>
       </SceneProperties>
       <Text Style="Bold+AllCaps">Ext. Elk Rapids - January 2037 - Day</Text>
     </Paragraph>
     <Paragraph Type="Scene Heading" id="5da96831-1e73-4f5e-baff-daeadd78b157">
-      <SceneProperties Length="1" Page="79" Title="">
+      <SceneProperties Length="1" Page="80" Title="">
         <SceneArcBeats>
           <CharacterArcBeat Name="LIZZIE">
             <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" OutlineLevel="0" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
@@ -8536,7 +8701,7 @@ And Lulu ended up turning our life story into a musical for her high school seni
       <Text Style="Bold+Underline+AllCaps">Scene 2</Text>
     </Paragraph>
     <Paragraph Type="Scene Heading" id="987c3cbc-adb0-4eed-895f-9c2ec73d05c3">
-      <SceneProperties Length="1" Page="80" Title="">
+      <SceneProperties Length="1" Page="81" Title="">
         <SceneArcBeats>
           <CharacterArcBeat Name="JACOB">
             <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" OutlineLevel="0" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
@@ -8586,7 +8751,13 @@ And here comes Elk Rapids with the world-class </Text>
       <Text>).</Text>
     </Paragraph>
     <Paragraph Type="Action" id="1c58fc90-5fed-4609-ac00-7ccb9e1fa3ec">
-      <Text>28-year-old Petoskey, his partner, and their child(ren) march alongside Lulu and her partner.</Text>
+      <Text>28-year-old Petoskey, his </Text>
+      <Text Style="AllCaps">partner</Text>
+      <Text>, and their </Text>
+      <Text Style="AllCaps">child(ren)</Text>
+      <Text> march alongside Lulu and her </Text>
+      <Text Style="AllCaps">partner</Text>
+      <Text>.</Text>
     </Paragraph>
     <Paragraph Type="Character" id="ba2bc0cd-f0dc-4056-b2e8-94b3f45b9804">
       <Text>Jacob</Text>
@@ -8595,7 +8766,7 @@ And here comes Elk Rapids with the world-class </Text>
       <Text>Who are we?!</Text>
     </Paragraph>
     <Paragraph Type="Scene Heading" id="5da96831-1e73-4f5e-baff-daeadd78b157">
-      <SceneProperties Length="5/8" Page="81" Title="">
+      <SceneProperties Length="5/8" Page="82" Title="">
         <SceneArcBeats>
           <CharacterArcBeat Name="CHERRY">
             <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" OutlineLevel="0" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
@@ -8734,7 +8905,7 @@ Winter in our bones.</Text>
 
   <WindowState Height="635" Left="2" Mode="Maximized" Top="2" Width="649"/>
 
-  <TextState Scaling="100" Selection="0,0" ShowInvisibles="No"/>
+  <TextState Scaling="100" Selection="53911,53911" ShowInvisibles="No"/>
 
   <ElementSettings Type="General">
     <FontSpec AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style=""/>
