@@ -2138,33 +2138,18 @@ It would be a shame if I make...</Text>
       <Text Style="Bold+AllCaps">Ext. Elk Lake House in Elk Rapids - Day</Text>
     </Paragraph>
     <Paragraph Type="Scene Heading" id="2b317a2f-acac-442b-b0d3-0eb725b26d30">
-      <SceneProperties Length="6" Page="19" Title="">
+      <SceneProperties Length="2 7/8" Page="19" Title="">
         <SceneArcBeats>
-          <CharacterArcBeat Name="CHERRY">
-            <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" OutlineLevel="0" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
-          </CharacterArcBeat>
-          <CharacterArcBeat Name="CHERRY &amp; SHELBY">
-            <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" OutlineLevel="0" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
-          </CharacterArcBeat>
           <CharacterArcBeat Name="CHERRY, PERRY, SHELBY">
             <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" OutlineLevel="0" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
           </CharacterArcBeat>
           <CharacterArcBeat Name="JASPER">
             <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" OutlineLevel="0" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
           </CharacterArcBeat>
-          <CharacterArcBeat Name="KIDS">
-            <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" OutlineLevel="0" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
-          </CharacterArcBeat>
           <CharacterArcBeat Name="LIZZIE">
             <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" OutlineLevel="0" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
           </CharacterArcBeat>
-          <CharacterArcBeat Name="LIZZIE &amp; SHELBY">
-            <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" OutlineLevel="0" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
-          </CharacterArcBeat>
           <CharacterArcBeat Name="LULU">
-            <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" OutlineLevel="0" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
-          </CharacterArcBeat>
-          <CharacterArcBeat Name="LULU &amp; JACOB">
             <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" OutlineLevel="0" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
           </CharacterArcBeat>
           <CharacterArcBeat Name="LULU &amp; PETOSKEY">
@@ -2173,25 +2158,10 @@ It would be a shame if I make...</Text>
           <CharacterArcBeat Name="LULU, PETOSKEY, KIDS">
             <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" OutlineLevel="0" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
           </CharacterArcBeat>
-          <CharacterArcBeat Name="MILLY">
-            <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" OutlineLevel="0" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
-          </CharacterArcBeat>
-          <CharacterArcBeat Name="PERRY">
-            <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" OutlineLevel="0" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
-          </CharacterArcBeat>
           <CharacterArcBeat Name="PETOSKEY">
             <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" OutlineLevel="0" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
           </CharacterArcBeat>
           <CharacterArcBeat Name="SHELBY">
-            <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" OutlineLevel="0" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
-          </CharacterArcBeat>
-          <CharacterArcBeat Name="VANDAMS">
-            <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" OutlineLevel="0" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
-          </CharacterArcBeat>
-          <CharacterArcBeat Name="WAYLAND">
-            <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" OutlineLevel="0" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
-          </CharacterArcBeat>
-          <CharacterArcBeat Name="WILLY">
             <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" OutlineLevel="0" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
           </CharacterArcBeat>
         </SceneArcBeats>
@@ -2333,7 +2303,7 @@ Tax season!
 Camp reasons!
 Come collect:</Text>
     </Paragraph>
-    <Paragraph Type="Action" id="092851fd-e4ae-4f50-bcc4-fac46bfb59e8">
+    <Paragraph Type="Action" id="312f20a1-dc5f-4dd2-b24d-380e360e57bd">
       <Text>[The Aunties tax and collect from the kids on Jasper’s behalf.]</Text>
     </Paragraph>
     <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="1.25" RightIndent="7.25" SpaceBefore="12" Spacing="1" StartsNewPage="No" Type="General" id="5422ee1c-7cce-4d72-b488-a18a9072990f">
@@ -2400,30 +2370,7 @@ All thanks to the dad tax!</Text>
     <Paragraph Type="Action" id="dc37ddc1-0c35-42e9-b40b-74aaead07c0a">
       <Text>[Liz sings about the mom tax. It is more egregious than the dad tax. The kids start a Boston Tea Party-</Text>
       <Text AdornmentStyle="-1">esque</Text>
-      <Text> revolution due to being dad and mom taxed without kid representation.]
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-</Text>
+      <Text> revolution due to being dad and mom taxed without kid representation.]</Text>
     </Paragraph>
     <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="1.25" RightIndent="7.25" SpaceBefore="12" Spacing="1" StartsNewPage="No" Type="General" id="eb856690-b1a3-4f35-8b5f-8c2819a62116">
       <Text Style="Underline">End of “</Text>
@@ -2444,32 +2391,484 @@ All thanks to the dad tax!</Text>
     <Paragraph Type="Action" id="f23a832f-27cc-43cb-819c-2718aa543ac1">
       <Text>Jasper goes into the Lake House.</Text>
     </Paragraph>
-    <Paragraph Type="Character" id="fbeeb076-4726-4398-a3dd-1bcac275af8e">
+    <Paragraph Type="Character" id="2d4811ea-5362-47eb-b4ad-e4d3c9f8f3a8">
+      <Text>ShelbY</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="5c94f321-dbae-41cc-8420-26b986ddc6c4">
+      <Text>Lemme get Lulu...</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="e190d110-c2df-4c66-a2c9-476fa5363775">
+      <Text>Shelby goes to Lulu’s tent alone.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="e54e8f08-c079-4eb4-a68c-4b173b13e6dd">
+      <Text>ShelBY</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="65ec7dd3-2489-4634-84f3-bde0a9284aab">
+      <Text>Dearest Lulu, everyone’s waiting for you.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="7d786316-fb4f-4d76-92b7-8c40d40495cc">
       <Text>LulU</Text>
     </Paragraph>
-    <Paragraph Type="Dialogue" id="c9038dd4-f4db-41dc-a2a2-b6c9a090a437">
-      <Text>One can only wish for a godfather like Jasper.</Text>
+    <Paragraph Type="Dialogue" id="dedf9050-b872-4a38-a08e-0f04ded3bf2e">
+      <Text>Where?</Text>
     </Paragraph>
-    <Paragraph Type="Character" id="9e7fea9d-4804-4103-9d5f-ba3d62693e95">
-      <Text>PetoskEY</Text>
+    <Paragraph Type="Character" id="6cc80cb2-9958-4898-b46a-9bb3cf236474">
+      <Text>SHELBY</Text>
     </Paragraph>
-    <Paragraph Type="Dialogue" id="12f56fac-4b2d-432b-aba4-475682a8b0fe">
-      <Text>You just saw him and our moms tax us.</Text>
+    <Paragraph Type="Dialogue" id="6ea25422-3d75-42a9-b26c-362fe8317709">
+      <Text>By the bonfire.</Text>
     </Paragraph>
-    <Paragraph Type="Character" id="53d63e90-d0d1-4e5e-bbe7-d7ada6b3b433">
-      <Text>LizZie &amp; Shelby</Text>
+    <Paragraph Type="Character" id="92aaa0ac-274c-4903-9948-c183f35621a9">
+      <Text>LULU</Text>
     </Paragraph>
-    <Paragraph Type="Dialogue" id="b07e0ee5-150a-45f3-824b-e2d9b2976317">
-      <Text>We gave you welfare in the world, we can tax you out of it.</Text>
+    <Paragraph Type="Dialogue" id="1a8d58f7-d821-4442-a79c-9442227feeef">
+      <Text>That can wait. I’ve got a musical to finish!</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="c303fff2-d600-4f71-950c-34e9c4c9e37e">
+      <Text>SHELBY</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="b3da7107-9254-4ac0-a5b7-f2e114714b01">
+      <Text>And you think staying in your tent like your room fills you with inspiration?</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="8e495e25-45ba-4b46-8d1b-86324dbedd1d">
+      <Text>LULU</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="379ac76d-3eef-4370-9007-bec432e96faa">
+      <Text>I need to finish my musical before school starts at the end of the month.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="d9c696e9-23c7-4761-8dc0-28a292e33972">
+      <Text>ShelBY</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="e219aecb-32f6-4b47-8ebe-458c381bd4d9">
+      <Text>You can’t write on empty eyes.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="695aa435-d375-4c3c-9fea-8d68e3f4a866">
+      <Text>LULU</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="04da6143-341e-4c26-8cc2-3af3348672a8">
+      <Text>Don’t you mean stomach?</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="fdf9d35f-fec3-49b2-b912-7267179e3aa9">
+      <Text>SHELBY</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="13b67965-eb55-439e-afd4-976c6f001edb">
+      <Text>You can’t write without </Text>
+      <Text Style="Italic">fire in your eyes</Text>
+      <Text>.</Text>
+    </Paragraph>
+    <Paragraph Type="Scene Heading" id="2b317a2f-acac-442b-b0d3-0eb725b26d30">
+      <SceneProperties Length="6 3/8" Page="22" Title="">
+        <SceneArcBeats>
+          <CharacterArcBeat Name="CHERRY">
+            <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" OutlineLevel="0" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+          </CharacterArcBeat>
+          <CharacterArcBeat Name="CHERRY &amp; SHELBY">
+            <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" OutlineLevel="0" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+          </CharacterArcBeat>
+          <CharacterArcBeat Name="CHERRY, PERRY, SHELBY">
+            <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" OutlineLevel="0" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+          </CharacterArcBeat>
+          <CharacterArcBeat Name="DEER">
+            <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" OutlineLevel="0" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+          </CharacterArcBeat>
+          <CharacterArcBeat Name="JACOB">
+            <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" OutlineLevel="0" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+          </CharacterArcBeat>
+          <CharacterArcBeat Name="JASPER">
+            <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" OutlineLevel="0" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+          </CharacterArcBeat>
+          <CharacterArcBeat Name="KIDS">
+            <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" OutlineLevel="0" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+          </CharacterArcBeat>
+          <CharacterArcBeat Name="LIZZIE">
+            <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" OutlineLevel="0" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+          </CharacterArcBeat>
+          <CharacterArcBeat Name="LULU">
+            <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" OutlineLevel="0" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+          </CharacterArcBeat>
+          <CharacterArcBeat Name="LULU &amp; JACOB">
+            <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" OutlineLevel="0" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+          </CharacterArcBeat>
+          <CharacterArcBeat Name="LULU, PETOSKEY, KIDS">
+            <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" OutlineLevel="0" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+          </CharacterArcBeat>
+          <CharacterArcBeat Name="MILLY">
+            <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" OutlineLevel="0" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+          </CharacterArcBeat>
+          <CharacterArcBeat Name="PERRY">
+            <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" OutlineLevel="0" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+          </CharacterArcBeat>
+          <CharacterArcBeat Name="PETOSKEY">
+            <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" OutlineLevel="0" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+          </CharacterArcBeat>
+          <CharacterArcBeat Name="SHELBY">
+            <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" OutlineLevel="0" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+          </CharacterArcBeat>
+          <CharacterArcBeat Name="TWINS">
+            <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" OutlineLevel="0" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+          </CharacterArcBeat>
+          <CharacterArcBeat Name="VANDAMS">
+            <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" OutlineLevel="0" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+          </CharacterArcBeat>
+          <CharacterArcBeat Name="WAYLAND">
+            <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" OutlineLevel="0" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+          </CharacterArcBeat>
+          <CharacterArcBeat Name="WILLY">
+            <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" OutlineLevel="0" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+          </CharacterArcBeat>
+        </SceneArcBeats>
+      </SceneProperties>
+      <Text Style="Underline+AllCaps">7. “</Text>
+      <Text Color="#00000000FEFE" Style="Underline+AllCaps">Dearborn</Text>
+      <Text Style="Underline+AllCaps">”</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="c036f5ac-f57a-49f5-9a09-dcd79a3d62ef">
+      <Text>Lulu stays hiding in her tent.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="8fb9f6df-c337-4de5-a8b8-b7d2c301f602">
+      <Text>Lulu</Text>
+    </Paragraph>
+    <Paragraph Type="Lyrics" id="20cbc6f1-3841-4f8a-b30d-a64fbcf02b09">
+      <Text AdornmentStyle="-1">Ooo</Text>
+      <Text>... </Text>
+      <Text AdornmentStyle="-1">Ooo</Text>
+      <Text>... </Text>
+      <Text AdornmentStyle="-1">Ooo</Text>
+      <Text>... </Text>
+      <Text AdornmentStyle="-1">Ooo</Text>
+      <Text>... </Text>
+      <Text AdornmentStyle="-1">Ooo</Text>
+      <Text>...</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="4aa6f310-4e2a-4942-8a58-104062fd5280">
+      <Text>Lulu hops out of her tent with her Banjo.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="f0cb03fe-6a01-45b7-a03e-a9e87479b3b5">
+      <Text>Lulu</Text>
+    </Paragraph>
+    <Paragraph Type="Lyrics" id="fc7b1554-30f6-46f9-b98e-cd97ed2ede40">
+      <Text>Dearest Lulu!
+Dearborn represent!
+
+I don’t know why time
+has never moved forward
+</Text>
+      <Text AdornmentStyle="-1">ev</Text>
+      <Text>’ since I was born
+</Text>
+      <Text AdornmentStyle="-1">ev</Text>
+      <Text>’ since I could rhyme!
+I cannot find that state of mind.
+Sigh...
+So help me, 
+my dearest.</Text>
+    </Paragraph>
+    <Paragraph Type="Lyrics" id="792486a4-28c1-4b7c-a096-6681e42ef0ad">
+      <Text>
+I have been in tune
+to Earth and her spirits
+the day mom gave birth
+</Text>
+      <Text AdornmentStyle="-1">‘til</Text>
+      <Text> I’m a tomb.
+Bury my heart, so she’d bloom.
+</Text>
+      <Text AdornmentStyle="-1">Ooo</Text>
+      <Text>... </Text>
+      <Text AdornmentStyle="-1">Ooo</Text>
+      <Text>... Raise me.
+Oh dearest.
+Dearborn.</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="0ced9ff6-feb4-44e4-b263-fc6a40258654">
+      <Text>Lulu shows off her theatre fandom.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="5ca2ebb1-ffde-4fd9-a210-26a480a127d5">
+      <Text>Lulu</Text>
+    </Paragraph>
+    <Paragraph Type="Lyrics" id="792486a4-28c1-4b7c-a096-6681e42ef0ad">
+      <Text>I have dreamt countless fables set to musicals!
+How oh how can I not write past “Dear?”
+My lyrics lack soul, losing her sense of direction.
+Spiritual connections.
+Dear me: why can’t I lock in?
+Dearborn writer’s block!</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="37c42538-5d4e-4e2f-a555-d391faece0c5">
+      <Text>In Lulu’s head, the rest of the </Text>
+      <Text AdornmentStyle="-1">Vandams</Text>
+      <Text> answer her question.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="60e84976-5a33-4739-bc04-84bd8ebaf211">
+      <Text AdornmentStyle="-1">VaNDAMS</Text>
+    </Paragraph>
+    <Paragraph Type="Lyrics" id="e39e8439-70e0-43fa-8924-bebbffe2c2cf">
+      <Text>Dear Lulu,
+you’re a </Text>
+      <Text AdornmentStyle="-1">losah</Text>
+      <Text>!
+A looney loser!</Text>
+    </Paragraph>
+    <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="1.25" RightIndent="7.25" SpaceBefore="12" Spacing="1" StartsNewPage="No" Type="General" id="aa2504a2-ed60-4b67-9255-ce2225b455ef">
+      <DualDialogue>
+        <SpellCheckIgnoreLists>
+          <IgnoredRanges/>
+          <IgnoredWords/>
+        </SpellCheckIgnoreLists>
+        <Paragraph Type="Character" id="70cbd0fb-1fb1-46fb-a72d-e1d93ae07619">
+          <Text>Lulu</Text>
+        </Paragraph>
+        <Paragraph Type="Lyrics" id="31d76f13-b149-4f6a-b1cd-10646978388b">
+          <Text>Note to self: it’s because your family hates you, LU...</Text>
+        </Paragraph>
+        <Paragraph Type="Character" id="827dc8cc-44ce-46ca-a4d8-69130222dc7d">
+          <Text AdornmentStyle="-1">Vandams</Text>
+        </Paragraph>
+        <Paragraph Type="Lyrics" id="174a37cb-b7a9-4fb6-be87-339f7aa57990">
+          <Text>Loo... Loo... 
+Loser... </Text>
+        </Paragraph>
+      </DualDialogue>
+    </Paragraph>
+    <Paragraph Type="Action" id="fa09bdaa-3661-45f3-87c4-42b109726b3b">
+      <Text>Lulu runs away from the family. She stops herself in the middle of a dirt road.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="dd594dd5-a272-4741-9b9b-dd9e3a14f4e5">
+      <Text>Lulu</Text>
+    </Paragraph>
+    <Paragraph Type="Lyrics" id="2b587175-4598-42bb-a8c4-2499888b8868">
+      <Text>No longer in tune
+to Earth and his demons.
+I wish mom ain’t birth me.
+See you in a tomb.
+Bury my heart for she’s doomed.
+</Text>
+      <Text AdornmentStyle="-1">Ooo</Text>
+      <Text>... Don’t save me.
+Don’t deary...</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="edcff4f0-9b35-486c-ae71-6e6184e3dbe9">
+      <Text>A vehicle with huge headlights approaches Lulu. Before it can hit her, a </Text>
+      <Text Style="AllCaps">Deer</Text>
+      <Text> stands in its way and stops it.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="707a7341-e5a0-458c-b411-4c1b88ac3559">
+      <Text>Lulu</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="cef3bbd3-6e32-4de5-bfed-b5d0103ad855">
+      <Text>Ah deer...</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="654a2386-6b72-49d8-be3e-c18c2e3bd02e">
+      <Text>More Deer join the first Deer.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="16c0238d-24af-4228-ac2a-40673a354aa0">
+      <Text>LulU</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="611624fc-b539-4b81-ba12-14d607bb8c05">
+      <Text>Oh </Text>
+      <Text AdornmentStyle="-1">deers</Text>
+      <Text>!</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="4b59663a-6795-4505-b99b-000610c5e689">
+      <Text>Deer</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="815361c2-fb32-4b03-9456-1c44df0fd4a0">
+      <Text>The plural form of "deer" is still "deer," dear.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="28bce93f-7e81-4563-b264-8dc7ae4e6bf4">
+      <Text>Deer</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="974fa3fa-7174-409f-bc1f-b8ca9b627d7f">
+      <Text>Why are you in the middle of the road?</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="6df20b48-a1a2-43e0-b7ad-e34220d162c0">
+      <Text>LULU</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="6a7f2fa3-6661-4113-9f75-54ef576777e3">
+      <Text>My life's a dead end. Why are you protecting me, deer...</Text>
+      <Text AdornmentStyle="-1">ssss</Text>
+      <Text>...?</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="3bfe217f-2c64-4f78-8746-afb9ce2149dc">
+      <Text>DEER</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="96bdb3bc-dc33-478f-8cad-d0a8fc0382d1">
+      <Text>Who exactly are we protecting?</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="bd6ef36e-b8d5-4432-bce2-4ba1d51805f4">
+      <Text>LULU</Text>
+    </Paragraph>
+    <Paragraph Type="Lyrics" id="d1da5dde-8ca7-471c-9047-4f7957eb96d5">
+      <Text>Name’s lulu...</Text>
+    </Paragraph>
+    <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="1.25" RightIndent="7.25" SpaceBefore="12" Spacing="1" StartsNewPage="No" Type="General" id="1cda13ca-1b07-4c08-8d8b-cd95a023f8be">
+      <DualDialogue>
+        <SpellCheckIgnoreLists>
+          <IgnoredRanges/>
+          <IgnoredWords/>
+        </SpellCheckIgnoreLists>
+        <Paragraph Type="Character" id="db454080-0761-4c52-91fc-fa702e935248">
+          <Text>LulU</Text>
+        </Paragraph>
+        <Paragraph Type="Lyrics" id="d1da5dde-8ca7-471c-9047-4f7957eb96d5">
+          <Text>I’m a loser.
+A looney loser.
+Huh?</Text>
+        </Paragraph>
+        <Paragraph Type="Character" id="c6b910df-0582-4b74-b199-dcb1cf234c1b">
+          <Text>Deer</Text>
+        </Paragraph>
+        <Paragraph Type="Lyrics" id="2228640a-285a-4da1-9665-06cc58f8549c">
+          <Text>A loose cannon
+with nothing to lose.</Text>
+        </Paragraph>
+      </DualDialogue>
+    </Paragraph>
+    <Paragraph Type="Character" id="3ae349f1-f4a7-4903-b555-2ea76c961f1f">
+      <Text>DeeR</Text>
+    </Paragraph>
+    <Paragraph Type="Lyrics" id="ece0a3c0-a339-47e5-9cd2-b7be6dedfb40">
+      <Text>Dearborn.
+You’re meant to go buck wild!
+But were made shy.
+Why oh why ain’t ya born a
+Deer facing spotlight, bent, agile, a respectable role.
+Mother nature’s souls.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="e2f4fd52-97b0-4acd-99c9-48b90b383490">
+      <Text>Lulu</Text>
+    </Paragraph>
+    <Paragraph Type="Lyrics" id="2396c49d-a389-45f2-865b-e760cac7b127">
+      <Text AdornmentStyle="-1">Ooo</Text>
+      <Text>... </Text>
+      <Text AdornmentStyle="-1">Ooo</Text>
+      <Text>... </Text>
+      <Text AdornmentStyle="-1">Ooo</Text>
+      <Text>...
+Dear me: now I wanna start writing musicals about deer?</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="b96ae997-89e9-4400-9551-867e8034c401">
+      <Text>The Deer lead Lulu back to the bonfire.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="f2d513d4-abc7-4b39-a328-8cdd612fd7d6">
+      <Text>Deer</Text>
+    </Paragraph>
+    <Paragraph Type="Lyrics" id="45d2beef-ed39-4309-b43e-b9d3975d2751">
+      <Text>Deary... </Text>
+      <Text AdornmentStyle="-1">Ooo</Text>
+      <Text>...
+Dearest Lulu,
+please choose your muse, spirit, Lu...
+Don’t lose to these losers.
+Got that, Lulu?
+Lulu?</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="998671cb-97b7-4779-a776-83e88e7ae1e6">
+      <Text>Lulu</Text>
+    </Paragraph>
+    <Paragraph Type="Lyrics" id="d1545fbf-befc-44bc-b3cc-a74f89409887">
+      <Text>I wanna win everyone’s hearts with or without my art!
+Can ah can I Make my “I Want” song clearer?
+I wanna win respect by any means!
+Evening getting mean!
+Dear me:
+What will I bring being Dearborn </Text>
+      <Text AdornmentStyle="-1">Dearborn</Text>
+      <Text>!</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="404a8de5-c967-4141-adb8-3eae28cde41b">
+      <Text>The </Text>
+      <Text AdornmentStyle="-1">Vandams</Text>
+      <Text> gather, unknowing that a family of Deer lurk nearby.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="9548842d-8ae2-4c87-b943-d265a307deae">
+      <Text>Lulu</Text>
+    </Paragraph>
+    <Paragraph Type="Lyrics" id="78ae5762-3452-410c-b38c-1ab334abc00c">
+      <Text>Dear Lulu... yes, you!
+You </Text>
+      <Text AdornmentStyle="-1">you</Text>
+      <Text> </Text>
+      <Text AdornmentStyle="-1">you</Text>
+      <Text> </Text>
+      <Text AdornmentStyle="-1">you</Text>
+      <Text> </Text>
+      <Text AdornmentStyle="-1">you</Text>
+      <Text>. You’re...
+Dearborn. Dearborn. You are dearest born...</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="44b6be6a-2326-4c80-aebe-f4bfc6c39ef8">
+      <Text AdornmentStyle="-1">VaNDAMS</Text>
+    </Paragraph>
+    <Paragraph Type="Lyrics" id="4f0dfb3a-1d8d-481f-8dbe-2c486dbd2897">
+      <Text>Dear Lulu,
+you’re a </Text>
+      <Text AdornmentStyle="-1">losah</Text>
+      <Text>!
+A looney loser!</Text>
+    </Paragraph>
+    <Paragraph Type="Lyrics" id="4f0dfb3a-1d8d-481f-8dbe-2c486dbd2897">
+      <Text>Loo... Loo... 
+Loser...</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="5ae9aa09-f4d0-47a2-82af-984935fc9de5">
+      <Text>Deer</Text>
+    </Paragraph>
+    <Paragraph Type="Lyrics" id="d560c38b-7f28-4733-82e6-a7bf0aa5174b">
+      <Text>Dearest Lulu,
+The loose cannon with nothing to lose.
+Lulu... Lulu... LUlu...</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="c70fabe6-676a-4914-9215-342b2d71d682">
+      <Text>The </Text>
+      <Text AdornmentStyle="-1">Vandams</Text>
+      <Text> heighten the bonfire, scaring off the Deer family.</Text>
+    </Paragraph>
+    <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="1.25" RightIndent="7.25" SpaceBefore="12" Spacing="1" StartsNewPage="No" Type="General" id="eb856690-b1a3-4f35-8b5f-8c2819a62116">
+      <Text Style="Underline">End of “</Text>
+      <Text Color="#00000000FEFE" Style="Underline+AllCaps">Dearborn</Text>
+      <Text Style="Underline">”</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="fbeeb076-4726-4398-a3dd-1bcac275af8e">
+      <Text>Twins</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="695866c6-3ef6-449c-9824-930d2652564e">
+      <Text>So some </Text>
+      <Text AdornmentStyle="-1">deers</Text>
+      <Text> saved you when you ran away?</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="57fcc13a-fbbb-4754-b7fd-600c8358cb6b">
+      <Text>Lulu</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="12cb179e-f862-4230-a4f3-2caa2f1cac99">
+      <Text>Plural of “deer” is still “deer.” Yes, dear.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="4de568d5-fab3-4790-bd0c-aea4ccb06564">
+      <Text>Jacob</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="6aced67d-625a-4402-af0e-5f9583c926fc">
+      <Text>You had nothing to lose, telling us that wild story. That’s a Dearborn song if I say so myself. Can’t wait to see the full musical. Now, anything you’d like to share, Petoskey, why we still wait on-</Text>
     </Paragraph>
     <Paragraph Type="Action" id="5a12e4c2-45af-456d-974b-f76f6e253368">
       <Text>Jasper enters with Willy. He pulls up a chair.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="02e88ede-430b-4f7b-a20e-a3bbef2c9345">
+      <Text>CherrY, PERRY, SHELBY</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="b8b66e92-1bb9-4b0a-98a5-7fe313673a60">
+      <Text>Took you hours.</Text>
     </Paragraph>
     <Paragraph Type="Character" id="887bbd9f-9a5a-4990-beef-46f2d2dbcbe3">
       <Text>JaSPER</Text>
     </Paragraph>
     <Paragraph Type="Dialogue" id="e9a3ec27-a8b9-4194-be4b-1f29eda374cb">
-      <Text>Why don’t you have a seat here?</Text>
+      <Text>Willy kept talking to Henry Ford’s ghost.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="8ac6afe7-58bc-4f1f-b560-a730d885ff72">
+      <Text>CHERRY, PERRY, SHELBY</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="f01ca57c-f727-43c6-977c-35284d093118">
+      <Text>Henry Ford, ugh...</Text>
     </Paragraph>
     <Paragraph Type="Action" id="ff3431aa-5d71-4ec4-8e8b-9019ade64f76">
       <Text>Willy sits. Everyone sits down.</Text>
@@ -2794,7 +3193,7 @@ All thanks to the dad tax!</Text>
       <Text>To maintain the premises...</Text>
     </Paragraph>
     <Paragraph Type="Scene Heading" id="2b317a2f-acac-442b-b0d3-0eb725b26d30">
-      <SceneProperties Length="2 7/8" Page="25" Title="">
+      <SceneProperties Length="1 6/8" Page="28" Title="">
         <SceneArcBeats>
           <CharacterArcBeat Name="CHERRY">
             <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" OutlineLevel="0" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
@@ -2819,7 +3218,7 @@ All thanks to the dad tax!</Text>
           </CharacterArcBeat>
         </SceneArcBeats>
       </SceneProperties>
-      <Text Style="Underline+AllCaps">7. “</Text>
+      <Text Style="Underline+AllCaps">8. “</Text>
       <Text Color="#00000000FEFE" Style="Underline+AllCaps">AI DOes the Work for Me</Text>
       <Text Style="Underline+AllCaps">”</Text>
     </Paragraph>
@@ -2851,30 +3250,8 @@ All thanks to the dad tax!</Text>
       <Text>Listen, freaks. I’m not your enemy!</Text>
     </Paragraph>
     <Paragraph Type="Action" id="cad0d94c-6c7c-43bc-9b88-c92f6db9df34">
-      <Text>[Wayland explains the power of a data center.]
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-</Text>
+      <Text>[Wayland explains the power of a data center.]</Text>
     </Paragraph>
-    <Paragraph Type="Action" id="633d6346-0c89-4e39-932e-51deb10fbd99"/>
-    <Paragraph Type="Action" id="fda4128b-7adc-4ed4-bd2b-d242171770c5"/>
     <Paragraph Type="Character" id="abcd7fdf-c586-4ac6-99c2-d8ce225d9abe">
       <Text>Wayland</Text>
     </Paragraph>
@@ -2932,46 +3309,8 @@ All thanks to the dad tax!</Text>
     <Paragraph Type="Lyrics" id="0197f6fd-9586-41d2-af25-5d89fa298041">
       <Text>Speaking of city!</Text>
     </Paragraph>
-    <Paragraph Type="Action" id="b1b9bb0e-5e8c-4119-b939-a5c5bebad03d">
-      <Text>[There is a montage of Wayland stealing away every home in every city in Michigan.]
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-</Text>
+    <Paragraph Type="Action" id="9809f301-63a7-4051-b9d8-85314622afb4">
+      <Text>[There is a montage of Wayland stealing away every home in every city in Michigan.]</Text>
     </Paragraph>
     <Paragraph Type="Character" id="fbebdc94-ec09-4729-a980-7dfe58c83b24">
       <Text>WayLAND</Text>
@@ -3052,7 +3391,7 @@ Ai does the work for me!</Text>
       <Text Style="Bold+Underline+AllCaps">Scene 6</Text>
     </Paragraph>
     <Paragraph Type="Scene Heading" id="06da4649-6b94-4082-9ec1-2b3e8a87f1ef">
-      <SceneProperties Length="4/8" Page="28" Title="">
+      <SceneProperties Length="4/8" Page="30" Title="">
         <SceneArcBeats>
           <CharacterArcBeat Name="LIZZIE">
             <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" OutlineLevel="0" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
@@ -3106,7 +3445,7 @@ Ai does the work for me!</Text>
       <Text> Press.</Text>
     </Paragraph>
     <Paragraph Type="Scene Heading" id="2b317a2f-acac-442b-b0d3-0eb725b26d30">
-      <SceneProperties Length="1 5/8" Page="29" Title="">
+      <SceneProperties Length="1 5/8" Page="31" Title="">
         <SceneArcBeats>
           <CharacterArcBeat Name="CHERRY &amp; PERRY">
             <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" OutlineLevel="0" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
@@ -3122,7 +3461,7 @@ Ai does the work for me!</Text>
           </CharacterArcBeat>
         </SceneArcBeats>
       </SceneProperties>
-      <Text Style="Underline+AllCaps">7a. “</Text>
+      <Text Style="Underline+AllCaps">8a. “</Text>
       <Text Color="#00000000FEFE" Style="Underline+AllCaps">Life is COmplete - Reprise</Text>
       <Text Style="Underline+AllCaps">”</Text>
     </Paragraph>
@@ -3272,13 +3611,13 @@ Ai does the work for me!</Text>
       <Text Style="Bold+Underline+AllCaps">Scene 4</Text>
     </Paragraph>
     <Paragraph Type="Scene Heading" id="06da4649-6b94-4082-9ec1-2b3e8a87f1ef">
-      <SceneProperties Length="1/8" Page="30" Title="">
+      <SceneProperties Length="1/8" Page="32" Title="">
         <SceneArcBeats/>
       </SceneProperties>
       <Text Style="Bold+AllCaps">Ext. Lumberjack park - August 2019 - Day (3 Years ago)</Text>
     </Paragraph>
     <Paragraph Type="Scene Heading" id="2b317a2f-acac-442b-b0d3-0eb725b26d30">
-      <SceneProperties Length="1 6/8" Page="30" Title="">
+      <SceneProperties Length="1 6/8" Page="32" Title="">
         <SceneArcBeats>
           <CharacterArcBeat Name="BAILEY">
             <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" OutlineLevel="0" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
@@ -3306,7 +3645,7 @@ Ai does the work for me!</Text>
           </CharacterArcBeat>
         </SceneArcBeats>
       </SceneProperties>
-      <Text Style="Underline+AllCaps">8. “</Text>
+      <Text Style="Underline+AllCaps">9. “</Text>
       <Text Color="#00000000FEFE" Style="Underline+AllCaps">Wild Midwest</Text>
       <Text Style="Underline+AllCaps">”</Text>
     </Paragraph>
@@ -3463,7 +3802,7 @@ Ai does the work for me!</Text>
       <Text Style="Bold+Underline+AllCaps">Scene 5</Text>
     </Paragraph>
     <Paragraph Type="Scene Heading" id="3094af7d-f3f9-4d3c-b803-8ee3bd37632a">
-      <SceneProperties Length="2 1/8" Page="32" Title="">
+      <SceneProperties Length="2 1/8" Page="34" Title="">
         <SceneArcBeats>
           <CharacterArcBeat Name="BAILEY">
             <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" OutlineLevel="0" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
@@ -3693,7 +4032,7 @@ Ai does the work for me!</Text>
       <Text>Fishes swim by in the river.</Text>
     </Paragraph>
     <Paragraph Type="Scene Heading" id="2b317a2f-acac-442b-b0d3-0eb725b26d30">
-      <SceneProperties Length="2 5/8" Page="34" Title="">
+      <SceneProperties Length="2 5/8" Page="36" Title="">
         <SceneArcBeats>
           <CharacterArcBeat Name="BASS">
             <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" OutlineLevel="0" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
@@ -3715,7 +4054,7 @@ Ai does the work for me!</Text>
           </CharacterArcBeat>
         </SceneArcBeats>
       </SceneProperties>
-      <Text Style="Underline+AllCaps">9. “</Text>
+      <Text Style="Underline+AllCaps">10. “</Text>
       <Text Color="#00000000FEFE" Style="Underline+AllCaps">Fish for Mom and Dad</Text>
       <Text Style="Underline+AllCaps">”</Text>
     </Paragraph>
@@ -4066,7 +4405,7 @@ Dad from his deathbed.</Text>
       <Text Style="Bold+Underline+AllCaps">Scene 6</Text>
     </Paragraph>
     <Paragraph Type="Scene Heading" id="294eb061-a2b6-4248-854f-106f0e51c061">
-      <SceneProperties Length="1" Page="37" Title="">
+      <SceneProperties Length="1" Page="38" Title="">
         <SceneArcBeats>
           <CharacterArcBeat Name="BAILEY">
             <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" OutlineLevel="0" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
@@ -4183,7 +4522,7 @@ Dad from his deathbed.</Text>
       <Text Style="Bold+Underline+AllCaps">Scene 7</Text>
     </Paragraph>
     <Paragraph Type="Scene Heading" id="359e378d-41c7-4a78-b737-d9c55d576fff">
-      <SceneProperties Length="2/8" Page="38" Title="">
+      <SceneProperties Length="2/8" Page="39" Title="">
         <SceneArcBeats>
           <CharacterArcBeat Name="LULU">
             <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" OutlineLevel="0" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
@@ -4196,7 +4535,9 @@ Dad from his deathbed.</Text>
       <Text Style="Bold+AllCaps">Ext. Sleeping Bear Dunes - Night</Text>
     </Paragraph>
     <Paragraph Type="Action" id="bcbd1de8-b8e7-4651-95a8-9f76fb12b8c2">
-      <Text>A bonfire lives by Lulu and Petoskey.</Text>
+      <Text>A bonfire lives by Lulu, Petoskey, and the rest of the </Text>
+      <Text AdornmentStyle="-1">Vandams</Text>
+      <Text>.</Text>
     </Paragraph>
     <Paragraph Type="Character" id="f0910997-f86f-4902-8180-5d5656ee5132">
       <Text>Lulu</Text>
@@ -4212,138 +4553,55 @@ Dad from his deathbed.</Text>
       <Text AdornmentStyle="-1">sorrys</Text>
       <Text>...</Text>
     </Paragraph>
+    <Paragraph Type="Action" id="7231253d-d975-4907-ac6d-c16bf6b8658f">
+      <Text>They all get some rest.</Text>
+    </Paragraph>
     <Paragraph Type="Scene Heading" id="2b317a2f-acac-442b-b0d3-0eb725b26d30">
-      <SceneProperties Length="1 4/8" Page="38" Title="">
+      <SceneProperties Length="3/8" Page="40" Title="">
         <SceneArcBeats>
-          <CharacterArcBeat Name="DEER">
-            <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" OutlineLevel="0" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
-          </CharacterArcBeat>
           <CharacterArcBeat Name="LULU">
             <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" OutlineLevel="0" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
           </CharacterArcBeat>
         </SceneArcBeats>
       </SceneProperties>
-      <Text Style="Underline+AllCaps">10. “</Text>
-      <Text Color="#00000000FEFE" Style="Underline+AllCaps">Dearborn (Dear Deer)</Text>
+      <Text Style="Underline+AllCaps">10A. “</Text>
+      <Text Color="#00000000FEFE" Style="Underline+AllCaps">Dearborn - Reprise</Text>
       <Text Style="Underline+AllCaps">”</Text>
     </Paragraph>
-    <Paragraph Type="Character" id="f7441462-179f-406f-b4ef-fdda01748e93">
+    <Paragraph Type="Action" id="3d3df4ff-209c-44dc-a148-93222dcc5f96">
+      <Text>While in her sleeping bag, Lulu sees a Deer pass by.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="dec6cc42-174e-4e5b-a3fb-63f4218f2bed">
       <Text>Lulu</Text>
     </Paragraph>
-    <Paragraph Type="Lyrics" id="9e4316e0-a74d-44dc-adf4-a770ca1c069a">
-      <Text>I don’t know why time
-has never moved forward
-‘</Text>
-      <Text AdornmentStyle="-1">ev</Text>
-      <Text> since I was born,
-‘</Text>
-      <Text AdornmentStyle="-1">ev</Text>
-      <Text> since I could rhyme!
-I cannot find that state of mind.
-sigh...
-please help me,
-My dearest.
-
-I won’t be in tune
-to Earth and her spirits
-the day mom gave birth
-</Text>
-      <Text AdornmentStyle="-1">‘til</Text>
-      <Text> the day I’m a tomb.
-Bury my heart until she blooms.
-</Text>
-      <Text AdornmentStyle="-1">ooo</Text>
-      <Text>...
-So help me.
-Oh dearest.
-Dearborn.</Text>
-    </Paragraph>
-    <Paragraph Type="Action" id="8d7f6be5-1c86-4d6e-804c-43d26416f33c">
-      <Text>Lulu roams the woods.</Text>
-    </Paragraph>
-    <Paragraph Type="Character" id="c80f5236-e595-419f-90b1-4c1a85a0a7e1">
-      <Text>Lulu</Text>
-    </Paragraph>
-    <Paragraph Type="Lyrics" id="e5e678c5-fcbc-4315-864d-2f552aaf7bd9">
-      <Text>I was meant to go buck wild,
-but was made shy.
-Why oh why was I not born a deer?
-They’re bent and agile with souls.
-Mother nature roles.
-Dearest, why am I like this?
-Dearborn represent!</Text>
-    </Paragraph>
-    <Paragraph Type="Character" id="83f0cc92-8af3-4b4f-931b-f77346e95ff2">
-      <Text>Deer</Text>
-    </Paragraph>
-    <Paragraph Type="Lyrics" id="7aa27002-5f70-4c6f-b38b-a8f77355ff0a">
+    <Paragraph Type="Lyrics" id="b427f60d-e492-4963-86cd-7cceb4e77fa2">
       <Text>Dear Lulu,
-please choose
-to be seen...</Text>
+you’re no loser!
+A rocky loser!</Text>
     </Paragraph>
-    <Paragraph Type="Action" id="ace79a57-f710-4d1e-9b88-5b58e56f6af1">
-      <Text>[Old Lyrics]</Text>
+    <Paragraph Type="Lyrics" id="5ff5d2b4-9018-4b3f-a21a-8df6f2685de6">
+      <Text>You’ll... find... 
+Petoskey...</Text>
     </Paragraph>
-    <Paragraph Type="Character" id="dc0d8abf-3229-4d60-99f2-0736f7e313ec">
-      <Text>Deer</Text>
+    <Paragraph Type="Action" id="9012267b-fd87-4437-a8b5-479178ecda93">
+      <Text>Lulu dozes off.</Text>
     </Paragraph>
-    <Paragraph Type="Lyrics" id="5b3cad32-0e38-47da-83c4-eef4958b2d74">
-      <Text>On nights, a crescent moon mocks all those who dream.
-That never stop these kids from smiling back.
-Their inner deer faces the moon light headlights.
-She’s born to take out her frustration on a car mirror.
-She cares not if the smiling moon returns as a </Text>
-      <Text AdornmentStyle="-1">firey</Text>
-      <Text> ball.
-After all, she has the waterfall on her side.
-While he’s a rock stuck in a hard place.
-There’s not a puddle he won’t skip.</Text>
-    </Paragraph>
-    <Paragraph Type="Character" id="efa3131c-5c98-4d1a-afaf-61f9046d8e2d">
-      <Text>Lulu</Text>
-    </Paragraph>
-    <Paragraph Type="Lyrics" id="aa5c4964-9bce-4d92-8786-e3fe5ae16c20">
-      <Text>Dear deer,
-What’s it like to be born one?
-Dearest deer,
-When it is time to ask the sun?
-Dear birth,
-Why is everyone given a minute, but I’m given a second
-Dear born,
-Show me danger and I’ll share it for everyone to reckon</Text>
-    </Paragraph>
-    <Paragraph Type="Action" id="19f57cf0-981a-432f-861c-32e8b3113984">
-      <Text>[Lulu hopes to leave a mark on the world like a deer and also have a spiritual connection to the rocks and fossils much like Petoskey. He just wants to meet his father.]</Text>
-    </Paragraph>
-    <Paragraph Type="Action" id="d1a77eaf-6766-4707-a424-cbdd8bde2d15">
-      <Text>
-
-
-
-
-
-
-
-
-
-
-</Text>    </Paragraph>
     <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="1.25" RightIndent="7.25" SpaceBefore="12" Spacing="1" StartsNewPage="No" Type="General" id="eb856690-b1a3-4f35-8b5f-8c2819a62116">
       <Text Style="Underline">End of “</Text>
-      <Text Color="#00000000FEFE" Style="Underline+AllCaps">Dearborn (Dear Deer)</Text>
+      <Text Color="#00000000FEFE" Style="Underline+AllCaps">Dearborn - Reprise</Text>
       <Text Style="Underline">”</Text>
     </Paragraph>
     <Paragraph Type="Scene Info" id="c4991dc9-c78e-42e1-985d-061b649af3c4">
       <Text Style="Bold+Underline+AllCaps">Scene 8</Text>
     </Paragraph>
     <Paragraph Type="Scene Heading" id="bd4104a8-52d1-44c9-8490-38b1fffb433a">
-      <SceneProperties Length="1/8" Page="39" Title="">
+      <SceneProperties Length="1/8" Page="40" Title="">
         <SceneArcBeats/>
       </SceneProperties>
       <Text Style="Bold+AllCaps">Ext. Lake Michigan Shores - Morning</Text>
     </Paragraph>
     <Paragraph Type="Scene Heading" id="2b317a2f-acac-442b-b0d3-0eb725b26d30">
-      <SceneProperties Length="2 2/8" Page="39" Title="">
+      <SceneProperties Length="2 2/8" Page="40" Title="">
         <SceneArcBeats>
           <CharacterArcBeat Name="COUSINS">
             <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" OutlineLevel="0" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
@@ -4704,7 +4962,7 @@ Fossils help us heal.</Text>
       <Text Style="Bold+Underline+AllCaps">Scene 9</Text>
     </Paragraph>
     <Paragraph Type="Scene Heading" id="6c191985-dc7e-4bd5-acfb-f6b6e0ad2bb7">
-      <SceneProperties Length="2" Page="43" Title="">
+      <SceneProperties Length="2" Page="44" Title="">
         <SceneArcBeats>
           <CharacterArcBeat Name="CHERRY">
             <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" OutlineLevel="0" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
@@ -4894,7 +5152,7 @@ Fossils help us heal.</Text>
       <Text>You didn’t happen to buy these at a rock store?</Text>
     </Paragraph>
     <Paragraph Type="Scene Heading" id="2b317a2f-acac-442b-b0d3-0eb725b26d30">
-      <SceneProperties Length="3 4/8" Page="45" Title="">
+      <SceneProperties Length="3 4/8" Page="46" Title="">
         <SceneArcBeats>
           <CharacterArcBeat Name="CHERRY">
             <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" OutlineLevel="0" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
@@ -8958,7 +9216,7 @@ Winter in our bones.</Text>
 
   <WindowState Height="635" Left="2" Mode="Maximized" Top="2" Width="649"/>
 
-  <TextState Scaling="100" Selection="31843,31843" ShowInvisibles="No"/>
+  <TextState Scaling="100" Selection="0,0" ShowInvisibles="No"/>
 
   <ElementSettings Type="General">
     <FontSpec AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style=""/>
@@ -9337,6 +9595,7 @@ Winter in our bones.</Text>
       <Character>Vandams W/O Lulu, Petoskey, Liz</Character>
       <Character>AI</Character>
       <Character>Perry &amp; Shelby</Character>
+      <Character>Twins</Character>
     </Characters>
     <Extensions>
       <Extension>(OFF)</Extension>
@@ -9363,6 +9622,8 @@ Winter in our bones.</Text>
       <SceneIntro>9</SceneIntro>
       <SceneIntro>10</SceneIntro>
       <SceneIntro>11</SceneIntro>
+      <SceneIntro>6</SceneIntro>
+      <SceneIntro>10A</SceneIntro>
     </SceneIntros>
     <Locations>
       <Location>"LIFE IS COMPLETE"</Location>
@@ -9401,6 +9662,9 @@ Winter in our bones.</Text>
       <Location>MACKINAC ISLAND, 2003</Location>
       <Location>"NATURAL BEAUTY"</Location>
       <Location>"TIME DOES HEAL"</Location>
+      <Location>"DAD TAX"</Location>
+      <Location>"DEARBORN"</Location>
+      <Location>"DEARBORN</Location>
     </Locations>
     <TimesOfDay Separator=" - ">
       <TimeOfDay>EVENING</TimeOfDay>
@@ -9894,6 +10158,7 @@ Winter in our bones.</Text>
     <Member Actor="" Character="Vandams W/O Lulu, Petoskey, Liz"/>
     <Member Actor="" Character="AI"/>
     <Member Actor="" Character="Perry &amp; Shelby"/>
+    <Member Actor="" Character="Twins"/>
   </Cast>
 
   <SceneNumberOptions LeftLocation="0.75" NumberScheme="1A" RightLocation="7.38" ShowNumbersOnLeft="Yes" ShowNumbersOnRight="Yes">
@@ -9928,7 +10193,6 @@ Winter in our bones.</Text>
     <Character Color="#RRRRGGGGBBBB" Name="LIBERTY &amp; BAILEY" Visible="No"/>
     <Character Color="#RRRRGGGGBBBB" Name="LIZZIE" Visible="No"/>
     <Character Color="#RRRRGGGGBBBB" Name="LIZZIE &amp; PETEY" Visible="No"/>
-    <Character Color="#RRRRGGGGBBBB" Name="LIZZIE &amp; SHELBY" Visible="No"/>
     <Character Color="#RRRRGGGGBBBB" Name="LULU" Visible="No"/>
     <Character Color="#RRRRGGGGBBBB" Name="LULU &amp; COUSINS" Visible="No"/>
     <Character Color="#RRRRGGGGBBBB" Name="LULU &amp; JACOB" Visible="No"/>
@@ -9954,6 +10218,7 @@ Winter in our bones.</Text>
     <Character Color="#RRRRGGGGBBBB" Name="RESIDENT" Visible="No"/>
     <Character Color="#RRRRGGGGBBBB" Name="RESIDENTS" Visible="No"/>
     <Character Color="#RRRRGGGGBBBB" Name="SHELBY" Visible="No"/>
+    <Character Color="#RRRRGGGGBBBB" Name="TWINS" Visible="No"/>
     <Character Color="#RRRRGGGGBBBB" Name="VANDAMS" Visible="No"/>
     <Character Color="#RRRRGGGGBBBB" Name="VANDAMS W/O CHERRY" Visible="No"/>
     <Character Color="#RRRRGGGGBBBB" Name="VANDAMS W/O LIZ &amp; PETOSKEY" Visible="No"/>
@@ -9979,7 +10244,7 @@ Winter in our bones.</Text>
 
   <DisplayBoards>
     <DisplayBoard Height="10000" Id="06da4865-abe0-4945-8472-2da2dfadf07d" ScrollOrigin="0,0" Type="Beat" Width="24000" ZoomLevel="100.000"/>
-    <DisplayBoard Height="90" Id="37ad8c99-f42d-43aa-9a6e-bc6cb6bfe318" ScrollOrigin="4356,0" Type="StoryMap" Width="14600" ZoomLevel="730.000">
+    <DisplayBoard Height="90" Id="37ad8c99-f42d-43aa-9a6e-bc6cb6bfe318" ScrollOrigin="726,0" Type="StoryMap" Width="14600" ZoomLevel="730.000">
       <Lanes>
         <Lane Id="f97fe2a6-a64b-4a18-80a0-847c0b9f730e" Label="Outline 1" Level="7" Type="Outline 1"/>
         <Lane Id="a53ef67b-9d7e-4b26-a603-4ea6fd02981c" Label="Outline 2" Level="5" Type="Outline 2"/>
