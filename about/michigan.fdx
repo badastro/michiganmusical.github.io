@@ -4969,8 +4969,11 @@ Fossils help us heal.</Text>
       <Text Style="Bold+Underline+AllCaps">Scene 9</Text>
     </Paragraph>
     <Paragraph Type="Scene Heading" id="97436e30-3ebb-4a44-958f-ebbbe9543c5d">
-      <SceneProperties Length="3/8" Page="43" Title="">
+      <SceneProperties Length="6/8" Page="43" Title="">
         <SceneArcBeats>
+          <CharacterArcBeat Name="AMANDA">
+            <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" OutlineLevel="0" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+          </CharacterArcBeat>
           <CharacterArcBeat Name="RESIDENT">
             <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" OutlineLevel="0" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
           </CharacterArcBeat>
@@ -4994,21 +4997,60 @@ Fossils help us heal.</Text>
       <Text>Resident</Text>
     </Paragraph>
     <Paragraph Type="Dialogue" id="478e815d-8e58-4fb8-a704-7ac3f9f9a8d3">
-      <Text>My family in Saline is no longer sleeping. Do you really wanna lose sleep over a data center?</Text>
+      <Text>My family in Saline can’t sleep with all your humming! Do we wanna lose sleep over a data center?</Text>
     </Paragraph>
     <Paragraph Type="Character" id="370c6cc3-7c4d-4bb4-b19e-de08332b7477">
       <Text>Resident</Text>
     </Paragraph>
     <Paragraph Type="Dialogue" id="bbc2bb18-5fca-4f03-8017-07918d89795d">
-      <Text>Born and raised in Flint, and we do not want you taking our clean water!</Text>
+      <Text>Born and raised in Flint, and we do not want you taking our clean water! No data centers!</Text>
     </Paragraph>
     <Paragraph Type="Character" id="a3232066-d6a6-4827-94c6-eff801907def">
       <Text>Resident</Text>
     </Paragraph>
-    <Paragraph Type="Dialogue" id="7375aca5-318d-424b-a94a-7ca571bddb5c"/>
-    <Paragraph Type="Action" id="b9346f17-1508-4fd9-b778-073e02ac0697"/>
+    <Paragraph Type="Dialogue" id="7375aca5-318d-424b-a94a-7ca571bddb5c">
+      <Text>Can we rename Ypsilanti </Text>
+      <Text AdornmentStyle="-1">Yoopsilanti</Text>
+      <Text>?</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="4b740450-6b48-422d-962b-bc3fed56bf15">
+      <Text>RESIDENTs</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="cfc49c69-1331-48e2-b6b1-be80fa908b38">
+      <Text>No!</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="56b81a5f-bdcb-49f1-b2bf-c6f25eea01e6">
+      <Text>RESIDENT</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="d629d0b5-1d19-4411-8140-8245c1ce30fb">
+      <Text>My cows are so stressed, they are birthing stillborn calves. We’ve got no beef with you.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="f05fbaad-b2ac-4b41-bd94-425239d426dd">
+      <Text>AmaNDA</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="21f5391a-5f4f-438c-870b-abdaefe378c1">
+      <Text>Nor do I.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="672f53f9-ec45-40f6-83f1-6ffed38cf3e4">
+      <Text>RESIDENT</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="d508606d-29e4-4aea-9c52-a30789a10cc2">
+      <Text>You heard me wrong. We’ve got no beef, thanks to you. Your data center is gonna starve us.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="8481d40d-c08d-4676-ae34-a97ccc6cb087">
+      <Text>AmandA</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="c07108b9-4319-42d9-9f6f-f6522b502ede">
+      <Text>Data centers would end world hunger!</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="c4546921-df03-445a-9a0c-fca85e2fea63">
+      <Text>ResidenT</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="db11ce04-cbae-4f8a-aab7-49ed07a3a3aa">
+      <Text>With your wealth, do you even know what hunger feels like?</Text>
+    </Paragraph>
     <Paragraph Type="Scene Heading" id="2b317a2f-acac-442b-b0d3-0eb725b26d30">
-      <SceneProperties Length="1 2/8" Page="43" Title="">
+      <SceneProperties Length="1 7/8" Page="44" Title="">
         <SceneArcBeats>
           <CharacterArcBeat Name="AMANDA">
             <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" OutlineLevel="0" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
@@ -5019,43 +5061,116 @@ Fossils help us heal.</Text>
       <Text Color="#00000000FEFE" Style="Underline+AllCaps">The Starving Artist</Text>
       <Text Style="Underline+AllCaps">”</Text>
     </Paragraph>
-    <Paragraph Type="Action" id="f40ff282-542e-4525-91f8-5c52c3b1523f">
-      <Text>[Amanda reveals her intentions.]</Text>
+    <Paragraph Type="Action" id="192b8a71-6315-4cb9-9504-5657a418407a">
+      <Text>Amanda leaves and returns as an avant-garde artist, with the Mr. Rogers spirit.</Text>
     </Paragraph>
-    <Paragraph Type="Action" id="2320bbe9-d044-4cf7-bdf5-c611e258716a">
-      <Text>[History: Amanda and Conor Wayland are a sister-brother duo from Muskegon, known for artworks portraying the human condition with the intent to improve human connection. They received Bachelors of Science in Engineering with a major in computer engineering with honors from the University of Michigan. But Amanda moved on to studio art at Hope College where she befriends Cherry </Text>
-      <Text AdornmentStyle="-1">Jacobowitz</Text>
-      <Text>, a mother returning to finish her education. Conor revolutionizes and paves a way for AI in art which Amanda initially was a skeptic of. He starts Turkey Ventures, based on turkey vultures, who symbolize healers who remove sickness from the world. Leading up to the 2007 recession, Conor leaped off the Mackinac Bridge, devastating Amanda. Her creative spirit also died. She gets expelled for using technology to quicken her assignments. She took over Turkey Ventures, developing many AI systems with </Text>
-      <Text AdornmentStyle="-1">AfterLife</Text>
-      <Text>.AI being her prized work. AL.AI is meant to bring the dead, whether a loved one or stranger, back to life as a digital avatar. AL.AI uses intense amount of water to do so. Amanda sees this as a way to prevent suicide, as Conor wallowed in loneliness. She will do anything to save lives, even if it meant bulldozing every lake town to make more data centers to bring AL.AI closer to reality. She believes in her motto: “starving artists no more.”]</Text>
+    <Paragraph Type="Character" id="7bf642c7-3ad6-47b1-8755-6c116d4e80be">
+      <Text>AmanDA</Text>
     </Paragraph>
-    <Paragraph Type="Character" id="01ed66d0-1f47-418d-a12a-fdbe01fc168c">
-      <Text>AmandA</Text>
+    <Paragraph Type="Lyrics" id="e4275a7b-f22f-4ed9-9b8f-b897575c86de">
+      <Text>I am hungry to see how this world worked.
+Hungry to express my humanitarian work!
+I was feeding art to the community,
+freeing those who have trapped their humanity!
+And I ain’t done this alone.</Text>
     </Paragraph>
-    <Paragraph Type="Lyrics" id="1819e7bc-984e-488e-be79-993e696a8ca5">
-      <Text>I was an artist
-who was starving
-like all of ‘</Text>
-      <Text AdornmentStyle="-1">em</Text>
-      <Text>.
+    <Paragraph Type="Action" id="fefe8e0a-e739-4525-b6a8-e3351bfa706d">
+      <Text Style="AllCaps">Conor</Text>
+      <Text>, Amanda’s brother, appears as a silhouette or avatar or other subjective ways.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="c437c624-d06b-4670-9391-bc20ee0f5578">
+      <Text>AmanDA</Text>
+    </Paragraph>
+    <Paragraph Type="Lyrics" id="8091fceb-5785-4388-9cf9-c714afad918f">
+      <Text>We were hungry, my brother and I, starved!
+Eating time for art before feeding our own bellies!
+We’ve had hopes and dreams to bring clean water
+paint with no pain.</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="28df9217-c8b6-4b2b-8d49-ff5d7fb95741">
+      <Text>Amanda strikes </Text>
+      <Text Style="Strikeout">pain</Text>
+      <Text>t.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="60289826-5cd9-48ef-b3f4-76fc042af189">
+      <Text>AmanDA</Text>
+    </Paragraph>
+    <Paragraph Type="Lyrics" id="0c2bdfa6-ec26-40ca-ba92-303c26f06504">
+      <Text>I hope that my dream paints you a picture.</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="d916a067-a2ea-43ef-a28d-5b1c6bac759f">
+      <Text>Amanda and Conor graduate top of their class of 2006 in computer engineering at the University of Michigan. She goes to art school at Hope College while Conor starts the tech startup, Turkey Ventures.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="b8c7b52d-e861-4d99-8a6a-0b1e7d06eb02">
+      <Text>Amanda</Text>
+    </Paragraph>
+    <Paragraph Type="Lyrics" id="299118f4-9307-44f1-b9eb-379d0b013475">
+      <Text>We once started with nothing but fire in our eyes.
+Blood, sweat, tears, but no fears.
+Blood, sweat, tears, let’s not fear.
+Hope, love, prayers, please don’t fear.</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="9d4be07d-ab51-4ac0-ab13-9aaaf356256d">
+      <Text>Conor paves the way for AI art.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="82d1ae00-667c-43a8-b42c-04cc126f84bc">
+      <Text>Amanda</Text>
+    </Paragraph>
+    <Paragraph Type="Lyrics" id="cda86d64-94a4-4ac7-8c3e-21927a4e6288">
+      <Text>I was skeptical
+about what’s logical
+about his AI.
+My big brother watched as artists starved and he wanted to change that.
+He needed to change artistic patience.
+So no one ever dies for nothing.
+He sacrificed everything.</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="0a63bf8f-da13-4dfd-9704-fdea5076872a">
+      <Text>Conor loses his lifework during the 2007 recession.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="56cd5900-4186-4da1-a4f4-42c96cfe419f">
+      <Text>Amanda</Text>
+    </Paragraph>
+    <Paragraph Type="Lyrics" id="1b7cf062-646b-46b1-a668-60f46e057a1c">
+      <Text>I now know that there’s nothing to show from my heart.
+Blood, sweat, tear’s here to...
 
-I’ve been </Text>
-      <Text AdornmentStyle="-1">honst</Text>
-      <Text>
-starving my honor
-like all of ‘</Text>
-      <Text AdornmentStyle="-1">em</Text>
-      <Text>.
+Fear not, I know what it’s like to starve.
+I was a starving artist.</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="c0b1f458-3dfa-4100-9393-e509ed652a18">
+      <Text>Cherry comes across Amanda. Cherry is about to greet her classmate, until she shows off her tech. With great disappointment, Cherry dismisses Amanda. Amanda soon gets expelled from art school.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="d258b6fa-f6ba-4edc-b771-e298ae0de051">
+      <Text>AmaNDA</Text>
+    </Paragraph>
+    <Paragraph Type="Lyrics" id="efe8c146-014b-4882-a4d2-af34de51157a">
+      <Text>Technology and I shall not
+let anyone end up a starving artist.
+Trust me, you won’t end up like my brother.
+Blood, sweat, tears </Text>
+      <Text AdornmentStyle="-1">‘til</Text>
+      <Text> he died.
 
-I tried to be earnest
-leaving me starving
-like all of ‘</Text>
-      <Text AdornmentStyle="-1">em</Text>
-      <Text>.
-
-there’s not enough data centers in the world to keep conor alive! I won’t let my brother die a second time!
-
-The Mackinac bridge where my brother left home...</Text>
+I’ve held blood, sweat, tears </Text>
+      <Text AdornmentStyle="-1">‘til</Text>
+      <Text> his suicide.</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="11afe220-747e-4fd7-aa88-2f8299d07072">
+      <Text>Amanda sees Cherry grieve, after her own brother Petey’s suicide. This time, Amanda dismisses Cherry and takes over Turkey Ventures in honor of Conor, becoming the businessperson she is now.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="6ef8c61a-6079-4f04-b0e3-9948ecedf4ae">
+      <Text>AmanDA</Text>
+    </Paragraph>
+    <Paragraph Type="Lyrics" id="faf804da-17bc-4b40-9191-22f6819860f6">
+      <Text>My creative spirit bled, sweat, tore when he died...
+I love him as the starving artist.</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="9b4fdeaa-1830-4713-b6d4-aee078431b81">
+      <Text>The Residents become content. The Council approves the data center.</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="90b755d9-08e8-4a49-a21f-97ed0d0dde32">
+      <Text>Amanda gets out a map of Michigan. Many cities and towns are checked off. She checks off Ypsilanti. She points to Elk Rapids.</Text>
     </Paragraph>
     <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="1.25" RightIndent="7.25" SpaceBefore="12" Spacing="1" StartsNewPage="No" Type="General" id="eb856690-b1a3-4f35-8b5f-8c2819a62116">
       <Text Style="Underline">End of “</Text>
@@ -5066,7 +5181,7 @@ The Mackinac bridge where my brother left home...</Text>
       <Text Style="Bold+Underline+AllCaps">Scene 10</Text>
     </Paragraph>
     <Paragraph Type="Scene Heading" id="6c191985-dc7e-4bd5-acfb-f6b6e0ad2bb7">
-      <SceneProperties Length="2" Page="45" Title="">
+      <SceneProperties Length="2" Page="46" Title="">
         <SceneArcBeats>
           <CharacterArcBeat Name="CHERRY">
             <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" OutlineLevel="0" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
@@ -5256,7 +5371,7 @@ The Mackinac bridge where my brother left home...</Text>
       <Text>You didn’t happen to buy these at a rock store?</Text>
     </Paragraph>
     <Paragraph Type="Scene Heading" id="2b317a2f-acac-442b-b0d3-0eb725b26d30">
-      <SceneProperties Length="3 4/8" Page="47" Title="">
+      <SceneProperties Length="3 4/8" Page="48" Title="">
         <SceneArcBeats>
           <CharacterArcBeat Name="CHERRY">
             <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" OutlineLevel="0" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
@@ -5590,7 +5705,7 @@ You’ve hurt...</Text>
       <Text Style="Underline">”</Text>
     </Paragraph>
     <Paragraph Type="Scene Heading" id="2b317a2f-acac-442b-b0d3-0eb725b26d30">
-      <SceneProperties Length="1 7/8" Page="50" Title="">
+      <SceneProperties Length="1 7/8" Page="51" Title="">
         <SceneArcBeats>
           <CharacterArcBeat Name="KEEPERS">
             <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" OutlineLevel="0" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
@@ -5838,13 +5953,13 @@ Intermission</Text>
       <Text Style="Bold+Underline+AllCaps">Scene 1</Text>
     </Paragraph>
     <Paragraph Type="Scene Heading" id="9c665425-7595-4b4e-82fc-8d3de241851c">
-      <SceneProperties Length="1/8" Page="53" Title="">
+      <SceneProperties Length="1/8" Page="54" Title="">
         <SceneArcBeats/>
       </SceneProperties>
       <Text Style="Bold+AllCaps">Ext. Elk Rapids - August 2016 - Day (6 Years ago)</Text>
     </Paragraph>
     <Paragraph Type="Scene Heading" id="2b317a2f-acac-442b-b0d3-0eb725b26d30">
-      <SceneProperties Length="2 6/8" Page="53" Title="">
+      <SceneProperties Length="2 6/8" Page="54" Title="">
         <SceneArcBeats>
           <CharacterArcBeat Name="LULU">
             <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" OutlineLevel="0" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
@@ -6126,7 +6241,7 @@ Hands come in handy!</Text>
       <Text Style="Bold+Underline+AllCaps">Scene 2</Text>
     </Paragraph>
     <Paragraph Type="Scene Heading" id="ff2224c8-4acc-4956-867a-17fd275c56b8">
-      <SceneProperties Length="4/8" Page="55" Title="">
+      <SceneProperties Length="4/8" Page="56" Title="">
         <SceneArcBeats>
           <CharacterArcBeat Name="CHERRY">
             <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" OutlineLevel="0" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
@@ -6184,7 +6299,7 @@ Hands come in handy!</Text>
       <Text>When did it ever?</Text>
     </Paragraph>
     <Paragraph Type="Scene Heading" id="2b317a2f-acac-442b-b0d3-0eb725b26d30">
-      <SceneProperties Length="1 3/8" Page="56" Title="">
+      <SceneProperties Length="1 3/8" Page="57" Title="">
         <SceneArcBeats>
           <CharacterArcBeat Name="AMANDA">
             <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" OutlineLevel="0" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
@@ -6320,7 +6435,7 @@ Let us find your rock!</Text>
       <Text Style="Bold+Underline+AllCaps">Scene 3</Text>
     </Paragraph>
     <Paragraph Type="Scene Heading" id="ff2224c8-4acc-4956-867a-17fd275c56b8">
-      <SceneProperties Length="7/8" Page="57" Title="">
+      <SceneProperties Length="7/8" Page="58" Title="">
         <SceneArcBeats>
           <CharacterArcBeat Name="JASPER">
             <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" OutlineLevel="0" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
@@ -6402,7 +6517,7 @@ Let us find your rock!</Text>
       <Text>Not a sense of touch but tastes and smells. You know what my family always said?</Text>
     </Paragraph>
     <Paragraph Type="Scene Heading" id="2b317a2f-acac-442b-b0d3-0eb725b26d30">
-      <SceneProperties Length="2 4/8" Page="58" Title="">
+      <SceneProperties Length="2 4/8" Page="59" Title="">
         <SceneArcBeats>
           <CharacterArcBeat Name="JACOB">
             <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" OutlineLevel="0" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
@@ -6678,7 +6793,7 @@ so long as you listen to the bread.</Text>
       <Text Style="Bold+Underline+AllCaps">Scene 4</Text>
     </Paragraph>
     <Paragraph Type="Scene Heading" id="43af1a96-483f-4cad-b5ed-55b07cffc2d1">
-      <SceneProperties Length="7/8" Page="60" Title="">
+      <SceneProperties Length="7/8" Page="61" Title="">
         <SceneArcBeats>
           <CharacterArcBeat Name="LIZZIE">
             <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" OutlineLevel="0" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
@@ -6776,7 +6891,7 @@ so long as you listen to the bread.</Text>
       <Text>...?</Text>
     </Paragraph>
     <Paragraph Type="Scene Heading" id="9db8ffae-33d8-4f33-9d0f-55621098fec0">
-      <SceneProperties Length="2 3/8" Page="61" Title="">
+      <SceneProperties Length="2 3/8" Page="62" Title="">
         <SceneArcBeats>
           <CharacterArcBeat Name="LIZZIE">
             <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" OutlineLevel="0" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
@@ -7077,13 +7192,13 @@ in nature.</Text>
       <Text Style="Bold+Underline+AllCaps">Scene 5</Text>
     </Paragraph>
     <Paragraph Type="Scene Heading" id="b463f091-ba25-4f10-9445-842f0a2b8717">
-      <SceneProperties Length="1/8" Page="64" Title="">
+      <SceneProperties Length="1/8" Page="65" Title="">
         <SceneArcBeats/>
       </SceneProperties>
       <Text Style="Bold+AllCaps">Ext. Mackinac Bridge - August 2022 - Day (Present)</Text>
     </Paragraph>
     <Paragraph Type="Scene Heading" id="9db8ffae-33d8-4f33-9d0f-55621098fec0">
-      <SceneProperties Length="4/8" Page="64" Title="">
+      <SceneProperties Length="4/8" Page="65" Title="">
         <SceneArcBeats>
           <CharacterArcBeat Name="MACKINAC GHOSTS">
             <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" OutlineLevel="0" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
@@ -7137,7 +7252,7 @@ Everyday this bedrock sleepwalks.</Text>
       <Text Style="Underline">”</Text>
     </Paragraph>
     <Paragraph Type="Scene Heading" id="9db8ffae-33d8-4f33-9d0f-55621098fec0">
-      <SceneProperties Length="3 6/8" Page="64" Title="">
+      <SceneProperties Length="3 6/8" Page="65" Title="">
         <SceneArcBeats>
           <CharacterArcBeat Name="JASPER">
             <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" OutlineLevel="0" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
@@ -7584,7 +7699,7 @@ By the way, I’m kidding. No sacrifices here, so long as you stop these data ce
       <Text Style="Bold+Underline+AllCaps">Scene 1</Text>
     </Paragraph>
     <Paragraph Type="Scene Heading" id="ff2224c8-4acc-4956-867a-17fd275c56b8">
-      <SceneProperties Length="4 7/8" Page="69" Title="">
+      <SceneProperties Length="4 7/8" Page="70" Title="">
         <SceneArcBeats>
           <CharacterArcBeat Name="AI">
             <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" OutlineLevel="0" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
@@ -8165,7 +8280,7 @@ By the way, I’m kidding. No sacrifices here, so long as you stop these data ce
       <Text>Activate Elk dot AI!</Text>
     </Paragraph>
     <Paragraph Type="Scene Heading" id="9db8ffae-33d8-4f33-9d0f-55621098fec0">
-      <SceneProperties Length="3 3/8" Page="74" Title="">
+      <SceneProperties Length="3 3/8" Page="75" Title="">
         <SceneArcBeats>
           <CharacterArcBeat Name="AMANDA">
             <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" OutlineLevel="0" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
@@ -8562,7 +8677,7 @@ By the way, I’m kidding. No sacrifices here, so long as you stop these data ce
       <Text Style="Bold+Underline+AllCaps">Scene 2</Text>
     </Paragraph>
     <Paragraph Type="Scene Heading" id="ff2224c8-4acc-4956-867a-17fd275c56b8">
-      <SceneProperties Length="2 3/8" Page="77" Title="">
+      <SceneProperties Length="2 3/8" Page="78" Title="">
         <SceneArcBeats>
           <CharacterArcBeat Name="AUDIENCE MEMBER">
             <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" OutlineLevel="0" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
@@ -8836,13 +8951,13 @@ By the way, I’m kidding. No sacrifices here, so long as you stop these data ce
       <Text Style="Bold+Underline+AllCaps">Scene 3</Text>
     </Paragraph>
     <Paragraph Type="Scene Heading" id="ff2224c8-4acc-4956-867a-17fd275c56b8">
-      <SceneProperties Length="1/8" Page="79" Title="">
+      <SceneProperties Length="1/8" Page="80" Title="">
         <SceneArcBeats/>
       </SceneProperties>
       <Text Style="Bold+AllCaps">Ext. Mackinac Bridge - Day</Text>
     </Paragraph>
     <Paragraph Type="Scene Heading" id="5da96831-1e73-4f5e-baff-daeadd78b157">
-      <SceneProperties Length="1 2/8" Page="79" Title="">
+      <SceneProperties Length="1 2/8" Page="80" Title="">
         <SceneArcBeats>
           <CharacterArcBeat Name="LIZZIE">
             <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" OutlineLevel="0" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
@@ -9016,13 +9131,13 @@ You are my soul!</Text>
       <Text Style="Bold+Underline+AllCaps">Scene 1</Text>
     </Paragraph>
     <Paragraph Type="Scene Heading" id="00c9048c-ce54-43ee-af1d-e638c4bceb09">
-      <SceneProperties Length="1/8" Page="82" Title="">
+      <SceneProperties Length="1/8" Page="83" Title="">
         <SceneArcBeats/>
       </SceneProperties>
       <Text Style="Bold+AllCaps">Ext. Elk Rapids - January 2037 - Day</Text>
     </Paragraph>
     <Paragraph Type="Scene Heading" id="5da96831-1e73-4f5e-baff-daeadd78b157">
-      <SceneProperties Length="1 3/8" Page="82" Title="">
+      <SceneProperties Length="1 3/8" Page="83" Title="">
         <SceneArcBeats>
           <CharacterArcBeat Name="AMANDA">
             <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" OutlineLevel="0" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
@@ -9144,7 +9259,7 @@ And Lulu ended up turning our life story into a musical for her high school seni
       <Text Style="Bold+Underline+AllCaps">Scene 2</Text>
     </Paragraph>
     <Paragraph Type="Scene Heading" id="987c3cbc-adb0-4eed-895f-9c2ec73d05c3">
-      <SceneProperties Length="1" Page="83" Title="">
+      <SceneProperties Length="1" Page="84" Title="">
         <SceneArcBeats>
           <CharacterArcBeat Name="JACOB">
             <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" OutlineLevel="0" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
@@ -9209,7 +9324,7 @@ And here comes Elk Rapids with the world-class </Text>
       <Text>Who are we?!</Text>
     </Paragraph>
     <Paragraph Type="Scene Heading" id="5da96831-1e73-4f5e-baff-daeadd78b157">
-      <SceneProperties Length="5/8" Page="84" Title="">
+      <SceneProperties Length="5/8" Page="85" Title="">
         <SceneArcBeats>
           <CharacterArcBeat Name="CHERRY">
             <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" OutlineLevel="0" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
@@ -9348,7 +9463,7 @@ Winter in our bones.</Text>
 
   <WindowState Height="635" Left="2" Mode="Maximized" Top="2" Width="649"/>
 
-  <TextState Scaling="100" Selection="37901,37901" ShowInvisibles="No"/>
+  <TextState Scaling="100" Selection="0,0" ShowInvisibles="No"/>
 
   <ElementSettings Type="General">
     <FontSpec AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style=""/>
@@ -9802,6 +9917,7 @@ Winter in our bones.</Text>
       <Location>"DEARBORN"</Location>
       <Location>"DEARBORN</Location>
       <Location>YPSILANTI</Location>
+      <Location>"THE STARVING ARTIST"</Location>
     </Locations>
     <TimesOfDay Separator=" - ">
       <TimeOfDay>EVENING</TimeOfDay>
@@ -9852,7 +9968,7 @@ Winter in our bones.</Text>
     <Revision FullRevision="No" ID="19" Mark="*" Name="2nd Tan Rev. (mm/dd/yy)" PageColor="#FDFDF1F1C7C7" Style=""/>
   </Revisions>
 
-  <SplitState ActivePanel="1" CardsAcross="2" ShowAction="Yes" ShowSceneTitle="Yes" ShowSummary="Yes" SplitMode="None" SplitterPosition="1358">
+  <SplitState ActivePanel="1" CardsAcross="2" ShowAction="Yes" ShowSceneTitle="Yes" ShowSummary="Yes" SplitMode="None" SplitterPosition="2552">
     <ScriptPanel DisplayMode="Page">
       <FontSpec AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Arial" RevisionID="0" Size="9" Style=""/>
     </ScriptPanel>
@@ -10451,7 +10567,13 @@ Winter in our bones.</Text>
     </ChartOptions>
   </Characters>
 
-  <ScriptNotes/>
+  <ScriptNotes>
+    <ScriptNote Color="#RRRRGGGGBBBB" DateModified="20260914T171220" DateTime="20260914T171215" Id="1" Name="" Range="40659,40678" Type="" WriterID="4eedcf62-5cdf-433a-a0aa-782742503b18" WriterName="David Quang Pham">
+      <Paragraph Alignment="Left" FirstIndent="1.94" Leading="Regular" LeftIndent="1.94" RightIndent="0.00" SpaceBefore="12" StartsNewPage="No" Type="Action">
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">[History: Amanda and Conor Wayland are a sister-brother duo from Muskegon, known for artworks portraying the human condition with the intent to improve human connection. They received Bachelors of Science in Engineering with a major in computer engineering with honors from the University of Michigan. But Amanda moved on to studio art at Hope College where she befriends Cherry Jacobowitz, a mother returning to finish her education. Conor revolutionizes and paves a way for AI in art which Amanda initially was a skeptic of. He starts Turkey Ventures, based on turkey vultures, who symbolize healers who remove sickness from the world. Leading up to the 2007 recession, Conor leaped off the Mackinac Bridge, devastating Amanda. Her creative spirit also died. She gets expelled for using technology to quicken her assignments. She took over Turkey Ventures, developing many AI systems with AfterLife.AI being her prized work. AL.AI is meant to bring the dead, whether a loved one or stranger, back to life as a digital avatar. AL.AI uses intense amount of water to do so. Amanda sees this as a way to prevent suicide, as Conor wallowed in loneliness. She will do anything to save lives, even if it meant bulldozing every lake town to make more data centers to bring AL.AI closer to reality. She believes in her motto: "starving artists no more."]</Text>
+      </Paragraph>
+    </ScriptNote>
+  </ScriptNotes>
 
   <Navigator>
     <Tabs>
