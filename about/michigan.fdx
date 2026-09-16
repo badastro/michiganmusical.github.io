@@ -7697,7 +7697,7 @@ in nature.</Text>
       <Text Style="Bold+AllCaps">Ext. Mackinac Bridge - August 2022 - Day (Present)</Text>
     </Paragraph>
     <Paragraph Type="Scene Heading" id="9db8ffae-33d8-4f33-9d0f-55621098fec0">
-      <SceneProperties Length="4/8" Page="68" Title="">
+      <SceneProperties Length="1" Page="68" Title="">
         <SceneArcBeats>
           <CharacterArcBeat Name="MACKINAC GHOSTS">
             <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" OutlineLevel="0" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
@@ -7721,7 +7721,7 @@ in nature.</Text>
       <Text>Every bridge hides water.</Text>
     </Paragraph>
     <Paragraph Type="Character" id="49f18342-e1b4-42d7-8aec-51a64c65036a">
-      <Text>MacKINAC GHOSTS</Text>
+      <Text>MacKINAC GHOSTS (O.S.)</Text>
     </Paragraph>
     <Paragraph Type="Lyrics" id="e634c37a-664c-4196-b2f6-b63a08816769">
       <Text>Under.</Text>
@@ -7732,15 +7732,60 @@ in nature.</Text>
     <Paragraph Type="Lyrics" id="c8bfc82e-267b-49dc-a1ea-60d25f82ef13">
       <Text>Every stone shows pain.</Text>
     </Paragraph>
-    <Paragraph Type="Character" id="287dbe39-c29f-4394-8112-9be48eecc98b">
-      <Text>MackINAC GHOSTS</Text>
+    <Paragraph Type="Character" id="49f18342-e1b4-42d7-8aec-51a64c65036a">
+      <Text>MacKINAC GHOSTS (O.S.)</Text>
     </Paragraph>
     <Paragraph Type="Lyrics" id="e56ff539-0c92-4aa3-be45-cecd6a3ffc47">
       <Text>Shaped by rain.
 Everyday this bedrock sleepwalks.</Text>
     </Paragraph>
-    <Paragraph Type="Action" id="b6941f72-4af2-46b6-a270-5c3342f95de3">
-      <Text>[Jasper drives in the Ford Model T with Lulu. They find Petoskey.]</Text>
+    <Paragraph Type="Character" id="68bc5e17-65a1-49ab-816b-13989c2cde3c">
+      <Text>PetoSKEY</Text>
+    </Paragraph>
+    <Paragraph Type="Lyrics" id="053271e2-8eef-46b9-9161-2559cc417f01">
+      <Text>So sick and tired of sticking loved ones in hard places.
+I don’t wanna ever show my face.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="49f18342-e1b4-42d7-8aec-51a64c65036a">
+      <Text>MacKINAC GHOSTS (O.S.)</Text>
+    </Paragraph>
+    <Paragraph Type="Lyrics" id="ed9cf55e-b33d-417a-b088-c9cfb97e331a">
+      <Text>Cast your fate.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="d86ec58e-1a3e-493f-b70d-d9ae062e47fa">
+      <Text>PetoSKEY</Text>
+    </Paragraph>
+    <Paragraph Type="Lyrics" id="b60abdad-3174-4c7a-baaf-7c3baf11e7ab">
+      <Text>Hide away my shame.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="7e0771a4-27c4-44ca-8782-190eeac7df4f">
+      <Text>Mackinac GHOSTS</Text>
+    </Paragraph>
+    <Paragraph Type="Lyrics" id="8a9b3343-b047-4166-9fc6-597b793a7eb5">
+      <Text>Your hate.</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="1f20a787-6f13-4a45-8bda-c8e3d04c2669">
+      <Text>Lulu runs in.</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="ff4b6d76-c69e-4e8b-8bf0-b7b8472180b0">
+      <Text>Petoskey notices Jasper in the Ford Model T in the distance. They wave. He is then on his guard.</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="fa59f372-60ea-4809-a6e5-efa5b185a12a">
+      <Text>Lulu is about to sock Petoskey in the face. Deservedly so. Instead, she hands him the Heirloom.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="92f264df-3eea-487c-b09d-c461bd10c92e">
+      <Text>MackiNAC GHOSTS</Text>
+    </Paragraph>
+    <Paragraph Type="Parenthetical" id="d41d4fa8-18b1-4e65-821a-7bca31b66723">
+      <Text>(Gospel)</Text>
+    </Paragraph>
+    <Paragraph Type="Lyrics" id="11ea0bb7-7fdf-40c6-a65e-b422d571093d">
+      <Text>Petoskey...
+Petoskey...
+The jewel of Michigan...</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="d37b5708-c569-4689-a786-c7c1e749210f">
+      <Text>Lulu looks around to see who is singing and fogging up the bridge.</Text>
     </Paragraph>
     <Paragraph Type="Action" id="7d88f38a-07cb-4f7b-9b86-5486e570929e">
       <Text>Petoskey hooks the Heirloom on the fishing pole and cast the line down the Strait, surprising Lulu.</Text>
@@ -7751,7 +7796,7 @@ Everyday this bedrock sleepwalks.</Text>
       <Text Style="Underline">”</Text>
     </Paragraph>
     <Paragraph Type="Scene Heading" id="9db8ffae-33d8-4f33-9d0f-55621098fec0">
-      <SceneProperties Length="3 6/8" Page="68" Title="">
+      <SceneProperties Length="3 6/8" Page="69" Title="">
         <SceneArcBeats>
           <CharacterArcBeat Name="JASPER">
             <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" OutlineLevel="0" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
@@ -9815,7 +9860,7 @@ Winter in our bones.</Text>
 
   <WindowState Height="635" Left="2" Mode="Maximized" Top="2" Width="649"/>
 
-  <TextState Scaling="100" Selection="59436,59436" ShowInvisibles="No"/>
+  <TextState Scaling="100" Selection="60190,60190" ShowInvisibles="No"/>
 
   <ElementSettings Type="General">
     <FontSpec AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style=""/>
