@@ -37,7 +37,7 @@
     </Paragraph>
     <Paragraph Type="Action" id="1c1f6585-9200-449a-8dd3-afce3b21a7c6">
       <Text>Next to the shores of Elk Lake, the </Text>
-      <Text AdornmentStyle="-1">Vandam</Text>
+      <Text AdornmentStyle="-1">VanDam</Text>
       <Text> family camps in tents. The old Lake House is behind them.</Text>
     </Paragraph>
     <Paragraph Type="Action" id="79621969-d8c4-48e3-8a84-1fee599aa112">
@@ -150,7 +150,7 @@ But every morning, he’s public enemy number one.</Text>
     </Paragraph>
     <Paragraph Type="Action" id="9a50caa9-ca59-4a82-b4c1-f0bae066934f">
       <Text>The three </Text>
-      <Text AdornmentStyle="-1">Vandam</Text>
+      <Text AdornmentStyle="-1">VanDam</Text>
       <Text> sisters - </Text>
       <Text Style="AllCaps">Cherry</Text>
       <Text>, </Text>
@@ -265,7 +265,7 @@ But every morning, he’s public enemy number one.</Text>
       <Text>Go put on your hearing aids.</Text>
     </Paragraph>
     <Paragraph Type="Action" id="a754db1b-1828-4126-9eb3-1d32845dc708">
-      <Text>Willy-Milly tune their hearing aids. They frolic in the audience.</Text>
+      <Text>Willy-Milly tune their hearing aids. They frolic in the Audience.</Text>
     </Paragraph>
     <Paragraph Type="Character" id="d1b97067-1f6f-4dde-9d26-8cd1185951f5">
       <Text>WillY &amp; MILLY</Text>
@@ -386,7 +386,7 @@ Make yourself comfy.</Text>
     </Paragraph>
     <Paragraph Type="Action" id="388663b2-94ce-45e3-9b8c-ff83f385a45b">
       <Text>The </Text>
-      <Text AdornmentStyle="-1">Vandams</Text>
+      <Text AdornmentStyle="-1">VanDams</Text>
       <Text> put on Red Wings gear.</Text>
     </Paragraph>
     <Paragraph Type="Character" id="8e03e32a-6fe0-4cb2-9194-d8b796407ad8">
@@ -394,7 +394,7 @@ Make yourself comfy.</Text>
     </Paragraph>
     <Paragraph Type="Dialogue" id="3223a88f-162b-4241-afc2-cacc3378c579">
       <Text>Welcome to Harbor Days with the </Text>
-      <Text AdornmentStyle="-1">Vandam</Text>
+      <Text AdornmentStyle="-1">VanDam</Text>
       <Text> family! What’s Harbor Days you ask? For four days in August, it's an Elk Rapids tradition. That's all I know. I've gone to these since Petey and I were high school sweethearts. We always tried to go even while tailgating Michigan State...</Text>
     </Paragraph>
     <Paragraph Type="Character" id="4dc1a166-8e51-4f73-bf7b-64e6ccda897b">
@@ -706,8 +706,8 @@ People can get anywhere with our cars!
 Our cherry farms are the cherry on top!</Text>
     </Paragraph>
     <Paragraph Type="Action" id="758d5cd9-7431-4fea-88bb-45745b05f1fb">
-      <Text Style="AllCaps">Jasper Vo</Text>
-      <Text> (30s, Vietnamese man) opens up the </Text>
+      <Text Style="AllCaps">Jasper Vinh Chin</Text>
+      <Text> (30s, Vietnamese) opens the </Text>
       <Text Style="AllCaps">Banh Mi</Text>
       <Text> restaurant.</Text>
     </Paragraph>
@@ -3039,7 +3039,7 @@ Dearborn writer’s block!</Text>
     </Paragraph>
     <Paragraph Type="Action" id="37c42538-5d4e-4e2f-a555-d391faece0c5">
       <Text>In Lulu’s head, the rest of the </Text>
-      <Text AdornmentStyle="-1">Vandams</Text>
+      <Text AdornmentStyle="-1">VanDams</Text>
       <Text> answer her question.</Text>
     </Paragraph>
     <Paragraph Type="Character" id="60e84976-5a33-4739-bc04-84bd8ebaf211">
@@ -3221,7 +3221,7 @@ What will I bring being Dearborn </Text>
     </Paragraph>
     <Paragraph Type="Action" id="404a8de5-c967-4141-adb8-3eae28cde41b">
       <Text>The </Text>
-      <Text AdornmentStyle="-1">Vandams</Text>
+      <Text AdornmentStyle="-1">VanDams</Text>
       <Text> gather, unknowing that a family of Deer lurks nearby.</Text>
     </Paragraph>
     <Paragraph Type="Character" id="9548842d-8ae2-4c87-b943-d265a307deae">
@@ -3264,7 +3264,7 @@ Lulu... Lulu... LUlu...</Text>
     </Paragraph>
     <Paragraph Type="Action" id="c70fabe6-676a-4914-9215-342b2d71d682">
       <Text>The </Text>
-      <Text AdornmentStyle="-1">Vandams</Text>
+      <Text AdornmentStyle="-1">VanDams</Text>
       <Text> heighten the bonfire, scaring off the Deer family.</Text>
     </Paragraph>
     <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="1.25" RightIndent="7.25" SpaceBefore="12" Spacing="1" StartsNewPage="No" Type="General" id="eb856690-b1a3-4f35-8b5f-8c2819a62116">
@@ -5036,7 +5036,7 @@ Dad from his deathbed.</Text>
     </Paragraph>
     <Paragraph Type="Action" id="bcbd1de8-b8e7-4651-95a8-9f76fb12b8c2">
       <Text>A bonfire lives by Lulu, Petoskey, and the rest of the </Text>
-      <Text AdornmentStyle="-1">Vandams</Text>
+      <Text AdornmentStyle="-1">VanDams</Text>
       <Text>.</Text>
     </Paragraph>
     <Paragraph Type="Character" id="f0910997-f86f-4902-8180-5d5656ee5132">
@@ -5073,6 +5073,9 @@ Dad from his deathbed.</Text>
     </Paragraph>
     <Paragraph Type="Character" id="dec6cc42-174e-4e5b-a3fb-63f4218f2bed">
       <Text>Lulu</Text>
+    </Paragraph>
+    <Paragraph Type="Parenthetical" id="b9c9efaa-ecfd-41fe-b0ba-977401b0c425">
+      <Text>(Quietly)</Text>
     </Paragraph>
     <Paragraph Type="Lyrics" id="b427f60d-e492-4963-86cd-7cceb4e77fa2">
       <Text>Dear Lulu,
@@ -5152,7 +5155,7 @@ Petoskey...</Text>
       <Text>Science is our best friend!</Text>
     </Paragraph>
     <Paragraph Type="Action" id="df55ca8c-e023-4fb0-b56b-1a1714171fb9">
-      <Text>Perry pulls out a Fossil and goes to the audience.</Text>
+      <Text>Perry pulls out a Fossil and goes to the Audience.</Text>
     </Paragraph>
     <Paragraph Type="Character" id="c78b2f90-91fc-437a-a6e5-d47c69a155f4">
       <Text>PerRY</Text>
@@ -5367,7 +5370,7 @@ Fossils help us heal.</Text>
       <Text Style="Underline+AllCaps">”</Text>
     </Paragraph>
     <Paragraph Type="Action" id="4b0f39ae-5cba-43af-8780-beac416142b1">
-      <Text>Lulu trails off from the group, looking at her fossil. As she walks along the coastline of the fourth wall, the Deer approaches from the audience. They startle her. She uses the fossil as a shield. The Deer snatches her fossil away then drop off the Heirloom and other special rocks. She stares at the rock deposit.</Text>
+      <Text>Lulu trails off from the group, looking at her fossil. As she walks along the coastline of the fourth wall, the Deer approaches from the Audience. They startle her. She uses the fossil as a shield. The Deer snatches her fossil away then drop off the Heirloom and other special rocks. She stares at the rock deposit.</Text>
     </Paragraph>
     <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="1.25" RightIndent="7.25" SpaceBefore="12" Spacing="1" StartsNewPage="No" Type="General" id="eb856690-b1a3-4f35-8b5f-8c2819a62116">
       <Text AdornmentStyle="-1" Style="Underline+AllCaps">Magtogoek</Text>
@@ -5703,9 +5706,9 @@ I love him as the starving artist.</Text>
     </Paragraph>
     <Paragraph Type="Action" id="56c7460a-5679-4f28-bb43-f7b8690fe900">
       <Text>The Grande Parade is underway. As Jacob is this year’s Grand Marshall, the </Text>
-      <Text AdornmentStyle="-1">Vandam’s</Text>
+      <Text AdornmentStyle="-1">VanDam’s</Text>
       <Text> theme is Musical Theatre. The </Text>
-      <Text AdornmentStyle="-1">Vandams</Text>
+      <Text AdornmentStyle="-1">VanDams</Text>
       <Text> adjust their costumes and makeup.</Text>
     </Paragraph>
     <Paragraph Type="Action" id="1fe30c3a-bbd0-4240-906d-b0a904c473f1">
@@ -5990,8 +5993,8 @@ Forget rocks for a second and let us enjoy this parade.</Text>
     </Paragraph>
     <Paragraph Type="Action" id="81668e64-8313-4e66-8f3c-64625e28fa1a">
       <Text>The </Text>
-      <Text AdornmentStyle="-1">Vandams</Text>
-      <Text> hand out candy and theatre memorabilia to the parade crowd and real-life audience.</Text>
+      <Text AdornmentStyle="-1">VanDams</Text>
+      <Text> hand out candy and theatre memorabilia to the parade crowd and real-life Audience.</Text>
     </Paragraph>
     <Paragraph Type="Character" id="240b2a10-a093-4dee-9322-84b98a490ba5">
       <Text>Jacob</Text>
@@ -6042,7 +6045,7 @@ Nothing shall stand between us and fame!</Text>
     <Paragraph Type="Action" id="20913679-555b-4ed6-bcf2-08703cd8980c">
       <Text>The parade reaches BANH </Text>
       <Text AdornmentStyle="-1">MIchigan</Text>
-      <Text> restaurant. Jasper is handing out food to the crowd and audience with the Vo family. </Text>
+      <Text> restaurant. Jasper is handing out food to the crowd and Audience with the Vinh Chin family. </Text>
     </Paragraph>
     <Paragraph Type="Action" id="609b88a3-0e8a-496a-ad56-f9f35b52c2b1">
       <Text>Lulu waves at Jasper.</Text>
@@ -6276,7 +6279,7 @@ kick rocks!</Text>
     </Paragraph>
     <Paragraph Type="Action" id="1d6fe9f2-990c-49b1-b050-526a2f636318">
       <Text>The </Text>
-      <Text AdornmentStyle="-1">Vandams</Text>
+      <Text AdornmentStyle="-1">VanDams</Text>
       <Text> join in with Liz.</Text>
     </Paragraph>
     <Paragraph Type="Character" id="699ea319-7d29-4d78-90f0-2d78bb99b6c9">
@@ -6688,7 +6691,7 @@ Now the other hand!</Text>
       <Text>for a thousand townships, townships!</Text>
     </Paragraph>
     <Paragraph Type="Action" id="eb131d90-865c-47e4-96b0-d446e778a6b9">
-      <Text>Lulu and Petoskey go into the audience and applaud them.</Text>
+      <Text>Lulu and Petoskey go into the Audience and applaud them.</Text>
     </Paragraph>
     <Paragraph Type="Character" id="2a4cea27-9b65-4a32-a48e-62fd06d3635a">
       <Text>Lulu &amp; PETOSKEY</Text>
@@ -6813,7 +6816,7 @@ Hands come in handy!</Text>
       <Text Style="Underline+AllCaps">”</Text>
     </Paragraph>
     <Paragraph Type="Action" id="a1eda5c5-1d20-4950-9be7-096b94e33ee0">
-      <Text>Liz goes ask around the audience.</Text>
+      <Text>Liz goes ask around the Audience.</Text>
     </Paragraph>
     <Paragraph Type="Character" id="0ef095fe-a772-446b-914e-f9f3719842da">
       <Text>LizzIE</Text>
@@ -6873,7 +6876,7 @@ My heart, my heart cannot take-</Text>
     </Paragraph>
     <Paragraph Type="Action" id="487751bc-dc45-4c01-9955-72fcf03d74a6">
       <Text>The </Text>
-      <Text AdornmentStyle="-1">Vandams</Text>
+      <Text AdornmentStyle="-1">VanDams</Text>
       <Text>, without Lulu, come to her aid.</Text>
     </Paragraph>
     <Paragraph Type="Character" id="8b2f6554-6a90-4839-b05c-5bc99f253647">
@@ -6884,8 +6887,8 @@ My heart, my heart cannot take-</Text>
     </Paragraph>
     <Paragraph Type="Action" id="55056940-20f7-49d9-a690-a1617bfb678c">
       <Text>The </Text>
-      <Text AdornmentStyle="-1">Vandams</Text>
-      <Text> give away Petoskey stones to the audience. They hand one to Liz.</Text>
+      <Text AdornmentStyle="-1">VanDams</Text>
+      <Text> give away Petoskey stones to the Audience. They hand one to Liz.</Text>
     </Paragraph>
     <Paragraph Type="Character" id="ac9bcfdf-776e-41a1-9ad1-98c00e1b16da">
       <Text AdornmentStyle="-1">VanDAMS</Text>
@@ -7119,7 +7122,7 @@ as long as you break bread.</Text>
       <Text>The british invasion was so yesterday.</Text>
     </Paragraph>
     <Paragraph Type="Action" id="5b2cc4d8-2fa3-4d51-8feb-f19c194e29b6">
-      <Text>Jasper makes a banh mi for Jacob.</Text>
+      <Text>Jasper makes a Banh Mi for Jacob.</Text>
     </Paragraph>
     <Paragraph Type="Character" id="b44701df-e438-41d6-8926-46a21e28590e">
       <Text>Jasper</Text>
@@ -7268,7 +7271,7 @@ so long as you listen to the bread.</Text>
       <Text>Apologize with some deserved violence.</Text>
     </Paragraph>
     <Paragraph Type="Action" id="a4f5c8f3-4899-483b-8495-ff8167282227">
-      <Text>Jasper kisses a banh mi.</Text>
+      <Text>Jasper kisses a Banh Mi.</Text>
     </Paragraph>
     <Paragraph Type="Character" id="efd41c3f-7e2c-43c5-84a6-91b643cb43c1">
       <Text>JaspER</Text>
@@ -8522,7 +8525,7 @@ By the way, I’m kidding. No sacrifices here, so long as you stop these data ce
     </Paragraph>
     <Paragraph Type="Action" id="1c60baef-ee21-49d2-9543-992acedae05a">
       <Text>The rest of the </Text>
-      <Text AdornmentStyle="-1">Vandams</Text>
+      <Text AdornmentStyle="-1">VanDams</Text>
       <Text> show up.</Text>
     </Paragraph>
     <Paragraph Type="Character" id="7b960f21-8ba4-48fe-99e3-53f577ff1ac7">
@@ -8634,7 +8637,7 @@ By the way, I’m kidding. No sacrifices here, so long as you stop these data ce
     </Paragraph>
     <Paragraph Type="Dialogue" id="8bd1e645-900e-4f99-bc5c-fd381b853bca">
       <Text>Headline: the </Text>
-      <Text AdornmentStyle="-1">Vandams</Text>
+      <Text AdornmentStyle="-1">VanDams</Text>
       <Text> stole from the kids’ charity?!</Text>
     </Paragraph>
     <Paragraph Type="Character" id="aeb52d6f-5a09-4090-9c49-2b52d8a82522">
@@ -8642,7 +8645,7 @@ By the way, I’m kidding. No sacrifices here, so long as you stop these data ce
     </Paragraph>
     <Paragraph Type="Dialogue" id="c79b4237-9448-4fc1-883d-a71eeb486b9f">
       <Text>The </Text>
-      <Text AdornmentStyle="-1">Vandams</Text>
+      <Text AdornmentStyle="-1">VanDams</Text>
       <Text> have been dumping Model T oil into Elk Lake?!</Text>
     </Paragraph>
     <Paragraph Type="Character" id="c51af46b-5883-4a93-a202-cfe961dc9abf">
@@ -8650,7 +8653,7 @@ By the way, I’m kidding. No sacrifices here, so long as you stop these data ce
     </Paragraph>
     <Paragraph Type="Dialogue" id="35cd7852-63c0-4e16-a4c7-0a1763d1a1a0">
       <Text>The </Text>
-      <Text AdornmentStyle="-1">Vandams</Text>
+      <Text AdornmentStyle="-1">VanDams</Text>
       <Text> burn down an orphanage?!</Text>
     </Paragraph>
     <Paragraph Type="Character" id="fb0357bd-cc9c-42f9-a01e-ebf98a110bd1">
@@ -8667,7 +8670,7 @@ By the way, I’m kidding. No sacrifices here, so long as you stop these data ce
     </Paragraph>
     <Paragraph Type="Action" id="688d5a91-bd1b-4856-b148-b5f69952b343">
       <Text>The Residents surround the </Text>
-      <Text AdornmentStyle="-1">Vandams</Text>
+      <Text AdornmentStyle="-1">VanDams</Text>
       <Text> like predatory creatures.</Text>
     </Paragraph>
     <Paragraph Type="Character" id="da1de51c-5a7f-4013-a13b-47698684fa02">
@@ -8719,9 +8722,9 @@ By the way, I’m kidding. No sacrifices here, so long as you stop these data ce
     </Paragraph>
     <Paragraph Type="Action" id="cd872c18-97d7-405b-8d6e-fa888ce40d12">
       <Text>As the Residents surround the </Text>
-      <Text AdornmentStyle="-1">Vandams</Text>
+      <Text AdornmentStyle="-1">VanDams</Text>
       <Text>, ready to attack, the </Text>
-      <Text AdornmentStyle="-1">Vandams</Text>
+      <Text AdornmentStyle="-1">VanDams</Text>
       <Text> put on old costumes from past Harbor Days. The Residents admire them.</Text>
     </Paragraph>
     <Paragraph Type="Character" id="f97ad6b8-6656-4d67-98d3-327f3951c24c">
@@ -8729,7 +8732,7 @@ By the way, I’m kidding. No sacrifices here, so long as you stop these data ce
     </Paragraph>
     <Paragraph Type="Dialogue" id="75c60c4a-8e8a-4dc2-96f1-9edd80d04f0e">
       <Text>We can’t hurt the </Text>
-      <Text AdornmentStyle="-1">Vandams</Text>
+      <Text AdornmentStyle="-1">VanDams</Text>
       <Text>.</Text>
     </Paragraph>
     <Paragraph Type="Character" id="a1545210-46ab-44e9-a215-2b272e7a93b6">
@@ -8782,7 +8785,7 @@ By the way, I’m kidding. No sacrifices here, so long as you stop these data ce
     </Paragraph>
     <Paragraph Type="Dialogue" id="7065d3ae-17f2-42af-948a-55ad5ebbcb2b">
       <Text>The </Text>
-      <Text AdornmentStyle="-1">Vandam</Text>
+      <Text AdornmentStyle="-1">VanDam</Text>
       <Text> is our ring...</Text>
     </Paragraph>
     <Paragraph Type="Character" id="7b0517d6-efba-4894-a064-4d5e59cf41b0">
@@ -8795,11 +8798,11 @@ By the way, I’m kidding. No sacrifices here, so long as you stop these data ce
       <Text>RESIDENT</Text>
     </Paragraph>
     <Paragraph Type="Dialogue" id="e2774fcc-f945-48a8-ab7a-b9bf2fe6b38b">
-      <Text AdornmentStyle="-1">Vandams</Text>
+      <Text AdornmentStyle="-1">VanDams</Text>
       <Text>! </Text>
-      <Text AdornmentStyle="-1">Vandams</Text>
+      <Text AdornmentStyle="-1">VanDams</Text>
       <Text>! </Text>
-      <Text AdornmentStyle="-1">Vandams</Text>
+      <Text AdornmentStyle="-1">VanDams</Text>
       <Text>!</Text>
     </Paragraph>
     <Paragraph Type="Character" id="0a9f3d80-6731-4201-a17d-bf66f60d0845">
@@ -9171,7 +9174,7 @@ By the way, I’m kidding. No sacrifices here, so long as you stop these data ce
     </Paragraph>
     <Paragraph Type="Action" id="75ce2ed4-185a-4740-a0a4-8be13d9cdb28">
       <Text>The rest of the </Text>
-      <Text AdornmentStyle="-1">Vandams</Text>
+      <Text AdornmentStyle="-1">VanDams</Text>
       <Text> and Residents reach the wreckage.</Text>
     </Paragraph>
     <Paragraph Type="Action" id="c9e92dc2-b4cd-499c-9651-7fe7459899d5">
@@ -9289,7 +9292,7 @@ By the way, I’m kidding. No sacrifices here, so long as you stop these data ce
     </Paragraph>
     <Paragraph Type="Action" id="6f0651b3-c697-4a0f-b04f-e9a6b7a5d3f0">
       <Text>The </Text>
-      <Text AdornmentStyle="-1">Vandams</Text>
+      <Text AdornmentStyle="-1">VanDams</Text>
       <Text> and Amanda walk on the bridge, leaving the Residents behind.</Text>
     </Paragraph>
     <Paragraph Type="Character" id="eff72c73-374e-41dc-b933-f9b7709d4f3b">
@@ -9502,7 +9505,7 @@ You are my soul!</Text>
     </Paragraph>
     <Paragraph Type="Action" id="6e654b3f-18fc-48cb-9e5d-3b5e45aa5622">
       <Text>The </Text>
-      <Text AdornmentStyle="-1">Vandams</Text>
+      <Text AdornmentStyle="-1">VanDams</Text>
       <Text> continue on. They finally cross the bridge.</Text>
     </Paragraph>
     <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="1.25" RightIndent="7.25" SpaceBefore="12" Spacing="1" StartsNewPage="No" Type="General" id="eb856690-b1a3-4f35-8b5f-8c2819a62116">
@@ -9549,7 +9552,7 @@ You are my soul!</Text>
     </Paragraph>
     <Paragraph Type="Action" id="c6043fd8-f36a-47d6-813d-3bee02aa0602">
       <Text>The </Text>
-      <Text AdornmentStyle="-1">Vandams</Text>
+      <Text AdornmentStyle="-1">VanDams</Text>
       <Text> prepare themselves for the Michigan Bicentennial Parade.</Text>
     </Paragraph>
     <Paragraph Type="Character" id="b6c26630-b396-4071-848b-98ded47ef376">
@@ -9594,7 +9597,7 @@ And Lulu ended up turning our life story into a musical for her high school seni
       <Text>Cherry secretly holds a tablet and places Willy-Milly’s photo on it.</Text>
     </Paragraph>
     <Paragraph Type="Action" id="18f9c281-693a-4003-baa2-c1a785af6ac1">
-      <Text>Willy and Milly manifest, lost once again in the audience.</Text>
+      <Text>Willy and Milly manifest, lost once again in the Audience.</Text>
     </Paragraph>
     <Paragraph Type="Action" id="17151238-cb9f-4b06-b42b-0cd28f4c98f4">
       <Text>Cherry waves. Perry and Shelby run in and mess with Cherry.</Text>
@@ -9635,7 +9638,7 @@ And Lulu ended up turning our life story into a musical for her high school seni
     </Paragraph>
     <Paragraph Type="Action" id="59ea03ae-7c13-4338-b72c-e92d25e6a0ea">
       <Text>The rest of the </Text>
-      <Text AdornmentStyle="-1">Vandams</Text>
+      <Text AdornmentStyle="-1">VanDams</Text>
       <Text> come and watch the Great Lakes together.</Text>
     </Paragraph>
     <Paragraph Type="Character" id="d2ffe695-e600-4a8a-8911-9631f17a2d56">
@@ -9692,12 +9695,12 @@ Welcome to Michigan’s Bicentennial Celebration! Thanks for inviting me as your
 We have floats and organizations representing the nearly three hundred cities and a thousand townships from all over our Great Lakes state!
 
 And here comes Elk Rapids with the world-class </Text>
-      <Text AdornmentStyle="-1">Vandam</Text>
+      <Text AdornmentStyle="-1">VanDam</Text>
       <Text> family!</Text>
     </Paragraph>
     <Paragraph Type="Action" id="13fc1297-2d49-4df8-84ef-3e6e626258d1">
       <Text>The </Text>
-      <Text AdornmentStyle="-1">Vandam</Text>
+      <Text AdornmentStyle="-1">VanDam</Text>
       <Text> family resembles the state’s best from Aretha Franklin, Charles Lindbergh, Madonna, Stevie Wonder, to Christopher Wright (author of Pham’s favorite book series, </Text>
       <Text Style="Italic">Michigan Chillers</Text>
       <Text>).</Text>
@@ -9860,7 +9863,7 @@ Winter in our bones.</Text>
 
   <WindowState Height="635" Left="2" Mode="Maximized" Top="2" Width="649"/>
 
-  <TextState Scaling="100" Selection="60190,60190" ShowInvisibles="No"/>
+  <TextState Scaling="100" Selection="0,0" ShowInvisibles="No"/>
 
   <ElementSettings Type="General">
     <FontSpec AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style=""/>
@@ -10980,7 +10983,7 @@ Winter in our bones.</Text>
   </Characters>
 
   <ScriptNotes>
-    <ScriptNote Color="#RRRRGGGGBBBB" DateModified="20260914T171220" DateTime="20260914T171215" Id="1" Name="" Range="42848,42867" Type="" WriterID="4eedcf62-5cdf-433a-a0aa-782742503b18" WriterName="David Quang Pham">
+    <ScriptNote Color="#RRRRGGGGBBBB" DateModified="20260914T171220" DateTime="20260914T171215" Id="1" Name="" Range="42858,42877" Type="" WriterID="4eedcf62-5cdf-433a-a0aa-782742503b18" WriterName="David Quang Pham">
       <Paragraph Alignment="Left" FirstIndent="1.94" Leading="Regular" LeftIndent="1.94" RightIndent="0.00" SpaceBefore="12" Spacing="1" StartsNewPage="No" Type="Action">
         <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">[History: Amanda and Conor Wayland are a sister-brother duo from Muskegon, known for artworks portraying the human condition with the intent to improve human connection. They received Bachelors of Science in Engineering with a major in computer engineering with honors from the University of Michigan. But Amanda moved on to studio art at Hope College where she befriends Cherry Jacobowitz, a mother returning to finish her education. Conor revolutionizes and paves a way for AI in art which Amanda initially was a skeptic of. He starts Turkey Ventures, based on turkey vultures, who symbolize healers who remove sickness from the world. Leading up to the 2007 recession, Conor leaped off the Mackinac Bridge, devastating Amanda. Her creative spirit also died. She gets expelled for using technology to quicken her assignments. She took over Turkey Ventures, developing many AI systems with AfterLife.AI being her prized work. AL.AI is meant to bring the dead, whether a loved one or stranger, back to life as a digital avatar. AL.AI uses intense amount of water to do so. Amanda sees this as a way to prevent suicide, as Conor wallowed in loneliness. She will do anything to save lives, even if it meant bulldozing every lake town to make more data centers to bring AL.AI closer to reality. She believes in her motto: "starving artists no more."]</Text>
       </Paragraph>
