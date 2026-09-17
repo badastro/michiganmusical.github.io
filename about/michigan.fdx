@@ -218,7 +218,7 @@ But every morning, he’s public enemy number one.</Text>
       <Text> and </Text>
       <Text AdornmentStyle="-1" Style="AllCaps">Grampy</Text>
       <Text Style="AllCaps"> Willy</Text>
-      <Text> roam in the audience, giving no F&amp;*@s.</Text>
+      <Text> roam in the Audience, giving no F&amp;*@s.</Text>
     </Paragraph>
     <Paragraph Type="Character" id="f9cd0df7-1878-472a-8923-67eff3c1f2a1">
       <Text>Willy</Text>
@@ -6473,7 +6473,7 @@ Intermission</Text>
       <Text Style="Underline+AllCaps">”</Text>
     </Paragraph>
     <Paragraph Type="Action" id="f510e3d7-488c-483e-b598-0658cdd0a828">
-      <Text>The Harbor Days talent show has a handy line-up, including 7-year-old Lulu and Petoskey.</Text>
+      <Text>The Harbor Days Talent Show features a handy line-up, such as 7-year-old Lulu and Petoskey.</Text>
     </Paragraph>
     <Paragraph Type="Character" id="3a93b920-dbbf-4393-a4ec-bb010801c31e">
       <Text>Lulu</Text>
@@ -6691,7 +6691,7 @@ Now the other hand!</Text>
       <Text>for a thousand townships, townships!</Text>
     </Paragraph>
     <Paragraph Type="Action" id="eb131d90-865c-47e4-96b0-d446e778a6b9">
-      <Text>Lulu and Petoskey go into the Audience and applaud them.</Text>
+      <Text>Lulu and Petoskey high-five Audience Members.</Text>
     </Paragraph>
     <Paragraph Type="Character" id="2a4cea27-9b65-4a32-a48e-62fd06d3635a">
       <Text>Lulu &amp; PETOSKEY</Text>
@@ -6726,7 +6726,7 @@ Hands come in handy!</Text>
       <Text>Hands come in handy!</Text>
     </Paragraph>
     <Paragraph Type="Action" id="6c0f2dc4-19c3-48a6-9e20-dc3539726c5e">
-      <Text>Lulu and Petoskey do a Pat-a-cake, pat-a-cake, baker’s man game.</Text>
+      <Text>Lulu and Petoskey do a Pat-a-cake, pat-a-cake, baker’s man game. They run off, high-fiving Audience Members on the way out.</Text>
     </Paragraph>
     <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="1.25" RightIndent="7.25" SpaceBefore="12" Spacing="1" StartsNewPage="No" Type="General" id="eb856690-b1a3-4f35-8b5f-8c2819a62116">
       <Text Style="Underline">End of “</Text>
@@ -8246,7 +8246,7 @@ By the way, I’m kidding. No sacrifices here, so long as you stop these data ce
       <Text Style="Bold+Underline+AllCaps">Scene 1</Text>
     </Paragraph>
     <Paragraph Type="Scene Heading" id="ff2224c8-4acc-4956-867a-17fd275c56b8">
-      <SceneProperties Length="4 6/8" Page="73" Title="">
+      <SceneProperties Length="4 6/8" Page="74" Title="">
         <SceneArcBeats>
           <CharacterArcBeat Name="AI">
             <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" OutlineLevel="0" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
@@ -8812,7 +8812,7 @@ By the way, I’m kidding. No sacrifices here, so long as you stop these data ce
       <Text>Activate Elk dot AI!</Text>
     </Paragraph>
     <Paragraph Type="Scene Heading" id="9db8ffae-33d8-4f33-9d0f-55621098fec0">
-      <SceneProperties Length="2 3/8" Page="78" Title="">
+      <SceneProperties Length="2 3/8" Page="79" Title="">
         <SceneArcBeats>
           <CharacterArcBeat Name="AI">
             <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" OutlineLevel="0" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
@@ -9083,7 +9083,7 @@ By the way, I’m kidding. No sacrifices here, so long as you stop these data ce
       <Text Style="Bold+Underline+AllCaps">Scene 2</Text>
     </Paragraph>
     <Paragraph Type="Scene Heading" id="ca17ebd4-f006-487f-9a08-894598157173">
-      <SceneProperties Length="1 5/8" Page="80" Title="">
+      <SceneProperties Length="1 5/8" Page="81" Title="">
         <SceneArcBeats>
           <CharacterArcBeat Name="AMANDA">
             <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" OutlineLevel="0" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
@@ -9246,7 +9246,7 @@ By the way, I’m kidding. No sacrifices here, so long as you stop these data ce
       <Text Style="Underline">”</Text>
     </Paragraph>
     <Paragraph Type="Scene Heading" id="5da96831-1e73-4f5e-baff-daeadd78b157">
-      <SceneProperties Length="2" Page="82" Title="">
+      <SceneProperties Length="2" Page="83" Title="">
         <SceneArcBeats>
           <CharacterArcBeat Name="AMANDA">
             <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" OutlineLevel="0" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
@@ -9524,13 +9524,13 @@ You are my soul!</Text>
       <Text Style="Bold+Underline+AllCaps">Scene 1</Text>
     </Paragraph>
     <Paragraph Type="Scene Heading" id="00c9048c-ce54-43ee-af1d-e638c4bceb09">
-      <SceneProperties Length="1/8" Page="84" Title="">
+      <SceneProperties Length="1/8" Page="85" Title="">
         <SceneArcBeats/>
       </SceneProperties>
       <Text Style="Bold+AllCaps">Ext. Elk Rapids - January 2037 - Day</Text>
     </Paragraph>
     <Paragraph Type="Scene Heading" id="5da96831-1e73-4f5e-baff-daeadd78b157">
-      <SceneProperties Length="1 4/8" Page="84" Title="">
+      <SceneProperties Length="1 4/8" Page="85" Title="">
         <SceneArcBeats>
           <CharacterArcBeat Name="AMANDA">
             <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" OutlineLevel="0" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
@@ -9656,7 +9656,7 @@ And Lulu ended up turning our life story into a musical for her high school seni
       <Text Style="Bold+Underline+AllCaps">Scene 2</Text>
     </Paragraph>
     <Paragraph Type="Scene Heading" id="987c3cbc-adb0-4eed-895f-9c2ec73d05c3">
-      <SceneProperties Length="1" Page="85" Title="">
+      <SceneProperties Length="1" Page="86" Title="">
         <SceneArcBeats>
           <CharacterArcBeat Name="JACOB">
             <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" OutlineLevel="0" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
@@ -9724,7 +9724,7 @@ And here comes Elk Rapids with the world-class </Text>
       <Text>Who are we?!</Text>
     </Paragraph>
     <Paragraph Type="Scene Heading" id="5da96831-1e73-4f5e-baff-daeadd78b157">
-      <SceneProperties Length="5/8" Page="86" Title="">
+      <SceneProperties Length="5/8" Page="87" Title="">
         <SceneArcBeats>
           <CharacterArcBeat Name="CHERRY">
             <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" OutlineLevel="0" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
@@ -10918,7 +10918,7 @@ Winter in our bones.</Text>
 
   <DisplayBoards>
     <DisplayBoard Height="10000" Id="06da4865-abe0-4945-8472-2da2dfadf07d" ScrollOrigin="0,0" Type="Beat" Width="24000" ZoomLevel="100.000"/>
-    <DisplayBoard Height="90" Id="37ad8c99-f42d-43aa-9a6e-bc6cb6bfe318" ScrollOrigin="0,0" Type="StoryMap" Width="14600" ZoomLevel="730.000">
+    <DisplayBoard Height="90" Id="37ad8c99-f42d-43aa-9a6e-bc6cb6bfe318" ScrollOrigin="6189,0" Type="StoryMap" Width="14600" ZoomLevel="730.000">
       <Lanes>
         <Lane Id="f97fe2a6-a64b-4a18-80a0-847c0b9f730e" Label="Outline 1" Level="7" Type="Outline 1"/>
         <Lane Id="a53ef67b-9d7e-4b26-a603-4ea6fd02981c" Label="Outline 2" Level="5" Type="Outline 2"/>
