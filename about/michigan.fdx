@@ -9083,7 +9083,7 @@ By the way, I’m kidding. No sacrifices here, so long as you stop these data ce
       <Text Style="Bold+Underline+AllCaps">Scene 2</Text>
     </Paragraph>
     <Paragraph Type="Scene Heading" id="ca17ebd4-f006-487f-9a08-894598157173">
-      <SceneProperties Length="1 5/8" Page="81" Title="">
+      <SceneProperties Length="2 1/8" Page="81" Title="">
         <SceneArcBeats>
           <CharacterArcBeat Name="AMANDA">
             <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" OutlineLevel="0" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
@@ -9098,6 +9098,15 @@ By the way, I’m kidding. No sacrifices here, so long as you stop these data ce
             <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" OutlineLevel="0" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
           </CharacterArcBeat>
           <CharacterArcBeat Name="LIZZIE &amp; AMANDA">
+            <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" OutlineLevel="0" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+          </CharacterArcBeat>
+          <CharacterArcBeat Name="LIZZIE &amp; SHELBY">
+            <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" OutlineLevel="0" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+          </CharacterArcBeat>
+          <CharacterArcBeat Name="LULU">
+            <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" OutlineLevel="0" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+          </CharacterArcBeat>
+          <CharacterArcBeat Name="PETOSKEY">
             <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" OutlineLevel="0" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
           </CharacterArcBeat>
           <CharacterArcBeat Name="SHELBY">
@@ -9166,19 +9175,81 @@ By the way, I’m kidding. No sacrifices here, so long as you stop these data ce
     <Paragraph Type="Character" id="f71a13a5-edbf-4651-8285-002783bfd1e4">
       <Text>ShELBY</Text>
     </Paragraph>
-    <Paragraph Type="Dialogue" id="dcccf5fc-8219-44c6-a147-9808e29c1872">
+    <Paragraph Type="Dialogue" id="72a28f14-d520-42e4-9d21-8f7b6c729fcc">
       <Text>Shall we?</Text>
     </Paragraph>
-    <Paragraph Type="Action" id="604da0ce-dd46-4e42-bd86-154c65d9afd5">
-      <Text>Liz opens the trunk, revealing a dizzy Lulu and Petoskey. She pulls them up.</Text>
+    <Paragraph Type="Character" id="3ed92bd7-88b1-4f64-8220-382f6a042342">
+      <Text>LIZZIE</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="8f8f4555-74aa-4789-82c4-8be3c8a88030">
+      <Text>I can’t open the trunk!</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="44c80a59-8e9b-47b8-8b16-26f4838de185">
+      <Text>Willy </Text>
+      <Text Style="Italic">runs </Text>
+      <Text>in. Using a remote, he opens the trunk, revealing a dizzy Lulu and Petoskey.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="88025760-fe8b-4b75-9359-09a647429338">
+      <Text>AmanDA</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="95ced3ce-f118-4994-b647-940fdff0f958">
+      <Text>It’s an automatic?!</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="c1d92a5e-10e8-4ce0-9fe0-51ff1638cae0">
+      <Text>WiLLY</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="2c971ad5-73eb-441b-9cac-6c4c4047e3e9">
+      <Text>My dear Grammy Milly hotwired our baby.</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="cff15cf7-52c0-40e2-b9eb-8d2ca7bdb81c">
+      <Text>Liz and Shelby pull up the Kids.</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="c9e92dc2-b4cd-499c-9651-7fe7459899d5">
+      <Text>The Ford Model T abruptly falls to the Mackinac Strait below.</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="a5c84675-db21-4855-a29a-597bea0f804d">
+      <Text>Liz embraces Petoskey while Shelby embraces Lulu.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="e0371055-67f5-466d-b643-98e2adf458ae">
+      <Text>LiZZIE</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="cc262b7f-0e2e-48dc-a79a-ea8f6c809b8a">
+      <Text>My rock. Don’t ever try to sink so low again.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="61de591c-ebd0-48f2-b03e-af8e5add08db">
+      <Text>PetOSKEY</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="b8a03779-28c8-4800-ba18-7dfe0e3360c9">
+      <Text>I’m so sorry for hurting Lulu, mom.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="ca5f5212-5e70-44ab-814c-fc0d148d3c16">
+      <Text>Lulu</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="21d2d084-d747-4e90-a04e-c1dac3b11ed0">
+      <Text>I get to choose what you wear next year!</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="1dbe6e25-b596-4906-a79f-a7ada1fffd5e">
+      <Text>LiZZIE &amp; Shelby</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="c624c8b1-f91f-47ab-9312-380403ac6c5e">
+      <Text>We’ll make it as humiliating as possible.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="740b365e-99a8-4a91-8307-b72c6bbeec37">
+      <Text>PETOSKEY</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="06bb0275-8c51-4154-ba35-88c99680b742">
+      <Text>Humility... I wish I embodied my dad. I’m sorry-</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="f119a944-7dbf-496f-89e9-25a2cfe0286e">
+      <Text>LizZIE</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="ef1fa6ea-a31d-432b-a644-d22a8f66e767">
+      <Text>I didn’t marry Petey for his body. I loved him for his soul. And you, Petoskey, have his soul.</Text>
     </Paragraph>
     <Paragraph Type="Action" id="75ce2ed4-185a-4740-a0a4-8be13d9cdb28">
       <Text>The rest of the </Text>
       <Text AdornmentStyle="-1">VanDams</Text>
       <Text> and Residents reach the wreckage.</Text>
-    </Paragraph>
-    <Paragraph Type="Action" id="c9e92dc2-b4cd-499c-9651-7fe7459899d5">
-      <Text>The Ford Model T abruptly falls to the Mackinac Strait below.</Text>
     </Paragraph>
     <Paragraph Type="Character" id="d4ce3481-3823-40fe-8381-ffde94180421">
       <Text>Willy</Text>
@@ -9524,18 +9595,21 @@ You are my soul!</Text>
       <Text Style="Bold+Underline+AllCaps">Scene 1</Text>
     </Paragraph>
     <Paragraph Type="Scene Heading" id="00c9048c-ce54-43ee-af1d-e638c4bceb09">
-      <SceneProperties Length="1/8" Page="85" Title="">
+      <SceneProperties Length="1/8" Page="86" Title="">
         <SceneArcBeats/>
       </SceneProperties>
       <Text Style="Bold+AllCaps">Ext. Elk Rapids - January 2037 - Day</Text>
     </Paragraph>
     <Paragraph Type="Scene Heading" id="5da96831-1e73-4f5e-baff-daeadd78b157">
-      <SceneProperties Length="1 4/8" Page="85" Title="">
+      <SceneProperties Length="1 4/8" Page="86" Title="">
         <SceneArcBeats>
           <CharacterArcBeat Name="AMANDA">
             <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" OutlineLevel="0" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
           </CharacterArcBeat>
           <CharacterArcBeat Name="LIZZIE">
+            <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" OutlineLevel="0" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+          </CharacterArcBeat>
+          <CharacterArcBeat Name="LULU &amp; PETOSKEY">
             <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" OutlineLevel="0" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
           </CharacterArcBeat>
           <CharacterArcBeat Name="TIDAL[S]">
@@ -9562,15 +9636,23 @@ You are my soul!</Text>
       <Text>(Narrating)</Text>
     </Paragraph>
     <Paragraph Type="Dialogue" id="66f5df2b-7785-462d-90a1-2e871cb25268">
-      <Text>Year after year, still doing Harbor Days. Every time, I’m there. I </Text>
+      <Text>Year after year, still doing Harbor Days. I take the shortcut. I </Text>
       <Text Style="Italic">can</Text>
-      <Text> cross a bridge. Yay me, facing my trauma. Huh...</Text>
+      <Text> cross a bridge. Huh... Beats going through Wisconsin.</Text>
     </Paragraph>
-    <Paragraph Type="Dialogue" id="66f5df2b-7785-462d-90a1-2e871cb25268"/>
-    <Paragraph Type="Dialogue" id="66f5df2b-7785-462d-90a1-2e871cb25268">
-      <Text>Amanda ripped apart the agreement, so Elk Rapids and her favorite Lake House are ours again. The kids did it: they saved the world from one data center! Many more to go...
+    <Paragraph Type="Character" id="3aa129e5-680a-4737-b258-0ac1ef057200">
+      <Text>Lulu &amp; PETOSKEY</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="5089f0de-47ee-4a26-ac82-705227c5edc2">
+      <Text>Everyone’s cheesy there!</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="de2232bb-e94b-4d74-9db6-328ee6b7774b">
+      <Text>LiZZIE</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="5089f0de-47ee-4a26-ac82-705227c5edc2">
+      <Text>Amanda ripped apart the agreement, so Elk Rapids and Lake House are ours again. The kids did it: they saved the world from one data center! Many more to go...
 
-And Lulu ended up turning our life story into a musical for her high school senior year project then she developed it at U of M...</Text>
+And Lulu ended up turning our life story into a musical for her high school senior project. Then, she developed it at U of M...</Text>
     </Paragraph>
     <Paragraph Type="Character" id="a59b64cf-0afd-4ae4-84a0-4b05994acea3">
       <Text AdornmentStyle="-1">Vandams</Text>
@@ -9656,7 +9738,7 @@ And Lulu ended up turning our life story into a musical for her high school seni
       <Text Style="Bold+Underline+AllCaps">Scene 2</Text>
     </Paragraph>
     <Paragraph Type="Scene Heading" id="987c3cbc-adb0-4eed-895f-9c2ec73d05c3">
-      <SceneProperties Length="1" Page="86" Title="">
+      <SceneProperties Length="1" Page="87" Title="">
         <SceneArcBeats>
           <CharacterArcBeat Name="JACOB">
             <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" OutlineLevel="0" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
@@ -9724,7 +9806,7 @@ And here comes Elk Rapids with the world-class </Text>
       <Text>Who are we?!</Text>
     </Paragraph>
     <Paragraph Type="Scene Heading" id="5da96831-1e73-4f5e-baff-daeadd78b157">
-      <SceneProperties Length="5/8" Page="87" Title="">
+      <SceneProperties Length="5/8" Page="88" Title="">
         <SceneArcBeats>
           <CharacterArcBeat Name="CHERRY">
             <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" OutlineLevel="0" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
@@ -9810,7 +9892,8 @@ Winter in our bones.</Text>
       <Text>M I? M I?</Text>
     </Paragraph>
     <Paragraph Type="Lyrics" id="15a00d84-5cc7-4417-931e-41ed92bcf85a">
-      <Text>M i Michigan!</Text>
+      <Text>M i Michigan!
+M-i-c-h-g-a-n michigan!</Text>
     </Paragraph>
     <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="1.25" RightIndent="7.25" SpaceBefore="12" Spacing="1" StartsNewPage="No" Type="General" id="238fcebc-fec6-40be-93f0-bd789fcd8499">
       <Text Style="Underline">End of “</Text>
@@ -9863,7 +9946,7 @@ Winter in our bones.</Text>
 
   <WindowState Height="635" Left="2" Mode="Maximized" Top="2" Width="649"/>
 
-  <TextState Scaling="100" Selection="0,0" ShowInvisibles="No"/>
+  <TextState Scaling="100" Selection="77435,77435" ShowInvisibles="No"/>
 
   <ElementSettings Type="General">
     <FontSpec AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style=""/>
@@ -10862,6 +10945,7 @@ Winter in our bones.</Text>
     <Character Color="#RRRRGGGGBBBB" Name="LIZZIE" Visible="No"/>
     <Character Color="#RRRRGGGGBBBB" Name="LIZZIE &amp; AMANDA" Visible="No"/>
     <Character Color="#RRRRGGGGBBBB" Name="LIZZIE &amp; PETEY" Visible="No"/>
+    <Character Color="#RRRRGGGGBBBB" Name="LIZZIE &amp; SHELBY" Visible="No"/>
     <Character Color="#RRRRGGGGBBBB" Name="LIZZIE, AUNTIES, AMANDA" Visible="No"/>
     <Character Color="#RRRRGGGGBBBB" Name="LULU" Visible="No"/>
     <Character Color="#RRRRGGGGBBBB" Name="LULU &amp; COUSINS" Visible="No"/>
@@ -10918,7 +11002,7 @@ Winter in our bones.</Text>
 
   <DisplayBoards>
     <DisplayBoard Height="10000" Id="06da4865-abe0-4945-8472-2da2dfadf07d" ScrollOrigin="0,0" Type="Beat" Width="24000" ZoomLevel="100.000"/>
-    <DisplayBoard Height="90" Id="37ad8c99-f42d-43aa-9a6e-bc6cb6bfe318" ScrollOrigin="6189,0" Type="StoryMap" Width="14600" ZoomLevel="730.000">
+    <DisplayBoard Height="90" Id="37ad8c99-f42d-43aa-9a6e-bc6cb6bfe318" ScrollOrigin="926,0" Type="StoryMap" Width="14600" ZoomLevel="730.000">
       <Lanes>
         <Lane Id="f97fe2a6-a64b-4a18-80a0-847c0b9f730e" Label="Outline 1" Level="7" Type="Outline 1"/>
         <Lane Id="a53ef67b-9d7e-4b26-a603-4ea6fd02981c" Label="Outline 2" Level="5" Type="Outline 2"/>
