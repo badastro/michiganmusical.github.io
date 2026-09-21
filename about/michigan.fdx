@@ -266,7 +266,7 @@ But every morning, he’s public enemy number one.</Text>
       <Text>Go put on your hearing aids.</Text>
     </Paragraph>
     <Paragraph Type="Action" id="a754db1b-1828-4126-9eb3-1d32845dc708">
-      <Text>Willy-Milly tune their hearing aids. They frolic in the Audience.</Text>
+      <Text>Willy and Milly tune their hearing aids. They frolic in the Audience.</Text>
     </Paragraph>
     <Paragraph Type="Character" id="d1b97067-1f6f-4dde-9d26-8cd1185951f5">
       <Text>WillY &amp; MILLY</Text>
@@ -1544,7 +1544,7 @@ Nobody.</Text>
     </Paragraph>
     <Paragraph Type="Action" id="3925c769-fd1f-4662-ba42-4beea7327409">
       <Text Style="AllCaps">Petoskey</Text>
-      <Text> (11, farm boy in a flat hat) crawls out of his tent. He puts on the Heirloom and mittens. He bangs pots and pans.</Text>
+      <Text> (11, farm boy in a trapper hat) crawls out of his tent. He puts on the Heirloom and mittens. He bangs pots and pans.</Text>
     </Paragraph>
     <Paragraph Type="Action" id="2905e4bd-218c-4882-9554-3d2df7d38f07">
       <Text Style="AllCaps">Lulu</Text>
@@ -3039,12 +3039,13 @@ Dear me: why can’t I lock in?
 Dearborn writer’s block!</Text>
     </Paragraph>
     <Paragraph Type="Action" id="37c42538-5d4e-4e2f-a555-d391faece0c5">
-      <Text>In Lulu’s head, the rest of the </Text>
-      <Text AdornmentStyle="-1">Van Otterloos</Text>
+      <Text>In Lulu’s head, the rest of the Van </Text>
+      <Text AdornmentStyle="-1">Otterloos</Text>
       <Text> answer her question.</Text>
     </Paragraph>
     <Paragraph Type="Character" id="60e84976-5a33-4739-bc04-84bd8ebaf211">
-      <Text AdornmentStyle="-1">Van Otterloos</Text>
+      <Text>Van </Text>
+      <Text AdornmentStyle="-1">Otterloos</Text>
     </Paragraph>
     <Paragraph Type="Lyrics" id="e39e8439-70e0-43fa-8924-bebbffe2c2cf">
       <Text>Dear Lulu,
@@ -3066,7 +3067,8 @@ A looney loser!</Text>
           <Text>Note to self: it’s because your family hates you, LU...</Text>
         </Paragraph>
         <Paragraph Type="Character" id="827dc8cc-44ce-46ca-a4d8-69130222dc7d">
-          <Text AdornmentStyle="-1">Van Otterloos</Text>
+          <Text>Van </Text>
+          <Text AdornmentStyle="-1">Otterloos</Text>
         </Paragraph>
         <Paragraph Type="Lyrics" id="174a37cb-b7a9-4fb6-be87-339f7aa57990">
           <Text>Loo... Loo... 
@@ -3221,8 +3223,8 @@ What will I bring being Dearborn </Text>
       <Text>!</Text>
     </Paragraph>
     <Paragraph Type="Action" id="404a8de5-c967-4141-adb8-3eae28cde41b">
-      <Text>The </Text>
-      <Text AdornmentStyle="-1">Van Otterloos</Text>
+      <Text>The Van </Text>
+      <Text AdornmentStyle="-1">Otterloos</Text>
       <Text> gather, unknowing that a family of Deer lurks nearby.</Text>
     </Paragraph>
     <Paragraph Type="Character" id="9548842d-8ae2-4c87-b943-d265a307deae">
@@ -5976,7 +5978,8 @@ This jealousy really makes my mom’s blood boil.
 Forget rocks for a second and let us enjoy this parade.</Text>
     </Paragraph>
     <Paragraph Type="Character" id="53b2a000-4399-4d96-92de-760bc5ad5d0f">
-      <Text AdornmentStyle="-1">Van Otterloos</Text>
+      <Text>Van </Text>
+      <Text AdornmentStyle="-1">Otterloos</Text>
       <Text> w/o Petoskey</Text>
     </Paragraph>
     <Paragraph Type="Lyrics" id="d5d91b0b-87db-4382-9fe8-ea5748714f71">
@@ -9604,7 +9607,7 @@ You are my soul!</Text>
       <Text Style="Bold+AllCaps">Ext. Elk Rapids - January 2037 - Day</Text>
     </Paragraph>
     <Paragraph Type="Scene Heading" id="5da96831-1e73-4f5e-baff-daeadd78b157">
-      <SceneProperties Length="1 4/8" Page="87" Title="">
+      <SceneProperties Length="1 5/8" Page="87" Title="">
         <SceneArcBeats>
           <CharacterArcBeat Name="AMANDA">
             <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" OutlineLevel="0" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
@@ -9723,9 +9726,18 @@ And Lulu ended up turning our life story into a musical for her high school seni
       <Text>Petoskey worked the shipyard like me and his father. And he used such skills to fix up the Lake House.</Text>
     </Paragraph>
     <Paragraph Type="Action" id="59ea03ae-7c13-4338-b72c-e92d25e6a0ea">
-      <Text>The rest of the </Text>
-      <Text AdornmentStyle="-1">Van Otterloos</Text>
-      <Text> come and watch the Great Lakes together.</Text>
+      <Text>The rest of the Van </Text>
+      <Text AdornmentStyle="-1">Otterloos</Text>
+      <Text> come and watch the Great Lakes together. They hug each other, especially Lulu.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="1d628eff-e644-4684-9446-615cfd8e0abb">
+      <Text>Van </Text>
+      <Text AdornmentStyle="-1">OTTERLOOS</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="f81c01b4-586c-43c9-8088-9e7f09ad1145">
+      <Text>What an honor to be a Van </Text>
+      <Text AdornmentStyle="-1">Otterloo</Text>
+      <Text> like you.</Text>
     </Paragraph>
     <Paragraph Type="Character" id="d2ffe695-e600-4a8a-8911-9631f17a2d56">
       <Text>Lizzie</Text>
@@ -9785,7 +9797,9 @@ And here comes Elk Rapids with the world-class Van </Text>
       <Text> family!</Text>
     </Paragraph>
     <Paragraph Type="Action" id="13fc1297-2d49-4df8-84ef-3e6e626258d1">
-      <Text>The Van Otterloo family resembles the state’s best from Aretha Franklin, Charles Lindbergh, Madonna, Stevie Wonder, to Christopher Wright (author of Pham’s favorite book series, </Text>
+      <Text>The Van </Text>
+      <Text AdornmentStyle="-1">Otterloo</Text>
+      <Text> family resembles the state’s best from Aretha Franklin, Charles Lindbergh, Madonna, Stevie Wonder, to Christopher Wright (author of Pham’s favorite book series, </Text>
       <Text Style="Italic">Michigan Chillers</Text>
       <Text>).</Text>
     </Paragraph>
@@ -9948,7 +9962,7 @@ M-i-c-h-g-a-n michigan!</Text>
 
   <WindowState Height="635" Left="2" Mode="Maximized" Top="2" Width="649"/>
 
-  <TextState Scaling="100" Selection="46046,46049" ShowInvisibles="No"/>
+  <TextState Scaling="100" Selection="0,0" ShowInvisibles="No"/>
 
   <ElementSettings Type="General">
     <FontSpec AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style=""/>
@@ -11069,7 +11083,7 @@ M-i-c-h-g-a-n michigan!</Text>
   </Characters>
 
   <ScriptNotes>
-    <ScriptNote Color="#RRRRGGGGBBBB" DateModified="20260921T092508" DateTime="20260914T171215" Id="1" Name="" Range="43000,43019" Type="" WriterID="4eedcf62-5cdf-433a-a0aa-782742503b18" WriterName="David Quang Pham">
+    <ScriptNote Color="#RRRRGGGGBBBB" DateModified="20260921T092508" DateTime="20260914T171215" Id="1" Name="" Range="43007,43026" Type="" WriterID="4eedcf62-5cdf-433a-a0aa-782742503b18" WriterName="David Quang Pham">
       <Paragraph Alignment="Left" FirstIndent="1.94" Leading="Regular" LeftIndent="1.94" RightIndent="0.00" SpaceBefore="12" Spacing="1" StartsNewPage="No" Type="Action">
         <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">[History: Amanda and Conor Wayland are a sister-brother duo from Muskegon, known for artworks portraying the human condition with the intent to improve human connection. They received Bachelors of Science in Engineering with a major in computer engineering with honors from the University of Michigan. But Amanda moved on to studio art at Hope College where she befriends Cherry Jacobowitz, a mother returning to finish her education. Conor revolutionizes and paves a way for AI in art which Amanda initially was a skeptic of. He starts Turkey Ventures, based on turkey vultures, who symbolize healers who remove sickness from the world. Leading up to the 2007 recession, Conor leaped off the Mackinac Bridge, devastating Amanda. Her creative spirit also died. She gets expelled for using technology to quicken her assignments. She took over Turkey Ventures, developing many AI systems with AfterLife.AI being her prized work. AL.AI is meant to bring the dead, whether a loved one or stranger, back to life as a digital avatar. AL.AI uses intense amount of water to do so. Amanda sees this as a way to prevent suicide, as Conor wallowed in loneliness. She will do anything to save lives, even if it meant bulldozing every lake town to make more data centers to bring AL.AI closer to reality. She believes in her motto: "starving artists no more."]</Text>
       </Paragraph>
