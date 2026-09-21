@@ -37,8 +37,9 @@
     </Paragraph>
     <Paragraph Type="Action" id="1c1f6585-9200-449a-8dd3-afce3b21a7c6">
       <Text>Next to the shores of Elk Lake, the </Text>
-      <Text AdornmentStyle="-1">VanDam</Text>
-      <Text> family camps in tents. The old Lake House is behind them.</Text>
+      <Text Style="AllCaps">Van </Text>
+      <Text AdornmentStyle="-1" Style="AllCaps">Otterloos</Text>
+      <Text> camp in tents. The old Lake House is behind them.</Text>
     </Paragraph>
     <Paragraph Type="Action" id="79621969-d8c4-48e3-8a84-1fee599aa112">
       <Text Style="AllCaps">Petey</Text>
@@ -75,7 +76,7 @@ Slept well, hun</Text>
           <CharacterArcBeat Name="AMANDA">
             <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" OutlineLevel="0" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
           </CharacterArcBeat>
-          <CharacterArcBeat Name="AMANDA &amp; VANDAMS">
+          <CharacterArcBeat Name="AMANDA &amp; VAN OTTERLOOS">
             <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" OutlineLevel="0" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
           </CharacterArcBeat>
           <CharacterArcBeat Name="AUDIENCE MEMBER">
@@ -123,10 +124,10 @@ Slept well, hun</Text>
           <CharacterArcBeat Name="TIDAL[S]">
             <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" OutlineLevel="0" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
           </CharacterArcBeat>
-          <CharacterArcBeat Name="VANDAMS">
+          <CharacterArcBeat Name="VAN OTTERLOOS">
             <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" OutlineLevel="0" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
           </CharacterArcBeat>
-          <CharacterArcBeat Name="VANDAMS W/O PERRY">
+          <CharacterArcBeat Name="VAN OTTERLOOS W/O PERRY">
             <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" OutlineLevel="0" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
           </CharacterArcBeat>
           <CharacterArcBeat Name="WILLY">
@@ -149,13 +150,13 @@ Slept well, hun</Text>
 But every morning, he’s public enemy number one.</Text>
     </Paragraph>
     <Paragraph Type="Action" id="9a50caa9-ca59-4a82-b4c1-f0bae066934f">
-      <Text>The three </Text>
-      <Text AdornmentStyle="-1">VanDam</Text>
+      <Text>The three Van </Text>
+      <Text AdornmentStyle="-1">Otterloo</Text>
       <Text> sisters - </Text>
       <Text Style="AllCaps">Cherry</Text>
       <Text>, </Text>
       <Text Style="AllCaps">Perry</Text>
-      <Text>, and </Text>
+      <Text>, </Text>
       <Text Style="AllCaps">Shelby</Text>
       <Text> (pregnant) - crawl out of their tents.</Text>
     </Paragraph>
@@ -175,8 +176,8 @@ But every morning, he’s public enemy number one.</Text>
       <Text>ChERRY, PERRY, SHELBY</Text>
     </Paragraph>
     <Paragraph Type="Lyrics" id="6b13d6b8-e47a-4693-9696-119aab97e43c">
-      <Text>The </Text>
-      <Text AdornmentStyle="-1">vandam</Text>
+      <Text>The Van </Text>
+      <Text AdornmentStyle="-1">otterloo</Text>
       <Text> sisters!</Text>
     </Paragraph>
     <Paragraph Type="Character" id="424da45c-ae3a-4f36-b11d-eee9910715e6">
@@ -385,17 +386,17 @@ Make yourself comfy.</Text>
       <Text>Life is complete with our crazy family!</Text>
     </Paragraph>
     <Paragraph Type="Action" id="388663b2-94ce-45e3-9b8c-ff83f385a45b">
-      <Text>The </Text>
-      <Text AdornmentStyle="-1">VanDams</Text>
-      <Text> put on Red Wings gear.</Text>
+      <Text>The Van </Text>
+      <Text AdornmentStyle="-1">Otterloos</Text>
+      <Text> wear Red Wings.</Text>
     </Paragraph>
     <Paragraph Type="Character" id="8e03e32a-6fe0-4cb2-9194-d8b796407ad8">
       <Text>LizZIE</Text>
     </Paragraph>
     <Paragraph Type="Dialogue" id="3223a88f-162b-4241-afc2-cacc3378c579">
-      <Text>Welcome to Harbor Days with the </Text>
-      <Text AdornmentStyle="-1">VanDam</Text>
-      <Text> family! What’s Harbor Days you ask? For four days in August, it's an Elk Rapids tradition. That's all I know. I've gone to these since Petey and I were high school sweethearts. We always tried to go even while tailgating Michigan State...</Text>
+      <Text>Welcome to Harbor Days with the Van </Text>
+      <Text AdornmentStyle="-1">Otterloo</Text>
+      <Text> family! What’s Harbor Days you ask? For four days in August, it's an Elk Rapids tradition. That's all I know. I've gone to these since Petey and I were high school sweethearts. We also go while tailgating Michigan State...</Text>
     </Paragraph>
     <Paragraph Type="Character" id="4dc1a166-8e51-4f73-bf7b-64e6ccda897b">
       <Text>Petey</Text>
@@ -516,7 +517,7 @@ Make yourself comfy.</Text>
     </Paragraph>
     <Paragraph Type="Lyrics" id="e275d2c0-7dcd-4ecd-b241-efd1fef71b7c">
       <Text>No one beats the </Text>
-      <Text AdornmentStyle="-1">Vandams</Text>
+      <Text AdornmentStyle="-1">Van Otterloos</Text>
       <Text>!</Text>
     </Paragraph>
     <Paragraph Type="Character" id="ea43a18c-8c2f-4d77-b470-a01bb3dbc64e">
@@ -831,7 +832,7 @@ Our cherry farms are the cherry on top!</Text>
       <Text>Cause Banh Mi is you and me!</Text>
     </Paragraph>
     <Paragraph Type="Character" id="1a32c08c-09fd-43a4-b956-fa74616f13cd">
-      <Text AdornmentStyle="-1">VaNDAMS</Text>
+      <Text AdornmentStyle="-1">Van Otterloos</Text>
     </Paragraph>
     <Paragraph Type="Lyrics" id="9b25d6e0-dba9-45a1-b177-02e551a7fb14">
       <Text>Life ain’t complete without...</Text>
@@ -905,7 +906,7 @@ Our cherry farms are the cherry on top!</Text>
       <Text>This is 2008. Not 2080. AI is going nowhere.</Text>
     </Paragraph>
     <Paragraph Type="Character" id="e4ecfada-53fe-481f-9291-1bcd70c8e776">
-      <Text AdornmentStyle="-1">Vandams</Text>
+      <Text AdornmentStyle="-1">Van Otterloos</Text>
       <Text> W/o Perry</Text>
     </Paragraph>
     <Paragraph Type="Dialogue" id="f44dafce-6357-48f7-801a-75d4a23f64d6">
@@ -939,7 +940,7 @@ Our cherry farms are the cherry on top!</Text>
     </Paragraph>
     <Paragraph Type="Character" id="1c4ffb17-705b-4657-933f-cfe54df0edc9">
       <Text>Amanda &amp; </Text>
-      <Text AdornmentStyle="-1">Vandams</Text>
+      <Text AdornmentStyle="-1">Van Otterloos</Text>
     </Paragraph>
     <Paragraph Type="Lyrics" id="ed3fd50d-c5bf-4c33-832e-1e2d58cd04ce">
       <Text>Life ain’t complete with enemies and rivalries.</Text>
@@ -1132,7 +1133,7 @@ The jewel of Michigan...</Text>
           <IgnoredWords/>
         </SpellCheckIgnoreLists>
         <Paragraph Type="Character" id="9c1332aa-08ad-4886-b9f7-70314d773b22">
-          <Text AdornmentStyle="-1">VANDAMS</Text>
+          <Text AdornmentStyle="-1">VAN OTTERLOOS</Text>
         </Paragraph>
         <Paragraph Type="Lyrics" id="148ef06c-648c-428e-82fb-76a8ccb3b0d2">
           <Text>LIFE IS COMPLETE WITH OUR</Text>
@@ -1194,7 +1195,7 @@ The jewel of Michigan...</Text>
       <Text>WELCOMING...</Text>
     </Paragraph>
     <Paragraph Type="Character" id="1376fa60-4d4b-4620-856c-2129e5bf7cde">
-      <Text AdornmentStyle="-1">VANDAMS</Text>
+      <Text AdornmentStyle="-1">VAN OTTERLOOS</Text>
     </Paragraph>
     <Paragraph Type="Lyrics" id="694812d4-3bc5-4de3-89a1-7b5f62e7bee6">
       <Text>FAMILY!</Text>
@@ -2953,7 +2954,7 @@ ours </Text>
           <CharacterArcBeat Name="TWINS">
             <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" OutlineLevel="0" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
           </CharacterArcBeat>
-          <CharacterArcBeat Name="VANDAMS">
+          <CharacterArcBeat Name="VAN OTTERLOOS">
             <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" OutlineLevel="0" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
           </CharacterArcBeat>
           <CharacterArcBeat Name="WILLY">
@@ -3039,11 +3040,11 @@ Dearborn writer’s block!</Text>
     </Paragraph>
     <Paragraph Type="Action" id="37c42538-5d4e-4e2f-a555-d391faece0c5">
       <Text>In Lulu’s head, the rest of the </Text>
-      <Text AdornmentStyle="-1">VanDams</Text>
+      <Text AdornmentStyle="-1">Van Otterloos</Text>
       <Text> answer her question.</Text>
     </Paragraph>
     <Paragraph Type="Character" id="60e84976-5a33-4739-bc04-84bd8ebaf211">
-      <Text AdornmentStyle="-1">VaNDAMS</Text>
+      <Text AdornmentStyle="-1">Van Otterloos</Text>
     </Paragraph>
     <Paragraph Type="Lyrics" id="e39e8439-70e0-43fa-8924-bebbffe2c2cf">
       <Text>Dear Lulu,
@@ -3065,7 +3066,7 @@ A looney loser!</Text>
           <Text>Note to self: it’s because your family hates you, LU...</Text>
         </Paragraph>
         <Paragraph Type="Character" id="827dc8cc-44ce-46ca-a4d8-69130222dc7d">
-          <Text AdornmentStyle="-1">Vandams</Text>
+          <Text AdornmentStyle="-1">Van Otterloos</Text>
         </Paragraph>
         <Paragraph Type="Lyrics" id="174a37cb-b7a9-4fb6-be87-339f7aa57990">
           <Text>Loo... Loo... 
@@ -3221,7 +3222,7 @@ What will I bring being Dearborn </Text>
     </Paragraph>
     <Paragraph Type="Action" id="404a8de5-c967-4141-adb8-3eae28cde41b">
       <Text>The </Text>
-      <Text AdornmentStyle="-1">VanDams</Text>
+      <Text AdornmentStyle="-1">Van Otterloos</Text>
       <Text> gather, unknowing that a family of Deer lurks nearby.</Text>
     </Paragraph>
     <Paragraph Type="Character" id="9548842d-8ae2-4c87-b943-d265a307deae">
@@ -3241,7 +3242,7 @@ You </Text>
 Dearborn. Dearborn. You are dearest born...</Text>
     </Paragraph>
     <Paragraph Type="Character" id="44b6be6a-2326-4c80-aebe-f4bfc6c39ef8">
-      <Text AdornmentStyle="-1">VaNDAMS</Text>
+      <Text AdornmentStyle="-1">Van Otterloos</Text>
     </Paragraph>
     <Paragraph Type="Lyrics" id="4f0dfb3a-1d8d-481f-8dbe-2c486dbd2897">
       <Text>Dear Lulu,
@@ -3264,7 +3265,7 @@ Lulu... Lulu... LUlu...</Text>
     </Paragraph>
     <Paragraph Type="Action" id="c70fabe6-676a-4914-9215-342b2d71d682">
       <Text>The </Text>
-      <Text AdornmentStyle="-1">VanDams</Text>
+      <Text AdornmentStyle="-1">Van Otterloos</Text>
       <Text> heighten the bonfire, scaring off the Deer family.</Text>
     </Paragraph>
     <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="1.25" RightIndent="7.25" SpaceBefore="12" Spacing="1" StartsNewPage="No" Type="General" id="eb856690-b1a3-4f35-8b5f-8c2819a62116">
@@ -3535,7 +3536,7 @@ Lulu... Lulu... LUlu...</Text>
       <Text>And I did complete my degree at U of M.</Text>
     </Paragraph>
     <Paragraph Type="Character" id="07332c4e-a2f6-43c9-99a0-a1199d43f96e">
-      <Text AdornmentStyle="-1">VanDAMS</Text>
+      <Text AdornmentStyle="-1">Van Otterloos</Text>
     </Paragraph>
     <Paragraph Type="Dialogue" id="a80defcc-da48-4e6b-ba96-acdb8294b27b">
       <Text>Ew... The Wolverines.</Text>
@@ -3629,10 +3630,10 @@ Lulu... Lulu... LUlu...</Text>
           <CharacterArcBeat Name="PETOSKEY">
             <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" OutlineLevel="0" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
           </CharacterArcBeat>
-          <CharacterArcBeat Name="VANDAMS">
+          <CharacterArcBeat Name="VAN OTTERLOOS">
             <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" OutlineLevel="0" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
           </CharacterArcBeat>
-          <CharacterArcBeat Name="VANDAMS W/O CHERRY">
+          <CharacterArcBeat Name="VAN OTTERLOOS W/O CHERRY">
             <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" OutlineLevel="0" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
           </CharacterArcBeat>
         </SceneArcBeats>
@@ -3657,7 +3658,7 @@ Lulu... Lulu... LUlu...</Text>
       <Text>Amanda releases a bunch of physical embodiments of AI slop.</Text>
     </Paragraph>
     <Paragraph Type="Character" id="c156e8b3-ae34-4df4-910e-83e71787e95a">
-      <Text AdornmentStyle="-1">VandaMS</Text>
+      <Text AdornmentStyle="-1">Van Otterloos</Text>
     </Paragraph>
     <Paragraph Type="Lyrics" id="24005342-bc6c-4ced-9c91-31be6f402649">
       <Text>A I? R U crazy!</Text>
@@ -3676,7 +3677,7 @@ I’m not your enemy!</Text>
       <Text>Don’t miss this great opportunity!</Text>
     </Paragraph>
     <Paragraph Type="Character" id="6e40c95e-3b0d-49c9-b231-84b0295acbd4">
-      <Text AdornmentStyle="-1">Vandams</Text>
+      <Text AdornmentStyle="-1">Van Otterloos</Text>
       <Text> w/o Cherry</Text>
     </Paragraph>
     <Paragraph Type="Lyrics" id="19b7eafc-3bb9-46ae-bf21-b7baea6c53a6">
@@ -3695,7 +3696,7 @@ I’m not your enemy!</Text>
       <Text>This is slavery.</Text>
     </Paragraph>
     <Paragraph Type="Character" id="dab0f89a-8883-4a97-ad85-222af5c1e277">
-      <Text AdornmentStyle="-1">VandaMS</Text>
+      <Text AdornmentStyle="-1">Van Otterloos</Text>
       <Text> W/O CHERRY</Text>
     </Paragraph>
     <Paragraph Type="Lyrics" id="fe7700cb-b9b9-4343-a85d-9ae8c4fff899">
@@ -3708,7 +3709,7 @@ I’m not your enemy!</Text>
       <Text>But dirt cheap!</Text>
     </Paragraph>
     <Paragraph Type="Character" id="fa3dbe9d-efb5-44f5-9b8d-a0d9d4b14ef3">
-      <Text AdornmentStyle="-1">VandAMS</Text>
+      <Text AdornmentStyle="-1">Van Otterloos</Text>
       <Text> w/o CHERRY</Text>
     </Paragraph>
     <Paragraph Type="Lyrics" id="65c2750b-5547-43ab-b9c5-8ce8e52538df">
@@ -3729,7 +3730,7 @@ I’m not your enemy!</Text>
 Every city with a data center has internet faster than light!</Text>
     </Paragraph>
     <Paragraph Type="Character" id="12b805df-5243-4b28-ba9d-2b6bac805ad9">
-      <Text AdornmentStyle="-1">VanDAMS</Text>
+      <Text AdornmentStyle="-1">Van Otterloos</Text>
       <Text> W/O Cherry</Text>
     </Paragraph>
     <Paragraph Type="Lyrics" id="1b69fa2f-b66f-4ac4-af5f-9be8b57c6097">
@@ -3742,7 +3743,7 @@ Every city with a data center has internet faster than light!</Text>
       <Text>Every hospital run by data centers sends patients away from the light.</Text>
     </Paragraph>
     <Paragraph Type="Character" id="d67932c3-f417-4e7a-8398-1a057d1af6a5">
-      <Text AdornmentStyle="-1">VanDAMS</Text>
+      <Text AdornmentStyle="-1">Van Otterloos</Text>
       <Text> W/O CHERRY</Text>
     </Paragraph>
     <Paragraph Type="Lyrics" id="03eba8e4-c62d-4209-9e14-0ae87defb30b">
@@ -3755,7 +3756,7 @@ Every city with a data center has internet faster than light!</Text>
       <Text>Any ordinary joe will center data from God’s enlightenment.</Text>
     </Paragraph>
     <Paragraph Type="Character" id="4722a936-6c69-4a7a-9a30-beac2567043b">
-      <Text AdornmentStyle="-1">VandAMS</Text>
+      <Text AdornmentStyle="-1">Van Otterloos</Text>
     </Paragraph>
     <Paragraph Type="Lyrics" id="7cc68d62-1db3-489f-b902-4bc77611ecc9">
       <Text>Light.</Text>
@@ -3774,7 +3775,7 @@ Every city with a data center has internet faster than light!</Text>
 You’d get comedy letting it make memes of your family!</Text>
     </Paragraph>
     <Paragraph Type="Character" id="70b23d23-a32d-4f61-b87c-cbf627f3e6f5">
-      <Text AdornmentStyle="-1">VandaMS</Text>
+      <Text AdornmentStyle="-1">Van Otterloos</Text>
       <Text> W/O CHERRY</Text>
     </Paragraph>
     <Paragraph Type="Lyrics" id="d0deb458-c955-423c-9db1-00f476b090b3">
@@ -3788,7 +3789,7 @@ You’d get comedy letting it make memes of your family!</Text>
 You’ll grow wealthy letting it day trade in your cryptocurrencies!</Text>
     </Paragraph>
     <Paragraph Type="Character" id="a5dcdd56-3f0b-48f0-b133-7f85289f7556">
-      <Text AdornmentStyle="-1">VandaMS</Text>
+      <Text AdornmentStyle="-1">Van Otterloos</Text>
       <Text> W/O CHERRY</Text>
     </Paragraph>
     <Paragraph Type="Lyrics" id="b5877fd5-a912-4618-99dc-8176b816d187">
@@ -3801,7 +3802,7 @@ You’ll grow wealthy letting it day trade in your cryptocurrencies!</Text>
       <Text>AI will understand consciousness...</Text>
     </Paragraph>
     <Paragraph Type="Character" id="2315d16a-5649-43df-9083-daf1213b98c5">
-      <Text AdornmentStyle="-1">VanDAMS</Text>
+      <Text AdornmentStyle="-1">Van Otterloos</Text>
       <Text> W/O CHERRY</Text>
     </Paragraph>
     <Paragraph Type="Lyrics" id="87597312-8e88-4f7e-bdc8-9ce5df3a64f5">
@@ -3814,7 +3815,7 @@ You’ll grow wealthy letting it day trade in your cryptocurrencies!</Text>
       <Text>...for us!</Text>
     </Paragraph>
     <Paragraph Type="Character" id="96213f61-7485-4c72-8188-5d54cd0d654d">
-      <Text AdornmentStyle="-1">VanDAMS</Text>
+      <Text AdornmentStyle="-1">Van Otterloos</Text>
       <Text> W/O CHERRY</Text>
     </Paragraph>
     <Paragraph Type="Lyrics" id="36516147-9821-4c05-9746-a641aea4ae3a">
@@ -3827,7 +3828,7 @@ You’ll grow wealthy letting it day trade in your cryptocurrencies!</Text>
       <Text>For me...</Text>
     </Paragraph>
     <Paragraph Type="Character" id="16aa1fda-0ac7-4150-bbfd-24d1106cf8b5">
-      <Text AdornmentStyle="-1">VandAMS</Text>
+      <Text AdornmentStyle="-1">Van Otterloos</Text>
       <Text> W/O CHERRY</Text>
     </Paragraph>
     <Paragraph Type="Lyrics" id="a64714f8-145e-4ce0-a2b9-93f69923b752">
@@ -3855,7 +3856,7 @@ You’ll grow wealthy letting it day trade in your cryptocurrencies!</Text>
           <Text>Your brother?</Text>
         </Paragraph>
         <Paragraph Type="Character" id="b54d627b-98d1-45e9-9863-3646de9c67fe">
-          <Text AdornmentStyle="-1">VandaMS</Text>
+          <Text AdornmentStyle="-1">Van Otterloos</Text>
         </Paragraph>
         <Paragraph Type="Lyrics" id="655a48f9-d439-488b-9ae4-3c6db0a76fe8">
           <Text>Big brother...</Text>
@@ -5036,7 +5037,7 @@ Dad from his deathbed.</Text>
     </Paragraph>
     <Paragraph Type="Action" id="bcbd1de8-b8e7-4651-95a8-9f76fb12b8c2">
       <Text>A bonfire lives by Lulu, Petoskey, and the rest of the </Text>
-      <Text AdornmentStyle="-1">VanDams</Text>
+      <Text AdornmentStyle="-1">Van Otterloos</Text>
       <Text>.</Text>
     </Paragraph>
     <Paragraph Type="Character" id="f0910997-f86f-4902-8180-5d5656ee5132">
@@ -5707,10 +5708,8 @@ I love him as the starving artist.</Text>
       <Text Style="Bold+AllCaps">Ext. Elk Rapids - Noon</Text>
     </Paragraph>
     <Paragraph Type="Action" id="56c7460a-5679-4f28-bb43-f7b8690fe900">
-      <Text>The Grande Parade is underway. As Jacob is this year’s Grand Marshall, the </Text>
-      <Text AdornmentStyle="-1">VanDam’s</Text>
-      <Text> theme is Musical Theatre. The </Text>
-      <Text AdornmentStyle="-1">VanDams</Text>
+      <Text>The Grande Parade is underway. As Jacob is this year’s Grand Marshall, the theme is Musical Theatre. The Van </Text>
+      <Text AdornmentStyle="-1">Otterloos</Text>
       <Text> adjust their costumes and makeup.</Text>
     </Paragraph>
     <Paragraph Type="Action" id="1fe30c3a-bbd0-4240-906d-b0a904c473f1">
@@ -5895,16 +5894,16 @@ I love him as the starving artist.</Text>
           <CharacterArcBeat Name="PETOSKEY">
             <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" OutlineLevel="0" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
           </CharacterArcBeat>
-          <CharacterArcBeat Name="VANDAMS">
+          <CharacterArcBeat Name="VAN OTTERLOOS">
             <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" OutlineLevel="0" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
           </CharacterArcBeat>
-          <CharacterArcBeat Name="VANDAMS W/O LIZ &amp; PETOSKEY">
+          <CharacterArcBeat Name="VAN OTTERLOOS W/O LIZ &amp; PETOSKEY">
             <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" OutlineLevel="0" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
           </CharacterArcBeat>
-          <CharacterArcBeat Name="VANDAMS W/O LIZ, PETOSKEY, SHELBY">
+          <CharacterArcBeat Name="VAN OTTERLOOS W/O LIZ, PETOSKEY, SHELBY">
             <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" OutlineLevel="0" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
           </CharacterArcBeat>
-          <CharacterArcBeat Name="VANDAMS W/O PETOSKEY">
+          <CharacterArcBeat Name="VAN OTTERLOOS W/O PETOSKEY">
             <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" OutlineLevel="0" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
           </CharacterArcBeat>
         </SceneArcBeats>
@@ -5977,7 +5976,7 @@ This jealousy really makes my mom’s blood boil.
 Forget rocks for a second and let us enjoy this parade.</Text>
     </Paragraph>
     <Paragraph Type="Character" id="53b2a000-4399-4d96-92de-760bc5ad5d0f">
-      <Text AdornmentStyle="-1">Vandams</Text>
+      <Text AdornmentStyle="-1">Van Otterloos</Text>
       <Text> w/o Petoskey</Text>
     </Paragraph>
     <Paragraph Type="Lyrics" id="d5d91b0b-87db-4382-9fe8-ea5748714f71">
@@ -5987,15 +5986,16 @@ Forget rocks for a second and let us enjoy this parade.</Text>
       <Text>As Perry drives the Ford Model T, Willy sits in the passenger side, and Cherry is in the back seat in the most elaborate costume ever.</Text>
     </Paragraph>
     <Paragraph Type="Character" id="e5cb2e08-d5f4-438b-8bb8-8a6d17063dea">
-      <Text AdornmentStyle="-1">Vandams</Text>
+      <Text>Van </Text>
+      <Text AdornmentStyle="-1">Otterloos</Text>
       <Text> w/o Petoskey</Text>
     </Paragraph>
     <Paragraph Type="Lyrics" id="4fbc28c1-cb26-4126-9141-6cebc2584934">
       <Text>Grande Parade On harbor Days!</Text>
     </Paragraph>
     <Paragraph Type="Action" id="81668e64-8313-4e66-8f3c-64625e28fa1a">
-      <Text>The </Text>
-      <Text AdornmentStyle="-1">VanDams</Text>
+      <Text>The Van </Text>
+      <Text AdornmentStyle="-1">Otterloos</Text>
       <Text> hand out candy and theatre memorabilia to the parade crowd and real-life Audience.</Text>
     </Paragraph>
     <Paragraph Type="Character" id="240b2a10-a093-4dee-9322-84b98a490ba5">
@@ -6007,7 +6007,7 @@ Forget rocks for a second and let us enjoy this parade.</Text>
       <Text>...</Text>
     </Paragraph>
     <Paragraph Type="Character" id="40588b0b-ee10-49c4-a963-396e6020e334">
-      <Text AdornmentStyle="-1">VandamS</Text>
+      <Text AdornmentStyle="-1">Van Otterloos</Text>
     </Paragraph>
     <Paragraph Type="Lyrics" id="1fe7e8a7-447f-4924-a08d-48db6af33604">
       <Text>Broadway! Broadway! Broadway! Broadway!
@@ -6023,7 +6023,7 @@ Nothing shall stand between us and fame!</Text>
       <Text>You could live forever if you gave up being a rock in a hard place.</Text>
     </Paragraph>
     <Paragraph Type="Character" id="6a592841-58d2-4179-bdc8-784fbeb8775c">
-      <Text AdornmentStyle="-1">VandaMS</Text>
+      <Text AdornmentStyle="-1">Van Otterloos</Text>
       <Text> w/o PETOSKEY</Text>
     </Paragraph>
     <Paragraph Type="Lyrics" id="7a2a9d2f-3142-406a-be75-4ee8a754ac20">
@@ -6062,7 +6062,7 @@ Nothing shall stand between us and fame!</Text>
       <Text>See you on...</Text>
     </Paragraph>
     <Paragraph Type="Character" id="10330fc2-88c2-4782-a7fc-d1b9d045989c">
-      <Text AdornmentStyle="-1">Vandams</Text>
+      <Text AdornmentStyle="-1">Van Otterloos</Text>
     </Paragraph>
     <Paragraph Type="Lyrics" id="65171318-6935-4474-9fc7-dd404928f87c">
       <Text AdornmentStyle="-1">Fraudway</Text>
@@ -6072,7 +6072,7 @@ Nothing shall stand between us and fame!</Text>
       <Text>Petoskey slaps Lulu. It is a bad look for Jud Fry to beat up the broken-armed Evan Hansen.</Text>
     </Paragraph>
     <Paragraph Type="Character" id="ba63dd5b-fe85-486a-aaca-0cd098087ee3">
-      <Text AdornmentStyle="-1">VandaMS</Text>
+      <Text AdornmentStyle="-1">Van Otterloos</Text>
       <Text> W/O Liz, Petoskey, Shelby</Text>
     </Paragraph>
     <Paragraph Type="Lyrics" id="90a22043-0240-4424-9ae5-be4b7cf0da73">
@@ -6146,7 +6146,7 @@ where songs got no say!</Text>
       <Text>A Resident removes the award plaque from Willy’s grasp.</Text>
     </Paragraph>
     <Paragraph Type="Character" id="77bd9863-c730-4605-8101-97d9347bca9b">
-      <Text AdornmentStyle="-1">Vandams</Text>
+      <Text AdornmentStyle="-1">Van Otterloos</Text>
       <Text> W/o Liz &amp; Petoskey</Text>
     </Paragraph>
     <Paragraph Type="Lyrics" id="d1807d3b-2f3f-4183-b794-1cc72d443a42">
@@ -6180,7 +6180,7 @@ You’ve hurt...</Text>
           <Text>Petoskey, go drown.</Text>
         </Paragraph>
         <Paragraph Type="Character" id="e045e091-d7df-4f7d-8b04-7197b96699e0">
-          <Text AdornmentStyle="-1">Vandams</Text>
+          <Text AdornmentStyle="-1">Van Otterloos</Text>
           <Text> W/o Liz &amp; Petoskey</Text>
         </Paragraph>
         <Paragraph Type="Lyrics" id="3fbbf90b-116c-47e3-8732-5ea9a7e9af03">
@@ -6203,7 +6203,7 @@ You’ve hurt...</Text>
       <Text Style="Underline">”</Text>
     </Paragraph>
     <Paragraph Type="Scene Heading" id="2b317a2f-acac-442b-b0d3-0eb725b26d30">
-      <SceneProperties Length="1 7/8" Page="55" Title="">
+      <SceneProperties Length="2" Page="55" Title="">
         <SceneArcBeats>
           <CharacterArcBeat Name="KEEPERS">
             <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" OutlineLevel="0" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
@@ -6217,7 +6217,7 @@ You’ve hurt...</Text>
           <CharacterArcBeat Name="PETOSKEY">
             <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" OutlineLevel="0" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
           </CharacterArcBeat>
-          <CharacterArcBeat Name="VANDAMS W/O LULU">
+          <CharacterArcBeat Name="VAN OTTERLOOS W/O LULU">
             <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" OutlineLevel="0" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
           </CharacterArcBeat>
         </SceneArcBeats>
@@ -6281,11 +6281,11 @@ kick rocks!</Text>
     </Paragraph>
     <Paragraph Type="Action" id="1d6fe9f2-990c-49b1-b050-526a2f636318">
       <Text>The </Text>
-      <Text AdornmentStyle="-1">VanDams</Text>
+      <Text AdornmentStyle="-1">Van Otterloos</Text>
       <Text> join in with Liz.</Text>
     </Paragraph>
     <Paragraph Type="Character" id="699ea319-7d29-4d78-90f0-2d78bb99b6c9">
-      <Text AdornmentStyle="-1">VandAMS</Text>
+      <Text AdornmentStyle="-1">Van Otterloos</Text>
       <Text> W/o Lulu</Text>
     </Paragraph>
     <Paragraph Type="Lyrics" id="7353e202-5013-4c2c-b6d0-945746887fdd">
@@ -6310,7 +6310,7 @@ kick rocks!</Text>
           <Text>I didn’t start it!</Text>
         </Paragraph>
         <Paragraph Type="Character" id="699ea319-7d29-4d78-90f0-2d78bb99b6c9">
-          <Text AdornmentStyle="-1">VandAMS</Text>
+          <Text AdornmentStyle="-1">Van Otterloos</Text>
           <Text> W/o Lulu</Text>
         </Paragraph>
         <Paragraph Type="Lyrics" id="5e522958-e3f6-4ee5-b7b2-e5c0657a2cb0">
@@ -6325,7 +6325,7 @@ kick rocks!</Text>
       <Text>Maybe as my husband’s child, you don’t know better...</Text>
     </Paragraph>
     <Paragraph Type="Character" id="699ea319-7d29-4d78-90f0-2d78bb99b6c9">
-      <Text AdornmentStyle="-1">VandAMS</Text>
+      <Text AdornmentStyle="-1">Van Otterloos</Text>
       <Text> W/o Lulu</Text>
     </Paragraph>
     <Paragraph Type="Lyrics" id="3f1ab34e-105f-469d-aed0-82628ba64068">
@@ -6378,7 +6378,7 @@ Kick rocks!</Text>
 Why Petoskey?</Text>
         </Paragraph>
         <Paragraph Type="Character" id="699ea319-7d29-4d78-90f0-2d78bb99b6c9">
-          <Text AdornmentStyle="-1">VandAMS</Text>
+          <Text AdornmentStyle="-1">Van Otterloos</Text>
           <Text> W/o Lulu</Text>
         </Paragraph>
         <Paragraph Type="Lyrics" id="739fdc22-8d0b-4521-9909-c7bc594fe7c0">
@@ -6388,7 +6388,7 @@ Kick rocks!</Text>
       </DualDialogue>
     </Paragraph>
     <Paragraph Type="Character" id="699ea319-7d29-4d78-90f0-2d78bb99b6c9">
-      <Text AdornmentStyle="-1">VandAMS</Text>
+      <Text AdornmentStyle="-1">Van Otterloos</Text>
       <Text> W/o Lulu</Text>
     </Paragraph>
     <Paragraph Type="Lyrics" id="27849d03-6967-43a6-a8a0-ae9b4d0dc6e2">
@@ -6405,7 +6405,7 @@ Kick rocks!</Text>
       <Text>No!</Text>
     </Paragraph>
     <Paragraph Type="Character" id="699ea319-7d29-4d78-90f0-2d78bb99b6c9">
-      <Text AdornmentStyle="-1">VandAMS</Text>
+      <Text AdornmentStyle="-1">Van Otterloos</Text>
       <Text> W/o Lulu</Text>
     </Paragraph>
     <Paragraph Type="Lyrics" id="cd1ee0fb-de23-484a-b2e3-bce038d24260">
@@ -6424,7 +6424,7 @@ Kick rocks!</Text>
       <Text>Petoskey!</Text>
     </Paragraph>
     <Paragraph Type="Character" id="699ea319-7d29-4d78-90f0-2d78bb99b6c9">
-      <Text AdornmentStyle="-1">VandAMS</Text>
+      <Text AdornmentStyle="-1">Van Otterloos</Text>
       <Text> W/o Lulu</Text>
     </Paragraph>
     <Paragraph Type="Lyrics" id="62fddbeb-a542-456c-b1f8-2e2b28767eb8">
@@ -6451,13 +6451,13 @@ Intermission</Text>
       <Text Style="Bold+Underline+AllCaps">Scene 1</Text>
     </Paragraph>
     <Paragraph Type="Scene Heading" id="9c665425-7595-4b4e-82fc-8d3de241851c">
-      <SceneProperties Length="1/8" Page="57" Title="">
+      <SceneProperties Length="1/8" Page="58" Title="">
         <SceneArcBeats/>
       </SceneProperties>
       <Text Style="Bold+AllCaps">Ext. Elk Rapids - August 2016 - Day (6 Years ago)</Text>
     </Paragraph>
     <Paragraph Type="Scene Heading" id="2b317a2f-acac-442b-b0d3-0eb725b26d30">
-      <SceneProperties Length="2 6/8" Page="57" Title="">
+      <SceneProperties Length="2 6/8" Page="58" Title="">
         <SceneArcBeats>
           <CharacterArcBeat Name="LULU">
             <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" OutlineLevel="0" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
@@ -6739,7 +6739,7 @@ Hands come in handy!</Text>
       <Text Style="Bold+Underline+AllCaps">Scene 2</Text>
     </Paragraph>
     <Paragraph Type="Scene Heading" id="ff2224c8-4acc-4956-867a-17fd275c56b8">
-      <SceneProperties Length="4/8" Page="59" Title="">
+      <SceneProperties Length="4/8" Page="60" Title="">
         <SceneArcBeats>
           <CharacterArcBeat Name="CHERRY">
             <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" OutlineLevel="0" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
@@ -6797,7 +6797,7 @@ Hands come in handy!</Text>
       <Text>When did it ever?</Text>
     </Paragraph>
     <Paragraph Type="Scene Heading" id="2b317a2f-acac-442b-b0d3-0eb725b26d30">
-      <SceneProperties Length="1 4/8" Page="60" Title="">
+      <SceneProperties Length="1 4/8" Page="61" Title="">
         <SceneArcBeats>
           <CharacterArcBeat Name="AMANDA">
             <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" OutlineLevel="0" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
@@ -6808,7 +6808,7 @@ Hands come in handy!</Text>
           <CharacterArcBeat Name="LIZZIE">
             <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" OutlineLevel="0" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
           </CharacterArcBeat>
-          <CharacterArcBeat Name="VANDAMS">
+          <CharacterArcBeat Name="VAN OTTERLOOS">
             <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" OutlineLevel="0" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
           </CharacterArcBeat>
         </SceneArcBeats>
@@ -6878,22 +6878,22 @@ My heart, my heart cannot take-</Text>
     </Paragraph>
     <Paragraph Type="Action" id="487751bc-dc45-4c01-9955-72fcf03d74a6">
       <Text>The </Text>
-      <Text AdornmentStyle="-1">VanDams</Text>
+      <Text AdornmentStyle="-1">Van Otterloos</Text>
       <Text>, without Lulu, come to her aid.</Text>
     </Paragraph>
     <Paragraph Type="Character" id="8b2f6554-6a90-4839-b05c-5bc99f253647">
-      <Text AdornmentStyle="-1">Vandams</Text>
+      <Text AdornmentStyle="-1">Van Otterloos</Text>
     </Paragraph>
     <Paragraph Type="Lyrics" id="dba2fc97-d5f9-4af6-a91b-e0f9d4bf5c47">
       <Text>Liz... You are not alone. We will find your cool rock.</Text>
     </Paragraph>
     <Paragraph Type="Action" id="55056940-20f7-49d9-a690-a1617bfb678c">
       <Text>The </Text>
-      <Text AdornmentStyle="-1">VanDams</Text>
+      <Text AdornmentStyle="-1">Van Otterloos</Text>
       <Text> give away Petoskey stones to the Audience. They hand one to Liz.</Text>
     </Paragraph>
     <Paragraph Type="Character" id="ac9bcfdf-776e-41a1-9ad1-98c00e1b16da">
-      <Text AdornmentStyle="-1">VanDAMS</Text>
+      <Text AdornmentStyle="-1">Van Otterloos</Text>
     </Paragraph>
     <Paragraph Type="Lyrics" id="7ce0b9fd-7e9f-4709-8b4f-59d63b2b64da">
       <Text>Patterns.
@@ -6922,7 +6922,7 @@ Let us find your rock!</Text>
       <Text>Petoskey!</Text>
     </Paragraph>
     <Paragraph Type="Character" id="cfe28408-f7fd-44a3-97df-131162acc6ba">
-      <Text AdornmentStyle="-1">VanDAMS</Text>
+      <Text AdornmentStyle="-1">Van Otterloos</Text>
     </Paragraph>
     <Paragraph Type="Lyrics" id="bb923ec8-83ff-4da6-b2c7-ed3ee2740083">
       <Text>Let us find Petoskey!</Text>
@@ -6939,7 +6939,7 @@ Let us find your rock!</Text>
       <Text Style="Bold+Underline+AllCaps">Scene 3</Text>
     </Paragraph>
     <Paragraph Type="Scene Heading" id="ff2224c8-4acc-4956-867a-17fd275c56b8">
-      <SceneProperties Length="7/8" Page="61" Title="">
+      <SceneProperties Length="7/8" Page="62" Title="">
         <SceneArcBeats>
           <CharacterArcBeat Name="JASPER">
             <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" OutlineLevel="0" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
@@ -7021,7 +7021,7 @@ Let us find your rock!</Text>
       <Text>Not a sense of touch but tastes and smells. You know what my family always said?</Text>
     </Paragraph>
     <Paragraph Type="Scene Heading" id="2b317a2f-acac-442b-b0d3-0eb725b26d30">
-      <SceneProperties Length="2 4/8" Page="62" Title="">
+      <SceneProperties Length="2 4/8" Page="63" Title="">
         <SceneArcBeats>
           <CharacterArcBeat Name="JACOB">
             <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" OutlineLevel="0" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
@@ -7297,7 +7297,7 @@ so long as you listen to the bread.</Text>
       <Text Style="Bold+Underline+AllCaps">Scene 4</Text>
     </Paragraph>
     <Paragraph Type="Scene Heading" id="43af1a96-483f-4cad-b5ed-55b07cffc2d1">
-      <SceneProperties Length="7/8" Page="65" Title="">
+      <SceneProperties Length="7/8" Page="66" Title="">
         <SceneArcBeats>
           <CharacterArcBeat Name="LIZZIE">
             <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" OutlineLevel="0" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
@@ -7395,7 +7395,7 @@ so long as you listen to the bread.</Text>
       <Text>...?</Text>
     </Paragraph>
     <Paragraph Type="Scene Heading" id="9db8ffae-33d8-4f33-9d0f-55621098fec0">
-      <SceneProperties Length="2 3/8" Page="65" Title="">
+      <SceneProperties Length="2 3/8" Page="66" Title="">
         <SceneArcBeats>
           <CharacterArcBeat Name="LIZZIE">
             <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" OutlineLevel="0" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
@@ -7696,13 +7696,13 @@ in nature.</Text>
       <Text Style="Bold+Underline+AllCaps">Scene 5</Text>
     </Paragraph>
     <Paragraph Type="Scene Heading" id="b463f091-ba25-4f10-9445-842f0a2b8717">
-      <SceneProperties Length="1/8" Page="68" Title="">
+      <SceneProperties Length="1/8" Page="69" Title="">
         <SceneArcBeats/>
       </SceneProperties>
       <Text Style="Bold+AllCaps">Ext. Mackinac Bridge - August 2022 - Day (Present)</Text>
     </Paragraph>
     <Paragraph Type="Scene Heading" id="9db8ffae-33d8-4f33-9d0f-55621098fec0">
-      <SceneProperties Length="1" Page="68" Title="">
+      <SceneProperties Length="1" Page="69" Title="">
         <SceneArcBeats>
           <CharacterArcBeat Name="MACKINAC GHOSTS">
             <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" OutlineLevel="0" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
@@ -7801,7 +7801,7 @@ The jewel of Michigan...</Text>
       <Text Style="Underline">”</Text>
     </Paragraph>
     <Paragraph Type="Scene Heading" id="9db8ffae-33d8-4f33-9d0f-55621098fec0">
-      <SceneProperties Length="3 6/8" Page="69" Title="">
+      <SceneProperties Length="3 6/8" Page="70" Title="">
         <SceneArcBeats>
           <CharacterArcBeat Name="JASPER">
             <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" OutlineLevel="0" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
@@ -8248,7 +8248,7 @@ By the way, I’m kidding. No sacrifices here, so long as you stop these data ce
       <Text Style="Bold+Underline+AllCaps">Scene 1</Text>
     </Paragraph>
     <Paragraph Type="Scene Heading" id="ff2224c8-4acc-4956-867a-17fd275c56b8">
-      <SceneProperties Length="4 6/8" Page="74" Title="">
+      <SceneProperties Length="4 7/8" Page="75" Title="">
         <SceneArcBeats>
           <CharacterArcBeat Name="AI">
             <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" OutlineLevel="0" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
@@ -8295,13 +8295,13 @@ By the way, I’m kidding. No sacrifices here, so long as you stop these data ce
           <CharacterArcBeat Name="RESIDENTS">
             <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" OutlineLevel="0" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
           </CharacterArcBeat>
-          <CharacterArcBeat Name="VANDAMS">
+          <CharacterArcBeat Name="VAN OTTERLOOS">
             <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" OutlineLevel="0" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
           </CharacterArcBeat>
-          <CharacterArcBeat Name="VANDAMS W/O CHERRY, LIZ">
+          <CharacterArcBeat Name="VAN OTTERLOOS W/O CHERRY, LIZ">
             <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" OutlineLevel="0" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
           </CharacterArcBeat>
-          <CharacterArcBeat Name="VANDAMS W/O LULU, PETOSKEY, LIZ">
+          <CharacterArcBeat Name="VAN OTTERLOOS W/O LULU, PETOSKEY, LIZ">
             <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" OutlineLevel="0" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
           </CharacterArcBeat>
         </SceneArcBeats>
@@ -8527,11 +8527,11 @@ By the way, I’m kidding. No sacrifices here, so long as you stop these data ce
     </Paragraph>
     <Paragraph Type="Action" id="1c60baef-ee21-49d2-9543-992acedae05a">
       <Text>The rest of the </Text>
-      <Text AdornmentStyle="-1">VanDams</Text>
+      <Text AdornmentStyle="-1">Van Otterloos</Text>
       <Text> show up.</Text>
     </Paragraph>
     <Paragraph Type="Character" id="7b960f21-8ba4-48fe-99e3-53f577ff1ac7">
-      <Text AdornmentStyle="-1">Vandams</Text>
+      <Text AdornmentStyle="-1">Van Otterloos</Text>
       <Text> W/O Lulu, Petoskey, Liz</Text>
     </Paragraph>
     <Paragraph Type="Dialogue" id="5529de50-07c7-4ced-8e0c-17f690e61a6b">
@@ -8599,7 +8599,7 @@ By the way, I’m kidding. No sacrifices here, so long as you stop these data ce
       <Text>Don’t ever say the N word ever again.</Text>
     </Paragraph>
     <Paragraph Type="Character" id="feb4c72f-8992-46ae-92e6-226f48f6f520">
-      <Text AdornmentStyle="-1">VandaMS</Text>
+      <Text AdornmentStyle="-1">Van Otterloos</Text>
     </Paragraph>
     <Paragraph Type="Dialogue" id="b754f4f5-0ec3-44ba-994f-70ff9c93502a">
       <Text Style="Italic">Natural</Text>
@@ -8639,7 +8639,7 @@ By the way, I’m kidding. No sacrifices here, so long as you stop these data ce
     </Paragraph>
     <Paragraph Type="Dialogue" id="8bd1e645-900e-4f99-bc5c-fd381b853bca">
       <Text>Headline: the </Text>
-      <Text AdornmentStyle="-1">VanDams</Text>
+      <Text AdornmentStyle="-1">Van Otterloos</Text>
       <Text> stole from the kids’ charity?!</Text>
     </Paragraph>
     <Paragraph Type="Character" id="aeb52d6f-5a09-4090-9c49-2b52d8a82522">
@@ -8647,7 +8647,7 @@ By the way, I’m kidding. No sacrifices here, so long as you stop these data ce
     </Paragraph>
     <Paragraph Type="Dialogue" id="c79b4237-9448-4fc1-883d-a71eeb486b9f">
       <Text>The </Text>
-      <Text AdornmentStyle="-1">VanDams</Text>
+      <Text AdornmentStyle="-1">Van Otterloos</Text>
       <Text> have been dumping Model T oil into Elk Lake?!</Text>
     </Paragraph>
     <Paragraph Type="Character" id="c51af46b-5883-4a93-a202-cfe961dc9abf">
@@ -8655,7 +8655,7 @@ By the way, I’m kidding. No sacrifices here, so long as you stop these data ce
     </Paragraph>
     <Paragraph Type="Dialogue" id="35cd7852-63c0-4e16-a4c7-0a1763d1a1a0">
       <Text>The </Text>
-      <Text AdornmentStyle="-1">VanDams</Text>
+      <Text AdornmentStyle="-1">Van Otterloos</Text>
       <Text> burn down an orphanage?!</Text>
     </Paragraph>
     <Paragraph Type="Character" id="fb0357bd-cc9c-42f9-a01e-ebf98a110bd1">
@@ -8665,14 +8665,14 @@ By the way, I’m kidding. No sacrifices here, so long as you stop these data ce
       <Text>Scapegoat dot AI now with hyper realistic photos included.</Text>
     </Paragraph>
     <Paragraph Type="Character" id="30b4e1c9-05e3-45cf-8576-f9fb79ea7cf0">
-      <Text AdornmentStyle="-1">VanDAMS</Text>
+      <Text AdornmentStyle="-1">Van Otterloos</Text>
     </Paragraph>
     <Paragraph Type="Dialogue" id="4090ff40-aa84-4c7c-9046-6ba9eb4553b9">
       <Text>The people of Elk Rapids are on our side-</Text>
     </Paragraph>
     <Paragraph Type="Action" id="688d5a91-bd1b-4856-b148-b5f69952b343">
       <Text>The Residents surround the </Text>
-      <Text AdornmentStyle="-1">VanDams</Text>
+      <Text AdornmentStyle="-1">Van Otterloos</Text>
       <Text> like predatory creatures.</Text>
     </Paragraph>
     <Paragraph Type="Character" id="da1de51c-5a7f-4013-a13b-47698684fa02">
@@ -8708,7 +8708,7 @@ By the way, I’m kidding. No sacrifices here, so long as you stop these data ce
       <Text>Wanna wear our ridiculous costumes...</Text>
     </Paragraph>
     <Paragraph Type="Character" id="d2797591-139d-4764-9886-a8e346e800a2">
-      <Text AdornmentStyle="-1">Vandams</Text>
+      <Text AdornmentStyle="-1">Van Otterloos</Text>
       <Text> W/O Cherry, Liz</Text>
     </Paragraph>
     <Paragraph Type="Dialogue" id="bcd623fb-38b1-4c73-a614-4467ec03efd4">
@@ -8724,9 +8724,9 @@ By the way, I’m kidding. No sacrifices here, so long as you stop these data ce
     </Paragraph>
     <Paragraph Type="Action" id="cd872c18-97d7-405b-8d6e-fa888ce40d12">
       <Text>As the Residents surround the </Text>
-      <Text AdornmentStyle="-1">VanDams</Text>
+      <Text AdornmentStyle="-1">Van Otterloos</Text>
       <Text>, ready to attack, the </Text>
-      <Text AdornmentStyle="-1">VanDams</Text>
+      <Text AdornmentStyle="-1">Van Otterloos</Text>
       <Text> put on old costumes from past Harbor Days. The Residents admire them.</Text>
     </Paragraph>
     <Paragraph Type="Character" id="f97ad6b8-6656-4d67-98d3-327f3951c24c">
@@ -8734,7 +8734,7 @@ By the way, I’m kidding. No sacrifices here, so long as you stop these data ce
     </Paragraph>
     <Paragraph Type="Dialogue" id="75c60c4a-8e8a-4dc2-96f1-9edd80d04f0e">
       <Text>We can’t hurt the </Text>
-      <Text AdornmentStyle="-1">VanDams</Text>
+      <Text AdornmentStyle="-1">Van Otterloos</Text>
       <Text>.</Text>
     </Paragraph>
     <Paragraph Type="Character" id="a1545210-46ab-44e9-a215-2b272e7a93b6">
@@ -8786,9 +8786,9 @@ By the way, I’m kidding. No sacrifices here, so long as you stop these data ce
       <Text>RESIDENT</Text>
     </Paragraph>
     <Paragraph Type="Dialogue" id="7065d3ae-17f2-42af-948a-55ad5ebbcb2b">
-      <Text>The </Text>
-      <Text AdornmentStyle="-1">VanDam</Text>
-      <Text> is our ring...</Text>
+      <Text>The Van </Text>
+      <Text AdornmentStyle="-1">Otterloos</Text>
+      <Text> are our ring...</Text>
     </Paragraph>
     <Paragraph Type="Character" id="7b0517d6-efba-4894-a064-4d5e59cf41b0">
       <Text>Resident</Text>
@@ -8800,11 +8800,12 @@ By the way, I’m kidding. No sacrifices here, so long as you stop these data ce
       <Text>RESIDENT</Text>
     </Paragraph>
     <Paragraph Type="Dialogue" id="e2774fcc-f945-48a8-ab7a-b9bf2fe6b38b">
-      <Text AdornmentStyle="-1">VanDams</Text>
-      <Text>! </Text>
-      <Text AdornmentStyle="-1">VanDams</Text>
-      <Text>! </Text>
-      <Text AdornmentStyle="-1">VanDams</Text>
+      <Text>Van </Text>
+      <Text AdornmentStyle="-1">Otterloos</Text>
+      <Text>! Van </Text>
+      <Text AdornmentStyle="-1">Otterloos</Text>
+      <Text>! Van </Text>
+      <Text AdornmentStyle="-1">Otterloos</Text>
       <Text>!</Text>
     </Paragraph>
     <Paragraph Type="Character" id="0a9f3d80-6731-4201-a17d-bf66f60d0845">
@@ -8814,7 +8815,7 @@ By the way, I’m kidding. No sacrifices here, so long as you stop these data ce
       <Text>Activate Elk dot AI!</Text>
     </Paragraph>
     <Paragraph Type="Scene Heading" id="9db8ffae-33d8-4f33-9d0f-55621098fec0">
-      <SceneProperties Length="2 3/8" Page="79" Title="">
+      <SceneProperties Length="2 3/8" Page="80" Title="">
         <SceneArcBeats>
           <CharacterArcBeat Name="AI">
             <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" OutlineLevel="0" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
@@ -8849,7 +8850,7 @@ By the way, I’m kidding. No sacrifices here, so long as you stop these data ce
           <CharacterArcBeat Name="RESIDENTS">
             <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" OutlineLevel="0" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
           </CharacterArcBeat>
-          <CharacterArcBeat Name="VANDAMS">
+          <CharacterArcBeat Name="VAN OTTERLOOS">
             <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" OutlineLevel="0" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
           </CharacterArcBeat>
         </SceneArcBeats>
@@ -8942,7 +8943,7 @@ By the way, I’m kidding. No sacrifices here, so long as you stop these data ce
       <Text>The residents face Amanda.</Text>
     </Paragraph>
     <Paragraph Type="Character" id="d919a307-059c-47cb-8820-4e182bbb915d">
-      <Text AdornmentStyle="-1">Vandams</Text>
+      <Text AdornmentStyle="-1">Van Otterloos</Text>
     </Paragraph>
     <Paragraph Type="Dialogue" id="e1eef13f-f741-4aec-95ed-b469ca32d92d">
       <Text>Those wealth hoarders are kidnapping our kids!</Text>
@@ -9085,7 +9086,7 @@ By the way, I’m kidding. No sacrifices here, so long as you stop these data ce
       <Text Style="Bold+Underline+AllCaps">Scene 2</Text>
     </Paragraph>
     <Paragraph Type="Scene Heading" id="ca17ebd4-f006-487f-9a08-894598157173">
-      <SceneProperties Length="2 1/8" Page="81" Title="">
+      <SceneProperties Length="2 1/8" Page="82" Title="">
         <SceneArcBeats>
           <CharacterArcBeat Name="AMANDA">
             <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" OutlineLevel="0" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
@@ -9250,7 +9251,7 @@ By the way, I’m kidding. No sacrifices here, so long as you stop these data ce
     </Paragraph>
     <Paragraph Type="Action" id="75ce2ed4-185a-4740-a0a4-8be13d9cdb28">
       <Text>The rest of the </Text>
-      <Text AdornmentStyle="-1">VanDams</Text>
+      <Text AdornmentStyle="-1">Van Otterloos</Text>
       <Text> and Residents reach the wreckage.</Text>
     </Paragraph>
     <Paragraph Type="Character" id="d4ce3481-3823-40fe-8381-ffde94180421">
@@ -9319,7 +9320,7 @@ By the way, I’m kidding. No sacrifices here, so long as you stop these data ce
       <Text Style="Underline">”</Text>
     </Paragraph>
     <Paragraph Type="Scene Heading" id="5da96831-1e73-4f5e-baff-daeadd78b157">
-      <SceneProperties Length="2" Page="83" Title="">
+      <SceneProperties Length="2" Page="84" Title="">
         <SceneArcBeats>
           <CharacterArcBeat Name="AMANDA">
             <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" OutlineLevel="0" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
@@ -9365,7 +9366,7 @@ By the way, I’m kidding. No sacrifices here, so long as you stop these data ce
     </Paragraph>
     <Paragraph Type="Action" id="6f0651b3-c697-4a0f-b04f-e9a6b7a5d3f0">
       <Text>The </Text>
-      <Text AdornmentStyle="-1">VanDams</Text>
+      <Text AdornmentStyle="-1">Van Otterloos</Text>
       <Text> and Amanda walk on the bridge, leaving the Residents behind.</Text>
     </Paragraph>
     <Paragraph Type="Character" id="eff72c73-374e-41dc-b933-f9b7709d4f3b">
@@ -9578,7 +9579,7 @@ You are my soul!</Text>
     </Paragraph>
     <Paragraph Type="Action" id="6e654b3f-18fc-48cb-9e5d-3b5e45aa5622">
       <Text>The </Text>
-      <Text AdornmentStyle="-1">VanDams</Text>
+      <Text AdornmentStyle="-1">Van Otterloos</Text>
       <Text> continue on. They finally cross the bridge.</Text>
     </Paragraph>
     <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="1.25" RightIndent="7.25" SpaceBefore="12" Spacing="1" StartsNewPage="No" Type="General" id="eb856690-b1a3-4f35-8b5f-8c2819a62116">
@@ -9597,13 +9598,13 @@ You are my soul!</Text>
       <Text Style="Bold+Underline+AllCaps">Scene 1</Text>
     </Paragraph>
     <Paragraph Type="Scene Heading" id="00c9048c-ce54-43ee-af1d-e638c4bceb09">
-      <SceneProperties Length="1/8" Page="86" Title="">
+      <SceneProperties Length="1/8" Page="87" Title="">
         <SceneArcBeats/>
       </SceneProperties>
       <Text Style="Bold+AllCaps">Ext. Elk Rapids - January 2037 - Day</Text>
     </Paragraph>
     <Paragraph Type="Scene Heading" id="5da96831-1e73-4f5e-baff-daeadd78b157">
-      <SceneProperties Length="1 4/8" Page="86" Title="">
+      <SceneProperties Length="1 4/8" Page="87" Title="">
         <SceneArcBeats>
           <CharacterArcBeat Name="AMANDA">
             <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" OutlineLevel="0" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
@@ -9617,7 +9618,7 @@ You are my soul!</Text>
           <CharacterArcBeat Name="TIDAL[S]">
             <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" OutlineLevel="0" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
           </CharacterArcBeat>
-          <CharacterArcBeat Name="VANDAMS">
+          <CharacterArcBeat Name="VAN OTTERLOOS">
             <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" OutlineLevel="0" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
           </CharacterArcBeat>
         </SceneArcBeats>
@@ -9628,7 +9629,7 @@ You are my soul!</Text>
     </Paragraph>
     <Paragraph Type="Action" id="c6043fd8-f36a-47d6-813d-3bee02aa0602">
       <Text>The </Text>
-      <Text AdornmentStyle="-1">VanDams</Text>
+      <Text AdornmentStyle="-1">Van Otterloos</Text>
       <Text> prepare themselves for the Michigan Bicentennial Parade.</Text>
     </Paragraph>
     <Paragraph Type="Character" id="b6c26630-b396-4071-848b-98ded47ef376">
@@ -9657,7 +9658,8 @@ You are my soul!</Text>
 And Lulu ended up turning our life story into a musical for her high school senior project. Then, she developed it at U of M...</Text>
     </Paragraph>
     <Paragraph Type="Character" id="a59b64cf-0afd-4ae4-84a0-4b05994acea3">
-      <Text AdornmentStyle="-1">Vandams</Text>
+      <Text>Van </Text>
+      <Text AdornmentStyle="-1">Otterloos</Text>
     </Paragraph>
     <Paragraph Type="Dialogue" id="ac23f451-016f-453a-9e3a-444fe52703e5">
       <Text>Ew...</Text>
@@ -9722,7 +9724,7 @@ And Lulu ended up turning our life story into a musical for her high school seni
     </Paragraph>
     <Paragraph Type="Action" id="59ea03ae-7c13-4338-b72c-e92d25e6a0ea">
       <Text>The rest of the </Text>
-      <Text AdornmentStyle="-1">VanDams</Text>
+      <Text AdornmentStyle="-1">Van Otterloos</Text>
       <Text> come and watch the Great Lakes together.</Text>
     </Paragraph>
     <Paragraph Type="Character" id="d2ffe695-e600-4a8a-8911-9631f17a2d56">
@@ -9740,7 +9742,7 @@ And Lulu ended up turning our life story into a musical for her high school seni
       <Text Style="Bold+Underline+AllCaps">Scene 2</Text>
     </Paragraph>
     <Paragraph Type="Scene Heading" id="987c3cbc-adb0-4eed-895f-9c2ec73d05c3">
-      <SceneProperties Length="1" Page="87" Title="">
+      <SceneProperties Length="1" Page="88" Title="">
         <SceneArcBeats>
           <CharacterArcBeat Name="JACOB">
             <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" OutlineLevel="0" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
@@ -9778,14 +9780,12 @@ Welcome to Michigan’s Bicentennial Celebration! Thanks for inviting me as your
 
 We have floats and organizations representing the nearly three hundred cities and a thousand townships from all over our Great Lakes state!
 
-And here comes Elk Rapids with the world-class </Text>
-      <Text AdornmentStyle="-1">VanDam</Text>
+And here comes Elk Rapids with the world-class Van </Text>
+      <Text AdornmentStyle="-1">Otterloo</Text>
       <Text> family!</Text>
     </Paragraph>
     <Paragraph Type="Action" id="13fc1297-2d49-4df8-84ef-3e6e626258d1">
-      <Text>The </Text>
-      <Text AdornmentStyle="-1">VanDam</Text>
-      <Text> family resembles the state’s best from Aretha Franklin, Charles Lindbergh, Madonna, Stevie Wonder, to Christopher Wright (author of Pham’s favorite book series, </Text>
+      <Text>The Van Otterloo family resembles the state’s best from Aretha Franklin, Charles Lindbergh, Madonna, Stevie Wonder, to Christopher Wright (author of Pham’s favorite book series, </Text>
       <Text Style="Italic">Michigan Chillers</Text>
       <Text>).</Text>
     </Paragraph>
@@ -9808,7 +9808,7 @@ And here comes Elk Rapids with the world-class </Text>
       <Text>Who are we?!</Text>
     </Paragraph>
     <Paragraph Type="Scene Heading" id="5da96831-1e73-4f5e-baff-daeadd78b157">
-      <SceneProperties Length="5/8" Page="88" Title="">
+      <SceneProperties Length="5/8" Page="89" Title="">
         <SceneArcBeats>
           <CharacterArcBeat Name="CHERRY">
             <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" OutlineLevel="0" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
@@ -9948,7 +9948,7 @@ M-i-c-h-g-a-n michigan!</Text>
 
   <WindowState Height="635" Left="2" Mode="Maximized" Top="2" Width="649"/>
 
-  <TextState Scaling="100" Selection="0,0" ShowInvisibles="No"/>
+  <TextState Scaling="100" Selection="46046,46049" ShowInvisibles="No"/>
 
   <ElementSettings Type="General">
     <FontSpec AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style=""/>
@@ -10272,7 +10272,10 @@ M-i-c-h-g-a-n michigan!</Text>
       <Character>AI</Character>
       <Character>Amanda</Character>
       <Character>Amanda &amp; Oligarchs</Character>
+      <Character>Amanda &amp; Van Otterloos</Character>
       <Character>Audience Member</Character>
+      <Character>Aunties
+</Character>
       <Character>Bailey</Character>
       <Character>Bass</Character>
       <Character>Benzene &amp; Vinyl</Character>
@@ -10293,12 +10296,14 @@ M-i-c-h-g-a-n michigan!</Text>
       <Character>LiberTY</Character>
       <Character>Liberty &amp; Bailey</Character>
       <Character>Lizzie</Character>
+      <Character>LizZIE &amp; Amanda</Character>
       <Character>Lizzie &amp; Petey</Character>
       <Character>LizZie &amp; Shelby</Character>
       <Character>Lulu</Character>
       <Character>Lulu &amp; Cousins</Character>
       <Character>Lulu &amp; Jasper</Character>
       <Character>Lulu &amp; Petoskey</Character>
+      <Character>Lulu, Petoskey, Jacob, Twins</Character>
       <Character>Lulu, Petoskey, Jasper</Character>
       <Character>Lulu, Petoskey, Kids</Character>
       <Character>Mackinac Ghosts</Character>
@@ -10321,21 +10326,16 @@ M-i-c-h-g-a-n michigan!</Text>
       <Character>Residents</Character>
       <Character>Shelby</Character>
       <Character>Twins</Character>
-      <Character>Vandams</Character>
-      <Character>Vandams except Cherry</Character>
-      <Character>Vandams except Petoskey</Character>
-      <Character>VandaMS W/O Liz, Petoskey, Shelby</Character>
-      <Character>Vandams W/O Lulu, Petoskey, Liz</Character>
-      <Character>Vandams W/o Petoskey</Character>
+      <Character>Van Otterloos</Character>
+      <Character>Van Otterloos except Cherry</Character>
+      <Character>Van Otterloos except Petoskey</Character>
+      <Character>Van Otterloos W/O Cherry</Character>
+      <Character>Van Otterloos W/O Liz, Petoskey, Shelby</Character>
+      <Character>Van Otterloos W/O Lulu, Petoskey, Liz</Character>
+      <Character>Van Otterloos W/o Perry</Character>
+      <Character>Van Otterloos W/o Petoskey</Character>
       <Character>Willy</Character>
       <Character>Willy &amp; Milly</Character>
-      <Character>Vandams W/o Perry</Character>
-      <Character>Amanda &amp; Vandams</Character>
-      <Character>LizZIE &amp; Amanda</Character>
-      <Character>VanDAMS W/O Cherry</Character>
-      <Character>Aunties
-</Character>
-      <Character>Lulu, Petoskey, Jacob, Twins</Character>
     </Characters>
     <Extensions>
       <Extension>(OFF)</Extension>
@@ -10846,7 +10846,9 @@ M-i-c-h-g-a-n michigan!</Text>
     <Member Actor="" Character="AI"/>
     <Member Actor="" Character="Amanda"/>
     <Member Actor="" Character="Amanda &amp; Oligarchs"/>
+    <Member Actor="" Character="Amanda &amp; Van Otterloos"/>
     <Member Actor="" Character="Audience Member"/>
+    <Member Actor="" Character="Aunties&#xA;"/>
     <Member Actor="" Character="Bailey"/>
     <Member Actor="" Character="Bass"/>
     <Member Actor="" Character="Benzene &amp; Vinyl"/>
@@ -10867,12 +10869,14 @@ M-i-c-h-g-a-n michigan!</Text>
     <Member Actor="" Character="LiberTY"/>
     <Member Actor="" Character="Liberty &amp; Bailey"/>
     <Member Actor="" Character="Lizzie"/>
+    <Member Actor="" Character="LizZIE &amp; Amanda"/>
     <Member Actor="" Character="Lizzie &amp; Petey"/>
     <Member Actor="" Character="LizZie &amp; Shelby"/>
     <Member Actor="" Character="Lulu"/>
     <Member Actor="" Character="Lulu &amp; Cousins"/>
     <Member Actor="" Character="Lulu &amp; Jasper"/>
     <Member Actor="" Character="Lulu &amp; Petoskey"/>
+    <Member Actor="" Character="Lulu, Petoskey, Jacob, Twins"/>
     <Member Actor="" Character="Lulu, Petoskey, Jasper"/>
     <Member Actor="" Character="Lulu, Petoskey, Kids"/>
     <Member Actor="" Character="Mackinac Ghosts"/>
@@ -10895,20 +10899,16 @@ M-i-c-h-g-a-n michigan!</Text>
     <Member Actor="" Character="Residents"/>
     <Member Actor="" Character="Shelby"/>
     <Member Actor="" Character="Twins"/>
-    <Member Actor="" Character="Vandams"/>
-    <Member Actor="" Character="Vandams except Cherry"/>
-    <Member Actor="" Character="Vandams except Petoskey"/>
-    <Member Actor="" Character="VandaMS W/O Liz, Petoskey, Shelby"/>
-    <Member Actor="" Character="Vandams W/O Lulu, Petoskey, Liz"/>
-    <Member Actor="" Character="Vandams W/o Petoskey"/>
+    <Member Actor="" Character="Van Otterloos"/>
+    <Member Actor="" Character="Van Otterloos except Cherry"/>
+    <Member Actor="" Character="Van Otterloos except Petoskey"/>
+    <Member Actor="" Character="Van Otterloos W/O Cherry"/>
+    <Member Actor="" Character="Van Otterloos W/O Liz, Petoskey, Shelby"/>
+    <Member Actor="" Character="Van Otterloos W/O Lulu, Petoskey, Liz"/>
+    <Member Actor="" Character="Van Otterloos W/o Perry"/>
+    <Member Actor="" Character="Van Otterloos W/o Petoskey"/>
     <Member Actor="" Character="Willy"/>
     <Member Actor="" Character="Willy &amp; Milly"/>
-    <Member Actor="" Character="Vandams W/o Perry"/>
-    <Member Actor="" Character="Amanda &amp; Vandams"/>
-    <Member Actor="" Character="LizZIE &amp; Amanda"/>
-    <Member Actor="" Character="VanDAMS W/O Cherry"/>
-    <Member Actor="" Character="Aunties&#xA;"/>
-    <Member Actor="" Character="Lulu, Petoskey, Jacob, Twins"/>
   </Cast>
 
   <SceneNumberOptions LeftLocation="0.75" NumberScheme="1A" RightLocation="7.38" ShowNumbersOnLeft="Yes" ShowNumbersOnRight="Yes">
@@ -10923,7 +10923,7 @@ M-i-c-h-g-a-n michigan!</Text>
     <Character Color="#RRRRGGGGBBBB" Name="AI" Visible="No"/>
     <Character Color="#RRRRGGGGBBBB" Name="AMANDA" Visible="No"/>
     <Character Color="#RRRRGGGGBBBB" Name="AMANDA &amp; OLIGARCHS" Visible="No"/>
-    <Character Color="#RRRRGGGGBBBB" Name="AMANDA &amp; VANDAMS" Visible="No"/>
+    <Character Color="#RRRRGGGGBBBB" Name="AMANDA &amp; VAN OTTERLOOS" Visible="No"/>
     <Character Color="#RRRRGGGGBBBB" Name="AUDIENCE MEMBER" Visible="No"/>
     <Character Color="#RRRRGGGGBBBB" Name="AUNTIES" Visible="No"/>
     <Character Color="#RRRRGGGGBBBB" Name="AUNTIES &amp; MACKINAC GHOSTS" Visible="No"/>
@@ -10979,15 +10979,15 @@ M-i-c-h-g-a-n michigan!</Text>
     <Character Color="#RRRRGGGGBBBB" Name="RESIDENTS" Visible="No"/>
     <Character Color="#RRRRGGGGBBBB" Name="SHELBY" Visible="No"/>
     <Character Color="#RRRRGGGGBBBB" Name="TWINS" Visible="No"/>
-    <Character Color="#RRRRGGGGBBBB" Name="VANDAMS" Visible="No"/>
-    <Character Color="#RRRRGGGGBBBB" Name="VANDAMS W/O CHERRY" Visible="No"/>
-    <Character Color="#RRRRGGGGBBBB" Name="VANDAMS W/O CHERRY, LIZ" Visible="No"/>
-    <Character Color="#RRRRGGGGBBBB" Name="VANDAMS W/O LIZ &amp; PETOSKEY" Visible="No"/>
-    <Character Color="#RRRRGGGGBBBB" Name="VANDAMS W/O LIZ, PETOSKEY, SHELBY" Visible="No"/>
-    <Character Color="#RRRRGGGGBBBB" Name="VANDAMS W/O LULU" Visible="No"/>
-    <Character Color="#RRRRGGGGBBBB" Name="VANDAMS W/O LULU, PETOSKEY, LIZ" Visible="No"/>
-    <Character Color="#RRRRGGGGBBBB" Name="VANDAMS W/O PERRY" Visible="No"/>
-    <Character Color="#RRRRGGGGBBBB" Name="VANDAMS W/O PETOSKEY" Visible="No"/>
+    <Character Color="#RRRRGGGGBBBB" Name="VAN OTTERLOOS" Visible="No"/>
+    <Character Color="#RRRRGGGGBBBB" Name="VAN OTTERLOOS W/O CHERRY" Visible="No"/>
+    <Character Color="#RRRRGGGGBBBB" Name="VAN OTTERLOOS W/O CHERRY, LIZ" Visible="No"/>
+    <Character Color="#RRRRGGGGBBBB" Name="VAN OTTERLOOS W/O LIZ &amp; PETOSKEY" Visible="No"/>
+    <Character Color="#RRRRGGGGBBBB" Name="VAN OTTERLOOS W/O LIZ, PETOSKEY, SHELBY" Visible="No"/>
+    <Character Color="#RRRRGGGGBBBB" Name="VAN OTTERLOOS W/O LULU" Visible="No"/>
+    <Character Color="#RRRRGGGGBBBB" Name="VAN OTTERLOOS W/O LULU, PETOSKEY, LIZ" Visible="No"/>
+    <Character Color="#RRRRGGGGBBBB" Name="VAN OTTERLOOS W/O PERRY" Visible="No"/>
+    <Character Color="#RRRRGGGGBBBB" Name="VAN OTTERLOOS W/O PETOSKEY" Visible="No"/>
     <Character Color="#RRRRGGGGBBBB" Name="WILLY" Visible="No"/>
     <Character Color="#RRRRGGGGBBBB" Name="WILLY &amp; MILLY" Visible="No"/>
   </CharacterHighlighting>
@@ -11069,7 +11069,7 @@ M-i-c-h-g-a-n michigan!</Text>
   </Characters>
 
   <ScriptNotes>
-    <ScriptNote Color="#RRRRGGGGBBBB" DateModified="20260914T171220" DateTime="20260914T171215" Id="1" Name="" Range="42860,42879" Type="" WriterID="4eedcf62-5cdf-433a-a0aa-782742503b18" WriterName="David Quang Pham">
+    <ScriptNote Color="#RRRRGGGGBBBB" DateModified="20260921T092508" DateTime="20260914T171215" Id="1" Name="" Range="43000,43019" Type="" WriterID="4eedcf62-5cdf-433a-a0aa-782742503b18" WriterName="David Quang Pham">
       <Paragraph Alignment="Left" FirstIndent="1.94" Leading="Regular" LeftIndent="1.94" RightIndent="0.00" SpaceBefore="12" Spacing="1" StartsNewPage="No" Type="Action">
         <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">[History: Amanda and Conor Wayland are a sister-brother duo from Muskegon, known for artworks portraying the human condition with the intent to improve human connection. They received Bachelors of Science in Engineering with a major in computer engineering with honors from the University of Michigan. But Amanda moved on to studio art at Hope College where she befriends Cherry Jacobowitz, a mother returning to finish her education. Conor revolutionizes and paves a way for AI in art which Amanda initially was a skeptic of. He starts Turkey Ventures, based on turkey vultures, who symbolize healers who remove sickness from the world. Leading up to the 2007 recession, Conor leaped off the Mackinac Bridge, devastating Amanda. Her creative spirit also died. She gets expelled for using technology to quicken her assignments. She took over Turkey Ventures, developing many AI systems with AfterLife.AI being her prized work. AL.AI is meant to bring the dead, whether a loved one or stranger, back to life as a digital avatar. AL.AI uses intense amount of water to do so. Amanda sees this as a way to prevent suicide, as Conor wallowed in loneliness. She will do anything to save lives, even if it meant bulldozing every lake town to make more data centers to bring AL.AI closer to reality. She believes in her motto: "starving artists no more."]</Text>
       </Paragraph>
