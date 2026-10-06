@@ -9429,9 +9429,12 @@ By the way, I’m kidding. No sacrifices here, so long as you stop these data ce
       <Text Style="Bold+Underline+AllCaps">Scene 2</Text>
     </Paragraph>
     <Paragraph Type="Scene Heading" id="ca17ebd4-f006-487f-9a08-894598157173">
-      <SceneProperties Length="2 2/8" Page="83" Title="">
+      <SceneProperties Length="2 3/8" Page="83" Title="">
         <SceneArcBeats>
           <CharacterArcBeat Name="AMANDA">
+            <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" OutlineLevel="0" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+          </CharacterArcBeat>
+          <CharacterArcBeat Name="CHERRY">
             <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" OutlineLevel="0" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
           </CharacterArcBeat>
           <CharacterArcBeat Name="CHERRY, PERRY, SHELBY">
@@ -9645,8 +9648,23 @@ By the way, I’m kidding. No sacrifices here, so long as you stop these data ce
     <Paragraph Type="Dialogue" id="ad6fd3a5-8f3e-469b-8091-ed6c945376d0">
       <Text>...not divide souls.</Text>
     </Paragraph>
+    <Paragraph Type="Character" id="501b448b-fd81-422b-953a-b179e16e4f94">
+      <Text>AMANDA</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="9f8efe5f-47df-4609-a116-4ab7559713ba">
+      <Text>Water took everything from-</Text>
+    </Paragraph>
     <Paragraph Type="Action" id="c2a4dbaf-a4bb-44a9-a5d2-e862e6fdf78d">
-      <Text>Cherry finally extends a hand to Amanda. The Aunties help her up.</Text>
+      <Text>Cherry finally extends a hand to Amanda. They tear up.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="f77a0e64-73da-4326-82fb-5dba4fe6eb8d">
+      <Text>ChERRY</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="a73fbc98-3022-44d2-9f1f-af53c259619c">
+      <Text>Me too. The water also gave us a new life.</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="c2a4dbaf-a4bb-44a9-a5d2-e862e6fdf78d">
+      <Text>The Aunties help Amanda up.</Text>
     </Paragraph>
     <Paragraph Type="Character" id="499d00dc-ab91-45c0-8ae2-91391a8a0733">
       <Text>CHERRY, PERRY, SHELBY</Text>
@@ -10377,7 +10395,7 @@ M-i-c-h-g-a-n michigan!</Text>
 
   <WindowState Height="635" Left="2" Mode="Maximized" Top="2" Width="649"/>
 
-  <TextState Scaling="100" Selection="0,0" ShowInvisibles="No"/>
+  <TextState Scaling="100" Selection="75747,75747" ShowInvisibles="No"/>
 
   <ElementSettings Type="General">
     <FontSpec AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style=""/>
