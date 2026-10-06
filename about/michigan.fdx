@@ -9971,7 +9971,7 @@ You are my soul!</Text>
       <Text Style="Bold+AllCaps">Ext. Elk Lake House - January 2037 - Day</Text>
     </Paragraph>
     <Paragraph Type="Scene Heading" id="5da96831-1e73-4f5e-baff-daeadd78b157">
-      <SceneProperties Length="2" Page="88" Title="">
+      <SceneProperties Length="2 3/8" Page="88" Title="">
         <SceneArcBeats>
           <CharacterArcBeat Name="AMANDA">
             <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" OutlineLevel="0" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
@@ -9986,6 +9986,9 @@ You are my soul!</Text>
             <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" OutlineLevel="0" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
           </CharacterArcBeat>
           <CharacterArcBeat Name="LULU &amp; PETOSKEY">
+            <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" OutlineLevel="0" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+          </CharacterArcBeat>
+          <CharacterArcBeat Name="PETOSKEY">
             <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" OutlineLevel="0" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
           </CharacterArcBeat>
           <CharacterArcBeat Name="TIDAL[S]">
@@ -10008,13 +10011,34 @@ You are my soul!</Text>
     <Paragraph Type="Character" id="b6c26630-b396-4071-848b-98ded47ef376">
       <Text>LizzIE</Text>
     </Paragraph>
-    <Paragraph Type="Parenthetical" id="880d795c-a4fe-42d8-86b8-bece8c050467">
+    <Paragraph Type="Parenthetical" id="c1eb8813-3c40-4ace-a277-cc7dd7321881">
       <Text>(Narrating)</Text>
     </Paragraph>
+    <Paragraph Type="Dialogue" id="c562fec9-903a-4341-9804-395d02fa0c6a">
+      <Text>Raise your hands if you’ve ever lost a loved one to suicide.</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="2bd35058-4a9d-40c8-bd35-0f8ff8e48b8a">
+      <Text>The Company hugs Audience Members who raise their hands.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="c277dbc5-be67-470f-bcdf-ac3040a502fc">
+      <Text>LizZIE</Text>
+    </Paragraph>
     <Paragraph Type="Dialogue" id="66f5df2b-7785-462d-90a1-2e871cb25268">
-      <Text>Year after year, still doing Harbor Days. I take the shortcut. I </Text>
-      <Text Style="Italic">can</Text>
-      <Text> cross a bridge. Huh... Beats going through Wisconsin.</Text>
+      <Text Style="Italic">We</Text>
+      <Text> can cross the bridge. Year after year, moment after moment, we can still harbor good days.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="2d2c39d6-a7bd-42bb-9a7a-e43d82a5134c">
+      <Text>Van </Text>
+      <Text AdornmentStyle="-1">OTTERLOOS</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="0a94c126-9090-4f90-999a-1de9fdba9523">
+      <Text>You can cross the bridge!</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="5c09cbd7-cab4-4120-976e-57820b989bc6">
+      <Text>LizZIE</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="66f5df2b-7785-462d-90a1-2e871cb25268">
+      <Text>Huh... Beats going through Wisconsin.</Text>
     </Paragraph>
     <Paragraph Type="Character" id="3aa129e5-680a-4737-b258-0ac1ef057200">
       <Text>Lulu &amp; PETOSKEY</Text>
@@ -10113,7 +10137,9 @@ And Lulu ended up turning our life story into a musical for her high school seni
       <Text>Lulu &amp; PETOSKEY</Text>
     </Paragraph>
     <Paragraph Type="Dialogue" id="18ce5fb6-1611-4219-8338-706cd83a6fb4">
-      <Text>...Ohio succccckkkkkkssssss!</Text>
+      <Text>...Ohio </Text>
+      <Text AdornmentStyle="-1">succccckkkkkkssssss</Text>
+      <Text>!</Text>
     </Paragraph>
     <Paragraph Type="Character" id="d88c939b-aa8d-42c6-8c63-4b5bd68657a7">
       <Text>LizZIE</Text>
@@ -10146,6 +10172,21 @@ And Lulu ended up turning our life story into a musical for her high school seni
       <Text>What an honor to be a Van </Text>
       <Text AdornmentStyle="-1">Otterloo</Text>
       <Text> like you.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="b43c3359-1df7-4304-9f0b-410a7f97bb7b">
+      <Text>Lulu</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="ee7abbe0-7246-41a2-89e6-61f28b14435f">
+      <Text>Raise your hand if you feel hopeless...</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="7bcc21a0-966a-427f-8681-02fb9100ff85">
+      <Text>PetosKEY</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="ee7abbe0-7246-41a2-89e6-61f28b14435f">
+      <Text>Raise it if you ever felt hopeless...</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="9e2c3963-62fc-4155-ac67-731ee982e5b4">
+      <Text>The Company hugs Audience Members who raise their hands.</Text>
     </Paragraph>
     <Paragraph Type="Character" id="d2ffe695-e600-4a8a-8911-9631f17a2d56">
       <Text>Lizzie</Text>
@@ -10395,7 +10436,7 @@ M-i-c-h-g-a-n michigan!</Text>
 
   <WindowState Height="635" Left="2" Mode="Maximized" Top="2" Width="649"/>
 
-  <TextState Scaling="100" Selection="75747,75747" ShowInvisibles="No"/>
+  <TextState Scaling="100" Selection="0,0" ShowInvisibles="No"/>
 
   <ElementSettings Type="General">
     <FontSpec AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style=""/>
