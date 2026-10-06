@@ -6939,7 +6939,7 @@ Hands come in handy!</Text>
       <Text Style="Bold+Underline+AllCaps">Scene 2</Text>
     </Paragraph>
     <Paragraph Type="Scene Heading" id="ff2224c8-4acc-4956-867a-17fd275c56b8">
-      <SceneProperties Length="4/8" Page="60" Title="">
+      <SceneProperties Length="5/8" Page="60" Title="">
         <SceneArcBeats>
           <CharacterArcBeat Name="CHERRY">
             <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" OutlineLevel="0" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
@@ -6948,6 +6948,9 @@ Hands come in handy!</Text>
             <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" OutlineLevel="0" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
           </CharacterArcBeat>
           <CharacterArcBeat Name="PERRY">
+            <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" OutlineLevel="0" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+          </CharacterArcBeat>
+          <CharacterArcBeat Name="SHELBY">
             <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" OutlineLevel="0" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
           </CharacterArcBeat>
         </SceneArcBeats>
@@ -6993,11 +6996,26 @@ Hands come in handy!</Text>
     <Paragraph Type="Character" id="3759c1b5-0b08-4f48-b01d-62d6667b7542">
       <Text>CherrY</Text>
     </Paragraph>
-    <Paragraph Type="Dialogue" id="cfb74221-1402-4734-aa25-ee2bf5637043">
+    <Paragraph Type="Dialogue" id="9dfca34b-c6da-4a4d-a1ea-256b8cf29c79">
       <Text>When did it ever?</Text>
     </Paragraph>
+    <Paragraph Type="Character" id="54df2f55-61a9-4e75-a2c4-278f62722931">
+      <Text>PERRY</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="9759d1d2-78dc-4359-ad12-4a352dd15cde">
+      <Text>Maybe if we held Governor Gretchen Whitmer hostage, she’ll reveal the location of Petoskey-</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="102c8aa9-2cec-4757-9334-fba1674a2bc2">
+      <Text>ShelBY</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="3577fc89-c947-4fec-bd25-51299bf6f020">
+      <Text>Stop trying to kidnap the governor!</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="20ad76e1-c3c2-44fa-83af-e51e688fc673">
+      <Text>The Aunties exit.</Text>
+    </Paragraph>
     <Paragraph Type="Scene Heading" id="2b317a2f-acac-442b-b0d3-0eb725b26d30">
-      <SceneProperties Length="1 4/8" Page="61" Title="">
+      <SceneProperties Length="1 5/8" Page="61" Title="">
         <SceneArcBeats>
           <CharacterArcBeat Name="AMANDA">
             <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" OutlineLevel="0" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
@@ -7027,7 +7045,7 @@ Hands come in handy!</Text>
       <Text>Have you, have you seen Petoskey?</Text>
     </Paragraph>
     <Paragraph Type="Action" id="ad8546fd-95b7-4fd6-a9d4-0d98f700fa62">
-      <Text>Liz spots Amanda in the distance. She confronts her, but Amanda has a heart made of stone.</Text>
+      <Text>Liz spots and confronts Amanda, but she has a heart of stone.</Text>
     </Paragraph>
     <Paragraph Type="Character" id="abd3ff07-2084-4d7e-b6c9-74a35c4a1db7">
       <Text>LizZIE</Text>
@@ -7074,26 +7092,31 @@ My heart, my heart cannot take-</Text>
       <Text>Liz collapses.</Text>
     </Paragraph>
     <Paragraph Type="Action" id="4f47509a-e085-42cb-8bd5-ff8cb172c449">
-      <Text>Amanda sees Liz’s struggle and comes to her aid. She drops a device by Liz, then leaves.</Text>
+      <Text>[Amanda sees Liz’s struggle. She revisits a memory of her and her brother collecting rocks. Conor loves Petoskey stones and wearing patterns, like Liz’s son.]</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="4f47509a-e085-42cb-8bd5-ff8cb172c449">
+      <Text>Amanda comes to her aid. She drops a device by Liz, then leaves.</Text>
     </Paragraph>
     <Paragraph Type="Action" id="487751bc-dc45-4c01-9955-72fcf03d74a6">
-      <Text>The </Text>
-      <Text AdornmentStyle="-1">Van Otterloos</Text>
+      <Text>The Van </Text>
+      <Text AdornmentStyle="-1">Otterloos</Text>
       <Text>, without Lulu, come to her aid.</Text>
     </Paragraph>
     <Paragraph Type="Character" id="8b2f6554-6a90-4839-b05c-5bc99f253647">
-      <Text AdornmentStyle="-1">Van Otterloos</Text>
+      <Text>Van </Text>
+      <Text AdornmentStyle="-1">Otterloos</Text>
     </Paragraph>
     <Paragraph Type="Lyrics" id="dba2fc97-d5f9-4af6-a91b-e0f9d4bf5c47">
       <Text>Liz... You are not alone. We will find your cool rock.</Text>
     </Paragraph>
     <Paragraph Type="Action" id="55056940-20f7-49d9-a690-a1617bfb678c">
-      <Text>The </Text>
-      <Text AdornmentStyle="-1">Van Otterloos</Text>
+      <Text>The Van </Text>
+      <Text AdornmentStyle="-1">Otterloos</Text>
       <Text> give away Petoskey stones to the Audience. They hand one to Liz.</Text>
     </Paragraph>
     <Paragraph Type="Character" id="ac9bcfdf-776e-41a1-9ad1-98c00e1b16da">
-      <Text AdornmentStyle="-1">Van Otterloos</Text>
+      <Text>Van </Text>
+      <Text AdornmentStyle="-1">Otterloos</Text>
     </Paragraph>
     <Paragraph Type="Lyrics" id="7ce0b9fd-7e9f-4709-8b4f-59d63b2b64da">
       <Text>Patterns.
@@ -7140,7 +7163,7 @@ Let us find your rock!</Text>
       <Text Style="Bold+Underline+AllCaps">Scene 3</Text>
     </Paragraph>
     <Paragraph Type="Scene Heading" id="ff2224c8-4acc-4956-867a-17fd275c56b8">
-      <SceneProperties Length="7/8" Page="62" Title="">
+      <SceneProperties Length="7/8" Page="63" Title="">
         <SceneArcBeats>
           <CharacterArcBeat Name="JASPER">
             <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" OutlineLevel="0" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
@@ -7150,7 +7173,7 @@ Let us find your rock!</Text>
           </CharacterArcBeat>
         </SceneArcBeats>
       </SceneProperties>
-      <Text Style="Bold+AllCaps">Int. Banh Michigan - Day</Text>
+      <Text Style="Bold+AllCaps">Int. Banh Michigan Restaurant - Day</Text>
     </Paragraph>
     <Paragraph Type="Action" id="8b8bd764-bf81-4cac-b3d7-e0d0ba45dc3f">
       <Text>Lulu enters the restaurant and sits by Jasper on the phone.</Text>
@@ -7222,7 +7245,7 @@ Let us find your rock!</Text>
       <Text>Not a sense of touch but tastes and smells. You know what my family always said?</Text>
     </Paragraph>
     <Paragraph Type="Scene Heading" id="2b317a2f-acac-442b-b0d3-0eb725b26d30">
-      <SceneProperties Length="2 5/8" Page="63" Title="">
+      <SceneProperties Length="2 4/8" Page="63" Title="">
         <SceneArcBeats>
           <CharacterArcBeat Name="JACOB">
             <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" OutlineLevel="0" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
@@ -7473,17 +7496,14 @@ so long as you listen to the bread.</Text>
     <Paragraph Type="Dialogue" id="a5ae1872-fea2-438e-b741-af1b72ddb8c2">
       <Text>Apologize with some deserved violence.</Text>
     </Paragraph>
-    <Paragraph Type="Action" id="a4f5c8f3-4899-483b-8495-ff8167282227">
-      <Text>Jasper kisses a Banh Mi.</Text>
-    </Paragraph>
     <Paragraph Type="Character" id="efd41c3f-7e2c-43c5-84a6-91b643cb43c1">
       <Text>JaspER</Text>
     </Paragraph>
     <Paragraph Type="Dialogue" id="f7cd1054-1a6e-438a-a03d-acbae8fc5846">
       <Text>Banh Mi, you never fail me!</Text>
     </Paragraph>
-    <Paragraph Type="Action" id="bd470467-f960-4685-90d9-ebf0c8b1071e">
-      <Text>Lulu and Jasper run out.</Text>
+    <Paragraph Type="Action" id="a4f5c8f3-4899-483b-8495-ff8167282227">
+      <Text>Jasper kisses a Banh Mi, then runs out with Lulu.</Text>
     </Paragraph>
     <Paragraph Type="Character" id="1d31eba7-1731-4f43-b128-d13e21350e5f">
       <Text>LizZIE</Text>
@@ -8913,16 +8933,16 @@ By the way, I’m kidding. No sacrifices here, so long as you stop these data ce
       <Text>ResidenT</Text>
     </Paragraph>
     <Paragraph Type="Dialogue" id="c79b4237-9448-4fc1-883d-a71eeb486b9f">
-      <Text>The </Text>
-      <Text AdornmentStyle="-1">Van Otterloos</Text>
+      <Text>The Van </Text>
+      <Text AdornmentStyle="-1">Otterloos</Text>
       <Text> have been dumping Model T oil into Elk Lake?!</Text>
     </Paragraph>
     <Paragraph Type="Character" id="c51af46b-5883-4a93-a202-cfe961dc9abf">
       <Text>ResideNT</Text>
     </Paragraph>
     <Paragraph Type="Dialogue" id="35cd7852-63c0-4e16-a4c7-0a1763d1a1a0">
-      <Text>The </Text>
-      <Text AdornmentStyle="-1">Van Otterloos</Text>
+      <Text>The Van </Text>
+      <Text AdornmentStyle="-1">Otterloos</Text>
       <Text> burn down an orphanage?!</Text>
     </Paragraph>
     <Paragraph Type="Character" id="fb0357bd-cc9c-42f9-a01e-ebf98a110bd1">
@@ -8932,14 +8952,15 @@ By the way, I’m kidding. No sacrifices here, so long as you stop these data ce
       <Text>Scapegoat dot AI now with hyper realistic photos included.</Text>
     </Paragraph>
     <Paragraph Type="Character" id="30b4e1c9-05e3-45cf-8576-f9fb79ea7cf0">
-      <Text AdornmentStyle="-1">Van Otterloos</Text>
+      <Text>Van </Text>
+      <Text AdornmentStyle="-1">Otterloos</Text>
     </Paragraph>
     <Paragraph Type="Dialogue" id="4090ff40-aa84-4c7c-9046-6ba9eb4553b9">
       <Text>The people of Elk Rapids are on our side-</Text>
     </Paragraph>
     <Paragraph Type="Action" id="688d5a91-bd1b-4856-b148-b5f69952b343">
-      <Text>The Residents surround the </Text>
-      <Text AdornmentStyle="-1">Van Otterloos</Text>
+      <Text>The Residents surround the Van </Text>
+      <Text AdornmentStyle="-1">Otterloos</Text>
       <Text> like predatory creatures.</Text>
     </Paragraph>
     <Paragraph Type="Character" id="da1de51c-5a7f-4013-a13b-47698684fa02">
@@ -10459,7 +10480,7 @@ M-i-c-h-g-a-n michigan!</Text>
 
   <WindowState Height="635" Left="2" Mode="Maximized" Top="2" Width="649"/>
 
-  <TextState Scaling="100" Selection="79224,79224" ShowInvisibles="No"/>
+  <TextState Scaling="100" Selection="54907,54907" ShowInvisibles="No"/>
 
   <ElementSettings Type="General">
     <FontSpec AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style=""/>
