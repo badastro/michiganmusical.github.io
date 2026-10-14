@@ -36,14 +36,20 @@
       <Text Style="Underline+AllCaps">”</Text>
     </Paragraph>
     <Paragraph Type="Action" id="1c1f6585-9200-449a-8dd3-afce3b21a7c6">
-      <Text>Next to the shores of Elk Lake, the </Text>
+      <Text>The lights come up on the most naturally beautiful scenery. Next to the shores of Elk Lake, the </Text>
       <Text Style="AllCaps">Van </Text>
       <Text AdornmentStyle="-1" Style="AllCaps">Otterloos</Text>
-      <Text> camp in tents. The old Lake House is behind them.</Text>
+      <Text> camp in their tents. The old Lake House sits behind them.</Text>
     </Paragraph>
-    <Paragraph Type="Action" id="79621969-d8c4-48e3-8a84-1fee599aa112">
+    <Paragraph Type="Action" id="e2295f43-09c0-449a-846a-2e040b7c2ccc">
       <Text Style="AllCaps">Petey</Text>
-      <Text> (30s, adorable man) leaves his tent. He wears mittens. With a yawn, he bangs pots and pans. </Text>
+      <Text> (30s, boisterous man) bursts out of his tent, wearing oversized mittens. With a yawn,</Text>
+      <Text Size="10"> </Text>
+      <Text>he</Text>
+      <Text Size="10"> </Text>
+      <Text>bangs</Text>
+      <Text Size="10"> </Text>
+      <Text>pots and pans to wake the campsite. </Text>
     </Paragraph>
     <Paragraph Type="Character" id="7b381cf5-6334-45bc-83d8-d4ac4aed8158">
       <Text>Petey</Text>
@@ -63,7 +69,7 @@ Slept well, hun</Text>
     </Paragraph>
     <Paragraph Type="Action" id="ef686414-65c4-47fe-b18f-a0e378ba4214">
       <Text Style="AllCaps">Lizzie</Text>
-      <Text> (30s, pregnant narrator) crawls out of Petey’s tent, ready to smack her noisy hubby.</Text>
+      <Text> (30s, pregnant) crawls out of Petey’s tent, holding a shoe, ready to smack her noisy hubby.</Text>
     </Paragraph>
     <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="1.25" RightIndent="7.25" SpaceBefore="12" Spacing="1" StartsNewPage="No" Type="General" id="238fcebc-fec6-40be-93f0-bd789fcd8499">
       <Text Style="Underline">End of “</Text>
@@ -71,7 +77,7 @@ Slept well, hun</Text>
       <Text Style="Underline">”</Text>
     </Paragraph>
     <Paragraph Type="Scene Heading" id="76bbb514-e185-421f-ae54-f5cced7d3e2d">
-      <SceneProperties Length="9 1/8" Page="1" Title="">
+      <SceneProperties Length="9" Page="1" Title="">
         <SceneArcBeats>
           <CharacterArcBeat Name="AMANDA">
             <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" OutlineLevel="0" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
@@ -127,6 +133,9 @@ Slept well, hun</Text>
           <CharacterArcBeat Name="VAN OTTERLOOS">
             <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" OutlineLevel="0" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
           </CharacterArcBeat>
+          <CharacterArcBeat Name="VAN OTTERLOOS EXCEPT LIZ">
+            <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" OutlineLevel="0" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+          </CharacterArcBeat>
           <CharacterArcBeat Name="VAN OTTERLOOS W/O PERRY">
             <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" OutlineLevel="0" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
           </CharacterArcBeat>
@@ -145,8 +154,11 @@ Slept well, hun</Text>
     <Paragraph Type="Character" id="74596edf-3b0a-411c-a645-60dae77421f2">
       <Text>Lizzie</Text>
     </Paragraph>
+    <Paragraph Type="Parenthetical" id="3cf65d95-f019-4f39-b3b9-258b4fe4997e">
+      <Text>(Narrating)</Text>
+    </Paragraph>
     <Paragraph Type="Lyrics" id="8fe9e75e-f694-4c92-8246-46a415dd8682">
-      <Text>That’s the love of my life.
+      <Text>Petey... the love of my life.
 But every morning, he’s public enemy number one.</Text>
     </Paragraph>
     <Paragraph Type="Action" id="9a50caa9-ca59-4a82-b4c1-f0bae066934f">
@@ -170,7 +182,7 @@ But every morning, he’s public enemy number one.</Text>
       <Text>Petey</Text>
     </Paragraph>
     <Paragraph Type="Lyrics" id="bb174e77-5f98-4cb6-82e2-b2481de07509">
-      <Text>And one two and three looney sisters!</Text>
+      <Text>...And one two and three looney sisters!</Text>
     </Paragraph>
     <Paragraph Type="Character" id="88ccff7d-5948-4c81-855e-015c28641887">
       <Text>ChERRY, PERRY, SHELBY</Text>
@@ -331,7 +343,7 @@ But every morning, he’s public enemy number one.</Text>
 Make yourself comfy.</Text>
     </Paragraph>
     <Paragraph Type="Action" id="2e36146e-beb4-4c42-8c08-bf56a5948ea0">
-      <Text>Milly hands out cookies. Willy removes his shoes. The pit pukes.</Text>
+      <Text>Milly hands out cookies. Willy removes his shoes. The Pit pukes.</Text>
     </Paragraph>
     <Paragraph Type="Character" id="eae13a5a-8b7a-4685-92a6-36d79a01d7b4">
       <Text>MILLY</Text>
@@ -363,44 +375,47 @@ Make yourself comfy.</Text>
       <Text>MILLY</Text>
     </Paragraph>
     <Paragraph Type="Dialogue" id="44aa32e4-95b1-498e-b20c-6874d975a8a2">
-      <Text>Shush! The guests are gonna think we’re Midwest silly instead of normal silly.</Text>
+      <Text>Shush! Our guests will think the Midwest’s sill-</Text>
     </Paragraph>
-    <Paragraph Type="Character" id="5e9352c7-24f6-4ccb-9811-6cb1e27a0c35">
-      <Text>PetEY</Text>
+    <Paragraph Type="Character" id="a051532a-0bf3-4d36-a1e0-8f49ebcfdc28">
+      <Text>LizzIE</Text>
     </Paragraph>
-    <Paragraph Type="Dialogue" id="1d60e6d7-109f-4dd1-ad47-718e68e71085">
-      <Text>Ma! Pa! Who are you talking to???!</Text>
+    <Paragraph Type="Dialogue" id="73bd688e-4f86-474c-953e-73049c8baf19">
+      <Text>Midwest? Silly? Same thing. If you ain’t ever visit, our hands are our maps. Down here is the Mitten, where most of the family live. Up here, past Mackinac Bridge, is the Upper Peninsula where Petey and I build ships and try to survive the winters. But every August, the Van </Text>
+      <Text AdornmentStyle="-1">Otterloo</Text>
+      <Text> family travels from all corners of the state to meet here in Elk Rapids to celebrate-</Text>
     </Paragraph>
-    <Paragraph Type="Character" id="1c5fa3e4-9db5-439d-8ac4-f7f7bfd03738">
-      <Text>LizZIE</Text>
+    <Paragraph Type="Character" id="1a6e74df-d639-4f7f-8941-2e14b26070ac">
+      <Text>Van </Text>
+      <Text AdornmentStyle="-1">OTTERLOOS</Text>
+      <Text> except Liz</Text>
     </Paragraph>
-    <Paragraph Type="Dialogue" id="e2b497e0-798d-4602-aad8-3d0e047b7ffd">
-      <Text>You should put ya parents in a retirement h-</Text>
+    <Paragraph Type="Dialogue" id="eaf4ce0f-3105-4afa-939b-c4d426db0302">
+      <Text>Harbor Days! Who are you talking to?</Text>
     </Paragraph>
-    <Paragraph Type="Character" id="014bf81f-389b-44d4-a961-56d339048b69">
+    <Paragraph Type="Character" id="33fbf3a9-0126-4d9e-91b8-03bd38aa676f">
+      <Text>LIZZIE</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="221d531a-ca2c-40fa-9409-10f0aaecee5b">
+      <Text>Seriously you ask me, but not Willy or Milly?</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="a5aef25b-f017-4f2b-9ef8-bffdc1585df7">
       <Text>WillY &amp; MILLY</Text>
     </Paragraph>
-    <Paragraph Type="Dialogue" id="867db046-3e9d-4a5d-89fe-1c80690e5d51">
-      <Text>Our hearing aids heard that! Maestro?!</Text>
+    <Paragraph Type="Dialogue" id="38a6241c-26e0-4076-8eaa-d1f12dcf2d78">
+      <Text>Lizzie’s a keeper, Petey. Maestro?!</Text>
     </Paragraph>
     <Paragraph Type="Lyrics" id="538d21ed-2a55-4831-8f7e-9f833de30097">
       <Text>Life is complete with our crazy family!</Text>
     </Paragraph>
     <Paragraph Type="Action" id="388663b2-94ce-45e3-9b8c-ff83f385a45b">
-      <Text>The Van </Text>
-      <Text AdornmentStyle="-1">Otterloos</Text>
-      <Text> wear Red Wings.</Text>
-    </Paragraph>
-    <Paragraph Type="Action" id="388663b2-94ce-45e3-9b8c-ff83f385a45b">
-      <Text>Liz points to Elk Rapids using her hand as Michigan.</Text>
+      <Text>The family put on Red Wings gears.</Text>
     </Paragraph>
     <Paragraph Type="Character" id="8e03e32a-6fe0-4cb2-9194-d8b796407ad8">
       <Text>LizZIE</Text>
     </Paragraph>
     <Paragraph Type="Dialogue" id="3223a88f-162b-4241-afc2-cacc3378c579">
-      <Text>Welcome to Harbor Days with the Van </Text>
-      <Text AdornmentStyle="-1">Otterloo</Text>
-      <Text> family! What’s Harbor Days you ask? For four days in August, it's an Elk Rapids tradition. That's all I know. I've gone to these since Petey and I were high school sweethearts. We also go while tailgating Michigan State...</Text>
+      <Text>Each summer, I've been going to Petey’s family reunions since we were high school sweethearts. And while tailgating Michigan State University-</Text>
     </Paragraph>
     <Paragraph Type="Character" id="4dc1a166-8e51-4f73-bf7b-64e6ccda897b">
       <Text>Petey</Text>
@@ -442,25 +457,13 @@ Make yourself comfy.</Text>
       <Text>WillY &amp; MILLY</Text>
     </Paragraph>
     <Paragraph Type="Dialogue" id="13925a1d-71b9-4890-a4ec-705a170f9ed5">
-      <Text>It’s about the Lake House.</Text>
-    </Paragraph>
-    <Paragraph Type="Character" id="fa76aab1-ced4-4ba1-bae9-ea0d887dc07e">
-      <Text>Willy</Text>
-    </Paragraph>
-    <Paragraph Type="Dialogue" id="33c73484-60d9-42a7-879e-29308ecbee8a">
-      <Text>My genius, Milly. She invented the auto-toilet then flushed her money to buy this Lake House.</Text>
-    </Paragraph>
-    <Paragraph Type="Character" id="855b51cb-f12e-4d21-a365-621b45fa9a06">
-      <Text>MILLY</Text>
-    </Paragraph>
-    <Paragraph Type="Dialogue" id="0f7924b7-1401-4193-8e99-164c3c3858c1">
-      <Text>That ain't how you use the expression, sweetie. Well, my creative Willy tends to our garden.</Text>
+      <Text>It’s about Lake House we built!</Text>
     </Paragraph>
     <Paragraph Type="Character" id="f303367c-718e-4b96-8995-33d0bf9a392c">
       <Text>WILLY</Text>
     </Paragraph>
     <Paragraph Type="Dialogue" id="0a8b423f-bb46-409d-b505-b3b50356d8d8">
-      <Text>Did you put a turtle in the koi pond? That turtle ate all of our koi fish!</Text>
+      <Text>And our koi pond! Milly, did you put a turtle in it? She ate all of our koi fish!</Text>
     </Paragraph>
     <Paragraph Type="Character" id="59b648e6-f758-4aca-ae4c-331a0cd8d21c">
       <Text>CherRY</Text>
@@ -472,7 +475,7 @@ Make yourself comfy.</Text>
       <Text>LizZIE</Text>
     </Paragraph>
     <Paragraph Type="Dialogue" id="6e63fcfa-d21e-4157-b5cf-09fad5286c6f">
-      <Text>She’s Petey's oldest sister, Cherry Van </Text>
+      <Text>Petey's oldest sister, Cherry Van </Text>
       <Text AdornmentStyle="-1">Otterloo</Text>
       <Text> </Text>
       <Text AdornmentStyle="-1">Jacobowitz</Text>
@@ -491,7 +494,7 @@ Make yourself comfy.</Text>
       <Text>CHERRY</Text>
     </Paragraph>
     <Paragraph Type="Dialogue" id="d2ae8703-dcaf-4107-b64f-27f137a391b6">
-      <Text>The only pucks I give is winning the Most Creative Award at the annual Grande Parade.</Text>
+      <Text>The only pucks I give is winning another Most Creative Award at the annual Grande Parade.</Text>
     </Paragraph>
     <Paragraph Type="Character" id="7ef53cda-9a85-41b4-b205-39ed03aee04d">
       <Text>LIZZIE</Text>
@@ -650,6 +653,12 @@ Make yourself comfy.</Text>
     <Paragraph Type="Dialogue" id="bf8a1dc8-5dee-481f-832b-6502bbe4e795">
       <Text>Immigrants built the coasts, harbors, country.</Text>
     </Paragraph>
+    <Paragraph Type="Character" id="b181e46f-032b-48b2-9a9b-eac5e590c0d9">
+      <Text>LizZIE</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="427c64d6-92fa-4606-8b2e-f506c199d6f8">
+      <Text>Only community can outlast an economic crash!</Text>
+    </Paragraph>
     <Paragraph Type="Action" id="7c3e753b-5b3c-4401-a802-89f89597afd1">
       <Text>The Michigan communities from the Amish to Jewish, Christians to Muslims, auto workers to farmers, college sport fans to trade school artisans make themselves known.</Text>
     </Paragraph>
@@ -789,9 +798,11 @@ Our cherry farms are the cherry on top!</Text>
     <Paragraph Type="Dialogue" id="4f69af47-c920-4728-abf8-c23b14f45190">
       <Text>BANH </Text>
       <Text AdornmentStyle="-1">MIchigan</Text>
-      <Text>, a Vietnamese family-owned restaurant in Elk Rapids, Michigan. Home to Banh Mi Thit, Banh Mi Heo, Banh Mi </Text>
+      <Text>, a Vietnamese family-owned restaurant in Elk Rapids, Michigan. Home to Banh Mi Thit, Mi </Text>
+      <Text AdornmentStyle="-1">Heo</Text>
+      <Text>, Mi </Text>
       <Text AdornmentStyle="-1">Xiu</Text>
-      <Text> Mai, Banh Mi Ga </Text>
+      <Text> Mai, Mi Ga </Text>
       <Text AdornmentStyle="-1">Nuong</Text>
       <Text>, and home to our latest Detroit-style Banh Mi-</Text>
     </Paragraph>
@@ -835,13 +846,20 @@ Our cherry farms are the cherry on top!</Text>
       <Text>Petey</Text>
     </Paragraph>
     <Paragraph Type="Dialogue" id="7b5a74f7-95c3-4a80-b6fe-57ff6a2159e7">
-      <Text>Always able to make Banh Mi for everyone.</Text>
+      <Text>With this recession, I don’t know if we can afford to break those special kinds of bread.</Text>
     </Paragraph>
-    <Paragraph Type="Character" id="eecc4b41-7887-46c4-895d-380fef589d04">
+    <Paragraph Type="Character" id="48152611-43b8-4997-81f7-c19c6023dc1d">
       <Text>JASPER</Text>
     </Paragraph>
-    <Paragraph Type="Dialogue" id="b428927f-01e7-474b-9211-f1cb861dfb7f">
-      <Text>Cause Banh Mi is you and me!</Text>
+    <Paragraph Type="Dialogue" id="189d25da-c0ad-4bfe-bd5c-bce5124443c6">
+      <Text>To me, the Van </Text>
+      <Text AdornmentStyle="-1">Otterloos</Text>
+      <Text> bred the most special folks in my- </Text>
+      <Text Style="Italic">our</Text>
+      <Text> lives. Banh Mi’s always on me.</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="d5fdc825-e390-4874-8c2b-355e98bc9ee7">
+      <Text>Perry fidgets with a radio.</Text>
     </Paragraph>
     <Paragraph Type="Character" id="1a32c08c-09fd-43a4-b956-fa74616f13cd">
       <Text>Van </Text>
@@ -856,24 +874,11 @@ Our cherry farms are the cherry on top!</Text>
     <Paragraph Type="Lyrics" id="2d3e2f28-363a-4108-8bb1-2aa95e03ff9f">
       <Text>Right wing radio!</Text>
     </Paragraph>
-    <Paragraph Type="Character" id="da35f1b0-fc58-49dc-acef-bfa7d7e3169a">
-      <Text>PeteY</Text>
+    <Paragraph Type="Character" id="91d93234-167c-446d-9e4b-bcde3a300c1b">
+      <Text>LizZIE</Text>
     </Paragraph>
-    <Paragraph Type="Dialogue" id="523064aa-50eb-4af2-92f7-5c1c8fd78246">
-      <Text>Ah, I see...</Text>
-    </Paragraph>
-    <Paragraph Type="Character" id="cbb0551e-f6e5-4777-85b8-fe670dc45faf">
-      <Text>CherrY</Text>
-    </Paragraph>
-    <Paragraph Type="Dialogue" id="2ab262e1-edcc-4ba5-811d-145c9d6afecf">
-      <Text AdornmentStyle="-1">Outta</Text>
-      <Text> all of us...</Text>
-    </Paragraph>
-    <Paragraph Type="Character" id="3ba01d09-7646-4be8-9512-961004e50b42">
-      <Text>ShelBY</Text>
-    </Paragraph>
-    <Paragraph Type="Dialogue" id="00b752e1-8f8c-4b08-92a8-9dd2ab19b8cd">
-      <Text>You’re coocoo.</Text>
+    <Paragraph Type="Dialogue" id="d1284ca0-95e5-4e47-94ed-b982c70b480c">
+      <Text>Every family needs the crazy aunt...</Text>
     </Paragraph>
     <Paragraph Type="Character" id="abb6998e-e4d2-41dd-90f1-dd2cdf15a337">
       <Text>Petey, CHERRY, SHELBY</Text>
@@ -895,9 +900,11 @@ Our cherry farms are the cherry on top!</Text>
       <Text>Radio (O.S.)</Text>
     </Paragraph>
     <Paragraph Type="Dialogue" id="8e32de92-47dd-4da7-862d-06e1bd6e6fc3">
-      <Text>We have a special guest on The Patriot. Amanda Wayland, </Text>
+      <Text>Here on </Text>
+      <Text Style="Italic">The Patriot</Text>
+      <Text> is a special guest: Amanda Wayland, </Text>
       <Text AdornmentStyle="-1">CEO</Text>
-      <Text> of the creative startup, Turkey Ventures. First, we express our condolences for your loss.</Text>
+      <Text> of the creative startup, Turkey Ventures. First, we express our condolences.</Text>
     </Paragraph>
     <Paragraph Type="Character" id="b0952951-76b7-491d-8f2a-eee8d1715ecc">
       <Text>CherrY</Text>
@@ -909,7 +916,7 @@ Our cherry farms are the cherry on top!</Text>
       <Text>AmaNDA</Text>
     </Paragraph>
     <Paragraph Type="Dialogue" id="a2ad4f95-aadd-49a8-9431-b8f601a30d5b">
-      <Text>Life’s been incomplete without my cofounder. But we believe what would complete the lives of many going through grief... and that is AI.</Text>
+      <Text>Life’s been incomplete without Conor. To fight grief- Life can be made complete again with AI.</Text>
     </Paragraph>
     <Paragraph Type="Character" id="3d2769f6-1e07-44c0-9f68-e4c287c9a649">
       <Text>RadiO</Text>
@@ -938,28 +945,28 @@ Our cherry farms are the cherry on top!</Text>
       <Text>ChERRY</Text>
     </Paragraph>
     <Paragraph Type="Dialogue" id="d20922b4-f5f3-4bb3-a037-d154238b567f">
-      <Text>Too bad she didn’t have art intelligence. She wouldn’t been expelled from our art school.</Text>
+      <Text>If she had real intelligence, she wouldn’t have been expelled from art school at Hope College-</Text>
     </Paragraph>
     <Paragraph Type="Character" id="4b44682d-51b4-4b72-bf2e-dc3d7a296775">
       <Text>PERRY</Text>
     </Paragraph>
     <Paragraph Type="Dialogue" id="95cf09e2-0b4d-454e-8bad-a6a0a557a015">
-      <Text>Cut her some slack. She lost her cofounder.</Text>
+      <Text>Cut her some slack. She lost all hope.</Text>
     </Paragraph>
     <Paragraph Type="Character" id="268176f2-cf8d-4e03-880e-caddd9866bbc">
       <Text>CHERRY</Text>
     </Paragraph>
     <Paragraph Type="Dialogue" id="2eda3818-96e1-4811-9ea6-99c8b5e632d0">
-      <Text>I’d cut her if she hadn’t stabbed me in the back. Boo </Text>
+      <Text>I’d cut her for stabbing me in the back. Boo </Text>
       <Text AdornmentStyle="-1">hoo</Text>
-      <Text>, she’s going through loss. She didn’t need to lose her artistic integrity too.</Text>
+      <Text>, she lost her artistic integrity too.</Text>
     </Paragraph>
     <Paragraph Type="Character" id="1c4ffb17-705b-4657-933f-cfe54df0edc9">
-      <Text>Amanda &amp; </Text>
-      <Text AdornmentStyle="-1">Van Otterloos</Text>
+      <Text>Amanda &amp; Van </Text>
+      <Text AdornmentStyle="-1">Otterloos</Text>
     </Paragraph>
     <Paragraph Type="Lyrics" id="ed3fd50d-c5bf-4c33-832e-1e2d58cd04ce">
-      <Text>Life ain’t complete with enemies and rivalries.</Text>
+      <Text>Life ain’t complete without enemies and rivalries.</Text>
     </Paragraph>
     <Paragraph Type="Action" id="16686d39-8cf1-40f2-9ca4-a9e71561acb8">
       <Text>Willy drives in the Ford Model T.</Text>
@@ -10555,7 +10562,7 @@ M-i-c-h-g-a-n michigan!</Text>
 
   <WindowState Height="635" Left="2" Mode="Maximized" Top="2" Width="649"/>
 
-  <TextState Scaling="100" Selection="48373,48383" ShowInvisibles="No"/>
+  <TextState Scaling="100" Selection="7236,7236" ShowInvisibles="No"/>
 
   <ElementSettings Type="General">
     <FontSpec AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style=""/>
@@ -11589,6 +11596,7 @@ M-i-c-h-g-a-n michigan!</Text>
     <Character Color="#RRRRGGGGBBBB" Name="RESIDENTS" Visible="No"/>
     <Character Color="#RRRRGGGGBBBB" Name="SHELBY" Visible="No"/>
     <Character Color="#RRRRGGGGBBBB" Name="VAN OTTERLOOS" Visible="No"/>
+    <Character Color="#RRRRGGGGBBBB" Name="VAN OTTERLOOS EXCEPT LIZ" Visible="No"/>
     <Character Color="#RRRRGGGGBBBB" Name="VAN OTTERLOOS W/O CHERRY" Visible="No"/>
     <Character Color="#RRRRGGGGBBBB" Name="VAN OTTERLOOS W/O CHERRY, LIZ" Visible="No"/>
     <Character Color="#RRRRGGGGBBBB" Name="VAN OTTERLOOS W/O KIDS,LIZ,SHELBY" Visible="No"/>
@@ -11679,7 +11687,7 @@ M-i-c-h-g-a-n michigan!</Text>
   </Characters>
 
   <ScriptNotes>
-    <ScriptNote Color="#RRRRGGGGBBBB" DateModified="20260921T092508" DateTime="20260914T171215" Id="1" Name="" Range="44411,44430" Type="" WriterID="4eedcf62-5cdf-433a-a0aa-782742503b18" WriterName="David Quang Pham">
+    <ScriptNote Color="#RRRRGGGGBBBB" DateModified="20260921T092508" DateTime="20260914T171215" Id="1" Name="" Range="44596,44615" Type="" WriterID="4eedcf62-5cdf-433a-a0aa-782742503b18" WriterName="David Quang Pham">
       <Paragraph Alignment="Left" FirstIndent="1.94" Leading="Regular" LeftIndent="1.94" RightIndent="0.00" SpaceBefore="12" Spacing="1" StartsNewPage="No" Type="Action">
         <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">[History: Amanda and Conor Wayland are a sister-brother duo from Muskegon, known for artworks portraying the human condition with the intent to improve human connection. They received Bachelors of Science in Engineering with a major in computer engineering with honors from the University of Michigan. But Amanda moved on to studio art at Hope College where she befriends Cherry Jacobowitz, a mother returning to finish her education. Conor revolutionizes and paves a way for AI in art which Amanda initially was a skeptic of. He starts Turkey Ventures, based on turkey vultures, who symbolize healers who remove sickness from the world. Leading up to the 2007 recession, Conor leaped off the Mackinac Bridge, devastating Amanda. Her creative spirit also died. She gets expelled for using technology to quicken her assignments. She took over Turkey Ventures, developing many AI systems with AfterLife.AI being her prized work. AL.AI is meant to bring the dead, whether a loved one or stranger, back to life as a digital avatar. AL.AI uses intense amount of water to do so. Amanda sees this as a way to prevent suicide, as Conor wallowed in loneliness. She will do anything to save lives, even if it meant bulldozing every lake town to make more data centers to bring AL.AI closer to reality. She believes in her motto: "starving artists no more."]</Text>
       </Paragraph>
